@@ -53,6 +53,8 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
 4. Run [Sophos HitmanPro](http://get.hitmanpro.com/)
    1. Very cool malware scanner.
 
+----
+
 Below this line is for more advanced/tech literate people and if you have contacted me as a friend and are still experiencing problems, its time to contacted me again.
 
 - Contents Below the Line
@@ -75,7 +77,7 @@ Below this line is for more advanced/tech literate people and if you have contac
 
 ## Helpful and Specialized Tools
 
-- **Adb Blocker**
+- **Ad Blocker**
   - uBlock Origin Browser Extension (Firefox, Chrome, Edge and Opera) [GitHub Repo](https://github.com/gorhill/uBlock)
     - <code>ublock.org</code> is not a official site.
 - **Adware Cleaner**
