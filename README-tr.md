@@ -9,8 +9,8 @@ Anlamadığım bazı nedenlerden dolayı birçok arkadaşımın Virüs / Kötü 
   - [Başlamadan Önce](#başlamadan-önce)
   - [Çalıştırılacak Araçlar](#çalıştırılacak-araçlar)
   - [Yararlı ve Özel Araçlar](#yararlı-ve-özel-araçlar)
-  - [Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları (To Translate)](#fidye-yazılımı-şifre-çözme-ve-tanımlama-araçları-to-translate)
-  - [Referanslar (To Translate)](#referanslar-to-translate)
+  - [Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları](#fidye-yazılımı-şifre-çözme-ve-tanımlama-araçları)
+  - [Referanslar](#referanslar)
 
 ## Ön Bİlgi
 
@@ -58,8 +58,8 @@ Buraya benimle iletişime geçerek geldiyseniz ve hala sorun yaşıyorsanız, be
 
 - Çizginin Altındaki Içerik
   - [Yararlı ve Özel Araçlar](#yararlı-ve-özel-araçlar)
-  - [Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları (To Translate)](#fidye-yazılımı-şifre-çözme-ve-tanımlama-araçları-to-translate)
-  - [Referanslar (To Translate)](#referanslar-to-translate)
+  - [Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları](#fidye-yazılımı-şifre-çözme-ve-tanımlama-araçları)
+  - [Referanslar](#referanslar)
 
 [Yukarı Çıkın](#kötü-amaçlı-yazılım-kaldırma-kılavuzu)
 
@@ -88,29 +88,29 @@ Buraya benimle iletişime geçerek geldiyseniz ve hala sorun yaşıyorsanız, be
   - McAfee [McAfee RootKitRemover](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/rootkitremover.html)
   - Malwarebytes [Anti-Rootkit](https://www.malwarebytes.com/antirootkit/)
 
-## Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları (To Translate)
+## Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları
 
-| Vendor                                   | Name and Link                                        | Decryption / Identification | Notes                                  |
+| Marka                                   | İsim and Link                                        | Şifre Çözme / Tanımlama | Notlar                                  |
 | ---------------------------------------- | -----------------------------------------------------| --------------------------- | --------------------------------------|
-| NoMoreRansom.org and EUROPOL             | [Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php?lang=en)                                                  | Identification              |                                                                                                  |
-| Malwarehunterteam                        | [Ransomware Identification](https://id-ransomware.malwarehunterteam.com/)                                                  | Identification              |                                                                                                  |
-| Avast                                    | [Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)                                           | Decryption                  |                                                                                                  |
-| Emsisoft                                 | [Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)                                       | Decryption                  | Has a very nice and easy to use Ransomware Identifier                                            |
-| Eset                                     | [Stand-Alone Malware Removal Tools](https://support.eset.com/en/kb2372-stand-alone-malware-removal-tools)                  | Decryption                  |                                                                                                  |
-| Kaspersky Lab                            | [Ransomware Decryption Tools](https://noransom.kaspersky.com/)                                                             | Decryption                  |                                                                                                  |
-| NoMoreRansom.org and EUROPOL             | [Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)                                                  | Decryption                  |                                                                                                  |
-| McAfee                                   | [McAfee Ransomware Recover (Mr2)](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/ransomware-decryption.html) | Decryption                  |                                                                                                  |
-| AVG                                      | [Ransomware Decryption Tools](https://www.avg.com/en-ww/ransomware-decryption-tools)                                       | Decryption                  |                                                                                                  |
-| QuickHeal                                | [Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)                                   | Decryption                  |                                                                                                  |
-| Old Github Repo for Decryption Tools     | [All-in-One Ransomware Decryption Tools](https://github.com/jamestiotio/NoMoreRansom)                                      | Decryption                  | Long list of URLs, but the repo is 4 year old.                                                    |
-| Old Github Repo for Decryption Tools - 2 | [Ransomware Decryptor List](https://github.com/alternat0r/Ransomware-Decryptor-List)                                       | Decryption                  | A similar repo to this one, but it has all the executables for decryption and it is 3 years old. |
-| Cisco Talos Github Repo                  | [Decryption Tools](https://github.com/Cisco-Talos?q=decryptor&type=&language=)                                             | Decryption                  |                                                                                                  |
-| Heimdal Security Blog                    | [Decryption Tools List](https://heimdalsecurity.com/blog/ransomware-decryption-tools/)                                     | Decryption                  |                                                                                                  |
-| BleepingComputer                         | [Windows Ransomware Decryptor Download Exec's](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)   | Decryption                  |
+| NoMoreRansom.org and EUROPOL             | [Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php?lang=en)                                                  | Tanımlama              |                                                                                                  |
+| Malwarehunterteam                        | [Ransomware Identification](https://id-ransomware.malwarehunterteam.com/)                                                  | Tanımlama              |                                                                                                  |
+| Avast                                    | [Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)                                           | Şifre Çözme                  |                                                                                                  |
+| Emsisoft                                 | [Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)                                       | Şifre Çözme                  | Çok güzel ve kullanımı kolay bir Fidye Yazılımı Tanımlayıcısına sahiptir.                                            |
+| Eset                                     | [Stand-Alone Malware Removal Tools](https://support.eset.com/en/kb2372-stand-alone-malware-removal-tools)                  | Şifre Çözme                  |                                                                                                  |
+| Kaspersky Lab                            | [Ransomware Decryption Tools](https://noransom.kaspersky.com/)                                                             | Şifre Çözme                  |                                                                                                  |
+| NoMoreRansom.org and EUROPOL             | [Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)                                                  | Şifre Çözme                  |                                                                                                  |
+| McAfee                                   | [McAfee Ransomware Recover (Mr2)](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/ransomware-decryption.html) | Şifre Çözme                  |                                                                                                  |
+| AVG                                      | [Ransomware Decryption Tools](https://www.avg.com/en-ww/ransomware-decryption-tools)                                       | Şifre Çözme                  |                                                                                                  |
+| QuickHeal                                | [Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)                                   | Şifre Çözme                  |                                                                                                  |
+| Şifre Çözme Araçları için Eski Github Repo     | [All-in-One Ransomware Decryption Tools](https://github.com/jamestiotio/NoMoreRansom)                                      | Şifre Çözme                  | Uzun bir URL listesi, ancak repo 4 yıllık.                                                    |
+| Şifre Çözme Araçları için Eski Github Repo - 2 | [Ransomware Decryptor List](https://github.com/alternat0r/Ransomware-Decryptor-List)                                       | Şifre Çözme                  | Benim repoma benzer bir repo, ancak şifre çözme için tüm çalıştırılabilir dosyalara sahip ve 3 yıllık. |
+| Cisco Talos Github Repo                  | [Decryption Tools](https://github.com/Cisco-Talos?q=decryptor&type=&language=)                                             | Şifre Çözme                  |                                                                                                  |
+| Heimdal Security Blog                    | [Decryption Tools List](https://heimdalsecurity.com/blog/ransomware-decryption-tools/)                                     | Şifre Çözme                  |                                                                                                  |
+| BleepingComputer                         | [Windows Ransomware Decryptor Download Exec's](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)   | Şifre Çözme                  |
 
-**NOTE:** Many security companies, including some of the ones listed above, have additional ransomware decryptors available, but do not list them publicly. If you have a system affected by ransomware, contact your security software provider for the latest information and assistance.
+**NOTE:** Yukarıda listelenenlerin bazıları da dahil olmak üzere birçok güvenlik şirketi, ek fidye yazılımı şifre çözücülere sahiptir, ancak bunları herkese açık olarak listelemez. Fidye yazılımından etkilenen bir sisteminiz varsa, en son bilgiler ve yardım için listedeki şirketlere başvurabilirsiniz.
 
-- Some Forum Lists in case you need help
+- Yardıma ihtiyacınız olması durumunda bazı Forumlar 
   - [Major Geeks Forum](https://forums.majorgeeks.com/)
   - [Malware Removal Forum](https://www.malwareremoval.com/forum/)
   - [Bleeping Computer Virus, Spyware, Malware, & PUP Removal Guides](https://www.bleepingcomputer.com/virus-removal/)
@@ -120,11 +120,11 @@ Buraya benimle iletişime geçerek geldiyseniz ve hala sorun yaşıyorsanız, be
   - [Tech Spot Forum](https://www.techspot.com/community/forums/virus-and-malware-removal.28/)
   - [Malwaretips - Malware Removal Help](https://malwaretips.com/categories/malware-removal-help.9/)
 
-## Referanslar (To Translate)
+## Referanslar
 
-- Amazing Info by [r/techsupport Wiki Site](https://rtech.support/)
+- [r/techsupport Wiki Site](https://rtech.support/)
 - [r/techsupport Wiki](https://www.reddit.com/r/techsupport/wiki/index)
-- Very in-depth info by [r/antivirus Wiki](https://www.reddit.com/r/antivirus/wiki/index)
+- [r/antivirus Wiki](https://www.reddit.com/r/antivirus/wiki/index)
 - [Cool Web Tools for analysis or testing](https://www.reddit.com/r/antivirus/wiki/index#wiki_web_tools)
 - [Second-Opinion Scanners](https://www.reddit.com/r/antivirus/wiki/index#wiki_second-opinion_scanners)
 - [Redirect Virus problem](https://www.2-viruses.com/how-to-fix-google-redirect-virus-browser-hijacker-problem)
