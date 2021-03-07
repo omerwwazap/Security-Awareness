@@ -2,6 +2,14 @@
 
 Made this because for some reason lots of friends were asking about Virus/Malware removal, so this is a small guide to help them out.
 
+- [Malware-Removal-Guide](#malware-removal-guide)
+  - [Disclaimer](#disclaimer)
+  - [Pre-requisites for These to Work](#pre-requisites-for-these-to-work)
+  - [Tools to Run](#tools-to-run)
+  - [Helpful and Specialized Tools](#helpful-and-specialized-tools)
+  - [Ransomware Decryption and Identification Tools](#ransomware-decryption-and-identification-tools)
+  - [References](#references)
+
 ## Disclaimer
 
 - The following instructions are recommendations only.
@@ -21,7 +29,7 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
   - Go into your browser’s extensions and remove all suspicious items, if there are any.
   - Remove any default search providers and unusual homepages, if there are any.
 
-## Tools to Run
+## Tools to Run 
 
 1. Download and run [rkill](https://www.bleepingcomputer.com/download/rkill/dl/10/)
    1. Could take a couple minutes to run.
@@ -46,13 +54,21 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
 
 Below this line is for more advanced/tech literate people and if you have contacted me as a friend and are still experiencing problems, its time to contacted me again.
 
+- Contents Below the Line 
+  - [Helpful and Specialized Tools](#helpful-and-specialized-tools)
+  - [Ransomware Decryption and Identification Tools](#ransomware-decryption-and-identification-tools)
+  - [References](#references)
+
+[Go To Top](#malware-removal-guide)
+
 ---
-**If the above do not solve your problem do the following.** TO DO
+
+**If the above do not solve your problem do the following.**
 
 1. [Rogue Killer](https://www.adlice.com/roguekiller/#alt_download)
-3. [Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
-4. [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/thank-you/free-virus-removal-tool)
-5. [ESET Online Scanner](https://www.eset.com/us/home/online-scanner/?intcmp=intrw)
+2. [Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
+3. [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/thank-you/free-virus-removal-tool)
+4. [ESET Online Scanner](https://www.eset.com/us/home/online-scanner/?intcmp=intrw)
 
 **Note:** If a virus/malware has stopped you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](https://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all options checked.
 
@@ -114,3 +130,5 @@ Below this line is for more advanced/tech literate people and if you have contac
 - [Second-Opinion Scanners](https://www.reddit.com/r/antivirus/wiki/index#wiki_second-opinion_scanners)
 - [Redirect Virus problem](https://www.2-viruses.com/how-to-fix-google-redirect-virus-browser-hijacker-problem)
 - [Information on Browser Hijacker](https://www.bleepingcomputer.com/virus-removal/threat/browser-hijacker/)
+
+[Go To Top](#malware-removal-guide)
