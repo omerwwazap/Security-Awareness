@@ -1,6 +1,6 @@
 # Malware-Removal-Guide
 
-Made this because for some reason lots of friends were asking about Virus/Malware removal so this is a small guide to help them out.
+Made this because for some reason lots of friends were asking about Virus/Malware removal, so this is a small guide to help them out.
 
 ## Disclaimer
 
@@ -10,7 +10,7 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
 
 - System that successfully boots
 - **Do NOT use this guide if your system has a form of malware that encrypts your files**
-  - For that use this [x](x)
+  - For that go [here](#for-ransomware-type-malware-to-do) but it will be better if you contact a professional.
 - **For Windows only**
 - All tools should be run in Normal Mode (not Safe Mode) unless you are unable to boot Normal Mode, or if the scans fails in Normal Mode.
 - All tools must be run under an Administrator account.
