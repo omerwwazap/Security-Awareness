@@ -59,6 +59,16 @@ Below this line is for more advanced/tech literate people and if you have contac
 1. Will be aded later 2
 2. https://www.reddit.com/r/antivirus/wiki/index#wiki_anti-ransomware_tools
 3. https://rtech.support/books/safety-and-security/page/ransomware
+4. https://www.nomoreransom.org/en/decryption-tools.html
+5. https://www.mcafee.com/enterprise/en-us/downloads/free-tools/ransomware-decryption.html
+6. https://heimdalsecurity.com/blog/ransomware-decryption-tools/
+7. https://noransom.kaspersky.com/
+8. https://www.avg.com/en-ww/ransomware-decryption-tools
+9. https://www.avast.com/ransomware-decryption-tools
+10. https://www.quickheal.com/free-ransomware-decryption-tool/
+11. https://www.emsisoft.com/ransomware-decryption-tools/
+
+**NOTE:** Many security companies, including some of the ones listed above, have additional ransomware decryptors available, but do not list them publicly. If you have a system affected by ransomware, contact your security software provider for the latest information and assistance.
 
 ## Do not use any of these programs (To Do)
 
