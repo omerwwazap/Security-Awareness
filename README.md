@@ -88,7 +88,7 @@ Below this line is for more advanced/tech literate people and if you have contac
   10. Old Github Repo for Decryption Tools - [Ransomware Decryptor List](https://github.com/alternat0r/Ransomware-Decryptor-List)
   11. **Cisco Talos Github Repo** - [Decryption Tools](https://github.com/Cisco-Talos?q=decryptor&type=&language=)
   12. **Heimdal Security Blog** - [Decryption Tools List](https://heimdalsecurity.com/blog/ransomware-decryption-tools/)
-  13. BleepingComputer - [Windows Ransomware Decryptors DOnwload Exec's](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)
+  13. BleepingComputer - [Windows Ransomware Decryptor Download Exec's](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)
 - Help by Forum - List
   1. [Major Geeks Forum](https://forums.majorgeeks.com/)
   2. [Malware Removal Forum](https://www.malwareremoval.com/forum/)
