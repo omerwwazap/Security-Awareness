@@ -35,7 +35,40 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
    3. Fixes proxy settings changed by malware
    4. Removes certain non-default browser settings
 
-If these do not solve your problem do the following
+Below this line is for more advanced/tech literate people and if you have contacted me as a friend and are still experiencing problems, its time to contacted me again.
+
+---
+**If the above do not solve your problem do the following list By; [Second-Opinion Scanners](https://www.reddit.com/r/antivirus/wiki/index#wiki_second-opinion_scanners)**
 
 1. Run [Sophos HitmanPro](http://get.hitmanpro.com/)
    1. Very cool malware scanner.
+2. Will be aded later 2 [Trend-Micro Rootkitbuster](https://www.bleepingcomputer.com/download/trend-micro-rootkitbuster/)
+3. Will be aded later 3 [Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
+4. Will be aded later 4 [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/thank-you/free-virus-removal-tool)
+5. Will be aded later 5 [ESET Online Scanner](https://www.eset.com/us/home/online-scanner/?intcmp=intrw)
+
+**Note:** If a virus/malware has stopped you from browsing the web or downloading files, you can try running the [NetAdapter Repair Tool](https://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) with all options checked.
+
+## Helpful and Specialized Tools (To Do)
+
+- uBlock Origin Browser Extension (Blocks ads)
+- https://www.reddit.com/r/antivirus/wiki/index#wiki_specialized_tools
+
+## For Ransomware Type Malware (To Do)
+
+1. Will be aded later 2
+2. https://www.reddit.com/r/antivirus/wiki/index#wiki_anti-ransomware_tools
+3. https://rtech.support/books/safety-and-security/page/ransomware
+
+## Do not use any of these programs (To Do)
+
+- https://rtech.support/books/software-we-recommend/page/blacklist
+- https://rtech.support/books/software-we-recommend/page/windows-maintenance
+
+## References
+
+- Amazing Info by [r/techsupport Wiki Site](https://rtech.support/)
+- [r/techsupport Wiki](https://www.reddit.com/r/techsupport/wiki/index)
+- Very in-depth info by [r/antivirus Wiki](https://www.reddit.com/r/antivirus/wiki/index)
+- [Cool Web Tools for analysis or testing](https://www.reddit.com/r/antivirus/wiki/index#wiki_web_tools)
+- 
