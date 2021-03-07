@@ -2,7 +2,6 @@
 
 [![Maintenance](https://img.shields.io/badge/Repo_Status-Semi_Active-yellow.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/omerwwazap/omerwwazap/Malware-Removal-Guide.svg)](http://hits.dwyl.com/omerwwazap/omerwwazap/Malware-Removal-Guide) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-
 Made this because for some reason lots of friends were asking about Virus/Malware removal, so this is a small guide to help them out.
 
 - [Malware-Removal-Guide](#malware-removal-guide)
@@ -17,7 +16,7 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
 
 - The following instructions are recommendations only.
 - Give Windows Defender a try as your main Anti-Virus program;
-    - It is more than adequate for consumers.
+  - It is more than adequate for consumers.
     - Much better than running a free AV suite that is of lesser quality or plans to sell your personal habits for profit (MCafee, Avast, AVG, etc)
 - **For Windows only**
 
@@ -32,7 +31,7 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
   - Go into your browser’s extensions and remove all suspicious items, if there are any.
   - Remove any default search providers and unusual homepages, if there are any.
 
-## Tools to Run 
+## Tools to Run
 
 1. Download and run [rkill](https://www.bleepingcomputer.com/download/rkill/dl/10/)
    1. Could take a couple minutes to run.
@@ -53,7 +52,6 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
       - Removes certain non-default browser settings
 4. Run [Sophos HitmanPro](http://get.hitmanpro.com/)
    1. Very cool malware scanner.
-
 
 Below this line is for more advanced/tech literate people and if you have contacted me as a friend and are still experiencing problems, its time to contacted me again.
 
@@ -112,7 +110,6 @@ Below this line is for more advanced/tech literate people and if you have contac
 
 **NOTE:** Many security companies, including some of the ones listed above, have additional ransomware decryptors available, but do not list them publicly. If you have a system affected by ransomware, contact your security software provider for the latest information and assistance.
 
-
 - Some Forum Lists in case you need help
   1. [Major Geeks Forum](https://forums.majorgeeks.com/)
   2. [Malware Removal Forum](https://www.malwareremoval.com/forum/)
@@ -121,8 +118,7 @@ Below this line is for more advanced/tech literate people and if you have contac
   5. [MalwareTips](https://malwaretips.com/)
   6. [**Malwarebytes** Forum](https://forums.malwarebytes.com/)
   7. [Tech Spot Forum](https://www.techspot.com/community/forums/virus-and-malware-removal.28/)
-  8.  [Malwaretips - Malware Removal Help](https://malwaretips.com/categories/malware-removal-help.9/)
-
+  8. [Malwaretips - Malware Removal Help](https://malwaretips.com/categories/malware-removal-help.9/)
 
 ## References
 
