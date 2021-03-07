@@ -55,7 +55,7 @@ Made this because for some reason lots of friends were asking about Virus/Malwar
 
 Below this line is for more advanced/tech literate people and if you have contacted me as a friend and are still experiencing problems, its time to contacted me again.
 
-- Contents Below the Line 
+- Contents Below the Line
   - [Helpful and Specialized Tools](#helpful-and-specialized-tools)
   - [Ransomware Decryption and Identification Tools](#ransomware-decryption-and-identification-tools)
   - [References](#references)
@@ -78,7 +78,6 @@ Below this line is for more advanced/tech literate people and if you have contac
 - **Adb Blocker**
   - uBlock Origin Browser Extension (Firefox, Chrome, Edge and Opera) [GitHub Repo](https://github.com/gorhill/uBlock)
     - <code>ublock.org</code> is not a official site.
-- https://www.reddit.com/r/antivirus/wiki/index#wiki_specialized_tools
 - **Adware Cleaner**
   - Malwarebytes [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner)
 - **Anti-Rootkit Program**
