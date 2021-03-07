@@ -58,7 +58,9 @@ Below this line is for more advanced/tech literate people and if you have contac
 
 ## Helpful and Specialized Tools
 
-- uBlock Origin Browser Extension (Blocks ads)
+- **Adb Blocker**
+  - uBlock Origin Browser Extension (Firefox, Chrome, Edge and Opera) [GitHub Repo](https://github.com/gorhill/uBlock)
+    - <code>ublock.org</code> is not a official site.
 - https://www.reddit.com/r/antivirus/wiki/index#wiki_specialized_tools
 - **Adware Cleaner**
   - Malwarebytes [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner)
@@ -71,25 +73,28 @@ Below this line is for more advanced/tech literate people and if you have contac
 
 ## Ransomware Decryption and Identification Tools
 
-- Identification 
-    - **NoMoreRansom.org and EUROPOL** - [Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php?lang=en)
-    - **Malwarehunterteam**-  [Ransomware Identification](https://id-ransomware.malwarehunterteam.com/)
-- Decryption
-  1. **Avast** - [Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)
-  2. **Emsisoft** - [Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)
-     - Has a very nice and easy to use Ransomware Identifier
-  3. **Eset** - [Stand-Alone Malware Removal Tools](https://support.eset.com/en/kb2372-stand-alone-malware-removal-tools)
-  4. **Kaspersky Lab** - [Ransomware Decryption Tools](https://noransom.kaspersky.com/)
-  5. **NoMoreRansom.org and EUROPOL** - [Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)
-  6. **McAfee** - [McAfee Ransomware Recover (Mr2)](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/ransomware-decryption.html)
-  7. **AVG** - [Ransomware Decryption Tools](https://www.avg.com/en-ww/ransomware-decryption-tools)
-  8. **QuickHeal** - [Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)
-  9. Old Github Repo for Decryption Tools - [All-in-One Ransomware Decryption Tools](https://github.com/jamestiotio/NoMoreRansom)
-  10. Old Github Repo for Decryption Tools - [Ransomware Decryptor List](https://github.com/alternat0r/Ransomware-Decryptor-List)
-  11. **Cisco Talos Github Repo** - [Decryption Tools](https://github.com/Cisco-Talos?q=decryptor&type=&language=)
-  12. **Heimdal Security Blog** - [Decryption Tools List](https://heimdalsecurity.com/blog/ransomware-decryption-tools/)
-  13. BleepingComputer - [Windows Ransomware Decryptor Download Exec's](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)
-- Help by Forum - List
+| Vendor                                   | Name and Link                                        | Decryption / Identification | Notes                                  |
+| ---------------------------------------- | -----------------------------------------------------| --------------------------- | --------------------------------------|
+| NoMoreRansom.org and EUROPOL             | [Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php?lang=en)                                                  | Identification              |                                                                                                  |
+| Malwarehunterteam                        | [Ransomware Identification](https://id-ransomware.malwarehunterteam.com/)                                                  | Identification              |                                                                                                  |
+| Avast                                    | [Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools)                                           | Decryption                  |                                                                                                  |
+| Emsisoft                                 | [Ransomware Decryption Tools](https://www.emsisoft.com/ransomware-decryption-tools/)                                       | Decryption                  | Has a very nice and easy to use Ransomware Identifier                                            |
+| Eset                                     | [Stand-Alone Malware Removal Tools](https://support.eset.com/en/kb2372-stand-alone-malware-removal-tools)                  | Decryption                  |                                                                                                  |
+| Kaspersky Lab                            | [Ransomware Decryption Tools](https://noransom.kaspersky.com/)                                                             | Decryption                  |                                                                                                  |
+| NoMoreRansom.org and EUROPOL             | [Decryption Tools](https://www.nomoreransom.org/en/decryption-tools.html)                                                  | Decryption                  |                                                                                                  |
+| McAfee                                   | [McAfee Ransomware Recover (Mr2)](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/ransomware-decryption.html) | Decryption                  |                                                                                                  |
+| AVG                                      | [Ransomware Decryption Tools](https://www.avg.com/en-ww/ransomware-decryption-tools)                                       | Decryption                  |                                                                                                  |
+| QuickHeal                                | [Ransomware Decryption Tool](https://www.quickheal.com/free-ransomware-decryption-tool/)                                   | Decryption                  |                                                                                                  |
+| Old Github Repo for Decryption Tools     | [All-in-One Ransomware Decryption Tools](https://github.com/jamestiotio/NoMoreRansom)                                      | Decryption                  | Long list of URLs, but the repo is 4 year old.                                                    |
+| Old Github Repo for Decryption Tools - 2 | [Ransomware Decryptor List](https://github.com/alternat0r/Ransomware-Decryptor-List)                                       | Decryption                  | A similar repo to this one, but it has all the executables for decryption and it is 3 years old. |
+| Cisco Talos Github Repo                  | [Decryption Tools](https://github.com/Cisco-Talos?q=decryptor&type=&language=)                                             | Decryption                  |                                                                                                  |
+| Heimdal Security Blog                    | [Decryption Tools List](https://heimdalsecurity.com/blog/ransomware-decryption-tools/)                                     | Decryption                  |                                                                                                  |
+| BleepingComputer                         | [Windows Ransomware Decryptor Download Exec's](https://www.bleepingcomputer.com/download/windows/ransomware-decryptors/)   | Decryption                  |
+
+**NOTE:** Many security companies, including some of the ones listed above, have additional ransomware decryptors available, but do not list them publicly. If you have a system affected by ransomware, contact your security software provider for the latest information and assistance.
+
+
+- Some Forum Lists in case you need help
   1. [Major Geeks Forum](https://forums.majorgeeks.com/)
   2. [Malware Removal Forum](https://www.malwareremoval.com/forum/)
   3. [Bleeping Computer Virus, Spyware, Malware, & PUP Removal Guides](https://www.bleepingcomputer.com/virus-removal/)
@@ -100,7 +105,6 @@ Below this line is for more advanced/tech literate people and if you have contac
   8.  [Malwaretips - Malware Removal Help](https://malwaretips.com/categories/malware-removal-help.9/)
 
 
-**NOTE:** Many security companies, including some of the ones listed above, have additional ransomware decryptors available, but do not list them publicly. If you have a system affected by ransomware, contact your security software provider for the latest information and assistance.
 ## References
 
 - Amazing Info by [r/techsupport Wiki Site](https://rtech.support/)
