@@ -8,7 +8,7 @@ Anlamadığım bazı nedenlerden dolayı birçok arkadaşımın Virüs / Kötü 
   - [Ön Bİlgi](#ön-bi̇lgi)
   - [Başlamadan Önce](#başlamadan-önce)
   - [Çalıştırılacak Araçlar](#çalıştırılacak-araçlar)
-  - [Yararlı ve Özel Araçlar (To Translate)](#yararlı-ve-özel-araçlar-to-translate)
+  - [Yararlı ve Özel Araçlar](#yararlı-ve-özel-araçlar)
   - [Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları (To Translate)](#fidye-yazılımı-şifre-çözme-ve-tanımlama-araçları-to-translate)
   - [Referanslar (To Translate)](#referanslar-to-translate)
 
@@ -57,7 +57,7 @@ Bu satırın altında, daha ileri düzey / teknoloji okuryazarı insanlar içind
 Buraya benimle iletişime geçerek geldiyseniz ve hala sorun yaşıyorsanız, benimle tekrar iletişime geçme zamanı
 
 - Çizginin Altındaki Içerik
-  - [Yararlı ve Özel Araçlar](#yararlı-ve-özel-araçlar-to-translate)
+  - [Yararlı ve Özel Araçlar](#yararlı-ve-özel-araçlar)
   - [Fidye Yazılımı Şifre Çözme ve Tanımlama Araçları (To Translate)](#fidye-yazılımı-şifre-çözme-ve-tanımlama-araçları-to-translate)
   - [Referanslar (To Translate)](#referanslar-to-translate)
 
@@ -74,14 +74,14 @@ Buraya benimle iletişime geçerek geldiyseniz ve hala sorun yaşıyorsanız, be
 
 **Note:** Bir virüs / kötü amaçlı yazılım, internete girmenizi veya dosya indirmenizi engelledi ise tüm seçenekler işaretlenmiş olarak, [NetAdapter Repair](https://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/) aracını çalıştırmayı deneyebilirsiniz.
 
-## Yararlı ve Özel Araçlar (To Translate)
+## Yararlı ve Özel Araçlar
 
-- **Adb Blocker**
-  - uBlock Origin Browser Extension (Firefox, Chrome, Edge and Opera) [GitHub Repo](https://github.com/gorhill/uBlock)
-    - <code>ublock.org</code> is not a official site.
-- **Adware Cleaner**
+- **Reklam engelleyici**
+  - uBlock Origin Tarayıcı Uzantısı (Firefox, Chrome, Edge ve Opera) [GitHub Repo](https://github.com/gorhill/uBlock)
+    - <code>ublock.org</code> resmi bir site değildir.
+- **Adware Temizleyici**
   - Malwarebytes [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner)
-- **Anti-Rootkit Program**
+- **Anti-Rootkit Programı**
   - [GMER Anti Rootkit](http://www.gmer.net/#files)
   - Trend-Micro [Rootkitbuster](https://www.bleepingcomputer.com/download/trend-micro-rootkitbuster/)
   - From Kaspersky Lab [TDSSKiller](https://usa.kaspersky.com/downloads/tdsskiller)
