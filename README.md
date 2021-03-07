@@ -110,14 +110,14 @@ Below this line is for more advanced/tech literate people and if you have contac
 **NOTE:** Many security companies, including some of the ones listed above, have additional ransomware decryptors available, but do not list them publicly. If you have a system affected by ransomware, contact your security software provider for the latest information and assistance.
 
 - Some Forum Lists in case you need help
-  1. [Major Geeks Forum](https://forums.majorgeeks.com/)
-  2. [Malware Removal Forum](https://www.malwareremoval.com/forum/)
-  3. [Bleeping Computer Virus, Spyware, Malware, & PUP Removal Guides](https://www.bleepingcomputer.com/virus-removal/)
-  4. [Bleeping Computer Forum](https://www.bleepingcomputer.com/forums/f/79/security/)
-  5. [MalwareTips](https://malwaretips.com/)
-  6. [**Malwarebytes** Forum](https://forums.malwarebytes.com/)
-  7. [Tech Spot Forum](https://www.techspot.com/community/forums/virus-and-malware-removal.28/)
-  8. [Malwaretips - Malware Removal Help](https://malwaretips.com/categories/malware-removal-help.9/)
+  - [Major Geeks Forum](https://forums.majorgeeks.com/)
+  - [Malware Removal Forum](https://www.malwareremoval.com/forum/)
+  - [Bleeping Computer Virus, Spyware, Malware, & PUP Removal Guides](https://www.bleepingcomputer.com/virus-removal/)
+  - [Bleeping Computer Forum](https://www.bleepingcomputer.com/forums/f/79/security/)
+  - [MalwareTips](https://malwaretips.com/)
+  - [**Malwarebytes** Forum](https://forums.malwarebytes.com/)
+  - [Tech Spot Forum](https://www.techspot.com/community/forums/virus-and-malware-removal.28/)
+  - [Malwaretips - Malware Removal Help](https://malwaretips.com/categories/malware-removal-help.9/)
 
 ## References
 
