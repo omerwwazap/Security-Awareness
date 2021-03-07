@@ -2,6 +2,8 @@
 
 [![Maintenance](https://img.shields.io/badge/Repo_Status-Semi_Active-yellow.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/omerwwazap/omerwwazap/Malware-Removal-Guide.svg)](http://hits.dwyl.com/omerwwazap/omerwwazap/Malware-Removal-Guide) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
+For Turkish Version [Click Here](https://github.com/omerwwazap/Malware-Removal-Guide/blob/main/README-tr.md).
+
 Made this because for some reason lots of friends were asking about Virus/Malware removal, so this is a small guide to help them out.
 
 - [Malware-Removal-Guide](#malware-removal-guide)

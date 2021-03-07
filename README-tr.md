@@ -2,6 +2,8 @@
 
 [![Maintenance](https://img.shields.io/badge/Repo_Status-Semi_Active-yellow.svg)](https://shields.io/) [![HitCount](http://hits.dwyl.com/omerwwazap/omerwwazap/Malware-Removal-Guide.svg)](http://hits.dwyl.com/omerwwazap/omerwwazap/Malware-Removal-Guide) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
+İngilizce Versiyon için [buraya tıklayın](https://github.com/omerwwazap/Malware-Removal-Guide).
+
 Anlamadığım bazı nedenlerden dolayı birçok arkadaşımın Virüs / Kötü Amaçlı Yazılımın kaldırılması hakkında soru sorması nedeniyle yaptığım bir çalışma, bu onlara yardımcı olacak küçük bir kılavuzdur.
 
 - [Kötü Amaçlı Yazılım Kaldırma Kılavuzu](#kötü-amaçlı-yazılım-kaldırma-kılavuzu)
