@@ -71,7 +71,7 @@ Below this line is for more advanced/tech literate people and if you have contac
 
 ## Ransomware Decryption and Identification Tools
 
-- Identifying 
+- Identification 
     - **NoMoreRansom.org and EUROPOL** - [Crypto Sheriff](https://www.nomoreransom.org/crypto-sheriff.php?lang=en)
     - **Malwarehunterteam**-  [Ransomware Identification](https://id-ransomware.malwarehunterteam.com/)
 - Decryption
