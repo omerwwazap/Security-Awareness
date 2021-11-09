@@ -4,7 +4,7 @@
 
 More will be added..
 
-| English  | Turkish | Basic Meaning |
+| English  | Turkish | Basic Açıklaması |
 | ------------- | ------------- |----------- |
 | Adware   | Reklam Yazılımı  | Bilgisayarınızda reklamlar görüntülemek, arama isteklerinizi reklamlardan oluşan web sitelerine yeniden yönlendirmek için yazılmışlardır. Günümüzde bir çoğu JavaScript Web miners olarak çalışmaktadır.
 | Web miners  |  Web Tabanlı Kripto Madenciliği  | Web tabanlı (javascript) kripto mining. Girdiğiniz web sitelerinde, sizden habersiz bilgisayarınızı Crypto miner olarak kullanıp kripto para üretmek için yazılmışlardır.
