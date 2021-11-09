@@ -7,6 +7,8 @@
 Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available.
 **This Guide is written like it will be used by some company** 😊
 
+- English to Turkish Cyber Security Terminology and Turkish Expiations
+  - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
 - Malware Removal Guide
   - [Turkish Removal Guide (Not Done)](Malware%20Removal%20Guide/README-tr.md)
   - [English Malware Removal Guide](Malware%20Removal%20Guide/README.md)
