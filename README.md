@@ -6,4 +6,4 @@
 
 Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available.
 
-- [Malware-Removal-Guide](#malware-removal-guide)
+- [Malware Removal Guide](Malware%20Removal%20Guide/README.md)
