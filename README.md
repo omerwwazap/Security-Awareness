@@ -10,7 +10,7 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - English to Turkish Cyber Security Terminology and Turkish Expiations
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
 - Malware Removal Guide
-  - [Turkish Removal Guide (Not Done)](Malware%20Removal%20Guide/README-tr.md)
+  - [Kötü Amaçlı Yazılım Kaldırma Kılavuzu (Bitmedi)](Malware%20Removal%20Guide/README-tr.md)
   - [English Malware Removal Guide](Malware%20Removal%20Guide/README.md)
 - Secondhand Devices Information
   - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
