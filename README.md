@@ -9,15 +9,15 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - Malware Removal Guide
   - [Turkish Removal Guide (Not Done)](Malware%20Removal%20Guide/README-tr.md)
   - [English Malware Removal Guide](Malware%20Removal%20Guide/README.md)
-- Protecting Devices From Viruses Malware Infographic
-  - Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak (Not Done)
-  - No English
-- Dealing with suspicious emails - Phishing
-  - Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek
-  - No English
-- Secondhand Devices Infographic
+- Secondhand Devices Information
   - Kullanılmış Cihazları Satın Alma ve Satma
   - No English
-- Staff Training Infographic
+- Protecting Devices From Viruses and Malware
+  - Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak (Not Done)
+  - No English
+- Staff Training Basic Information
   - Çalışan Eğitim - Çevrimiçi Güvende Kalmak, İpuçları
+  - No English
+- Dealing with Suspicious Emails - Phishing
+  - Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek
   - No English
