@@ -16,7 +16,7 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak (Not Done)
   - No English
 - Staff Training Basic Information
-  - Çalışan Eğitim - Çevrimiçi Güvende Kalmak, İpuçları
+  - Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları
   - No English
 - Dealing with Suspicious Emails - Phishing
   - Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek
