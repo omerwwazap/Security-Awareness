@@ -85,27 +85,45 @@ More will be added..
 | supply chain  | Content Cell  |s
 | threat  actor |  t Cell  |s
 | unauthorized access  | Content Cell  |s
+| authentication   | Content Cell  |s
+| authorization   | Content Cell  |s
+| BYOD (Bring Your Own Device)   | Content Cell  |s
+| clickjacking   | Content Cell  |s
+| DMZ (Demilitarized Zone)  | Content Cell  |s
+| eavesdropping   | Content Cell  |s
+| hacktivism   | Content Cell  |s
+| honeypot  | Content Cell  |s
+| identity cloning  | Content Cell  |s
+| identity fraud  | Content Cell  |s
+| link jacking  | Content Cell  |s
+| SCADA (Supervisory Control and Data Acquisition) | Content Cell  |s
+| Cache | Content Cell  |s
+| Cache Cramming | Content Cell  |s
+| Cache Poisoning  | Content Cell  |s
+| Cipher | Content Cell  |s
+| Ciphertext  | Content Cell  |s
+| Cookie  | Content Cell  |s
+| Domain Name System (DNS)  | Content Cell  |s
+| GNU  | Content Cell  |s
+| National Institute of Standards and Technology (NIST)  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
+| Password Cracking  | Content Cell  |s
+| Password Sniffing  | Content Cell  |s
+| Request for Comment (RFC)  | Content Cell  |s
+| Threat Vector  | Content Cell  |s
+| Threat Model | Content Cell  |s
+| Threat Assessment| Content Cell  |s
+| Wiretapping  | Content Cell  |s
+| TEMPEST  | Content Cell  |s
+| Command and control center (C2 or C&C)  | Content Cell  |s
+| Hacktivism  | Content Cell  |s
+| Skimming  | Content Cell  |s
+| Zip bomb  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
