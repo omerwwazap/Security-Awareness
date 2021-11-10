@@ -5,7 +5,8 @@
 ![Language-Turkish](https://img.shields.io/badge/Language-Turkish-brightgreen)
 
 Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available.
-**This Guide is written like it will be used by some company** 😊
+
+**Information here is written like it will be used by some company** 😊
 
 - English to Turkish Cyber Security Terminology and Turkish Expiations
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
