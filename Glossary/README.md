@@ -124,9 +124,9 @@ More will be added..
 | Hacktivism  | Content Cell  |s
 | Skimming  | Content Cell  |s
 | Zip bomb  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
+| electronic intelligence (ELINT)  | Content Cell  |s
+| imagery intelligence (IMINT)  | Content Cell  |s
+| open source intelligence (OSINT)  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
 | Content Cell  | Content Cell  |s
