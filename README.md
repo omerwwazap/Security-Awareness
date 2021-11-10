@@ -25,3 +25,6 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - Dealing with Suspicious Emails - Phishing
   - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md)
   - No English
+- Actions to take after a data breach
+  - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
+  - No English
