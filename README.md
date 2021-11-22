@@ -30,6 +30,6 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - Securing Personal Devices
   - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md)
 - Shopping
-  - [Güvenli Alışveriş](Shopping/README.md)
+  - Taslak [Güvenli Alışveriş](Shopping/README.md)
 - Social Media
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md)
