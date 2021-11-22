@@ -25,9 +25,15 @@ xxxxxxxxx
 ## Sosyal medya ve çocuklar
 
 xxxxxxxxxxxx
+
 https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/
+
 https://www.internetmatters.org/resources/tech-guide/gaming-consoles-for-children/
+
 https://www.net-aware.org.uk/networks/?order=-popularity&category=Gaming
+
 https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi
+
 https://www.yedam.org.tr/cocuklarin-internet-kullaniminin-barindirdigi-riskler-ve-ebeveynlere-oneriler
+
 https://support.kaspersky.com/KIS4Mac/16.0/tr.lproj/pgs/59194.htm
