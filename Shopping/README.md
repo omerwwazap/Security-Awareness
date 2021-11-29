@@ -4,6 +4,11 @@
 
 Güvenilir site olup olmadıklarını kontrol etmek için, bu siteler hakkında biraz araştırma yapmalısınız. Forumlar, Sosyal Medya platformlarından  geri bildirimleri okuyun veya güvendiğiniz kişilerin verdiği tavsiyeleri dinleyin.
 
+UPDATE HERE
+Alışveriş yapılan siteler E-ticaret Bilgisi Sistemi (eticaret.gov.tr ) üzerinde yer alan “Kayıtlı Site Sorgula” teyit edilebilir. Örneğin bir sorgulama yapıldığında aşağıdaki gibi Doğrulanmış Site bölümünde Yeşil Tick bulunması, kayıtlı olduğu anlamına gelmektedir.
+REF:https://mcansozeri.wordpress.com/2021/05/01/internetten-alisveris-yapilirken-yararlanilabilecek-10-bilgi/
+UPDATE HERE
+
 Harika teklifler hakkında aldığınız e-postalar veya metinler sahte web sitelerine giden link içerebilir, Phishing mailleri olabilir. Emin değil iseniz, linki kullanmayın ve aşağıdakilerden birini yapın:
 
 - Google/Bing/Yahoo gibi arama motorları üzerinden web sitesine ulaşın.
