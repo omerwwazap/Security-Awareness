@@ -10,6 +10,7 @@ Sosyal medya platformlarından tavsiyeler; (LİNK EKLE)
 - Twitter: how to protect and unprotect your Tweets - https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public
 - YouTube: privacy and safety - https://support.google.com/youtube/topic/2803240?hl=en&ref_topic=6151248
 - Instagram: privacy settings and information - https://help.instagram.com/196883487377501
+- Instagtam: Keeping Instagram Safe and Secure - https://about.instagram.com/blog/announcements/keeping-instagram-safe-and-secure
 - LinkedIn: account and privacy settings overview - https://www.linkedin.com/help/linkedin/answer/66?lang=en
 - Snapchat: privacy settings - https://support.snapchat.com/en-GB/a/privacy-settings2
 - Tiktok: privacy and security settings - https://www.tiktok.com/safety/en/privacy-and-security-on-tiktok/
