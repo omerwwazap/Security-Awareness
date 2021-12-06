@@ -11,8 +11,9 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - English to Turkish Cyber Security Terminology and Turkish Expiations
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
 - Malware Removal Guide
-  - [Kötü Amaçlı Yazılım Kaldırma Kılavuzu (Bitmedi)](Malware%20Removal%20Guide/README-tr.md)
-  - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English
+  - [Kötü Amaçlı Yazılım Kaldırma Kılavuzu (Bitmedi)](Malware%20Removal%20Guide/README-tr.md) - Very Detailed
+  - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
+  - TASLAK [Virüslü bir cihaz nasıl kurtarılır](Malware%20Removal%20Guide/README-No_2.md)
 - Secondhand Devices Information
   - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
 - Protecting Devices From Viruses and Malware
@@ -25,6 +26,7 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
 - Password
   - Taslak [Parola Yönetimi](Passwords/README.md)
+  - Taslak [Parola Yöneticileri](Passwords/README-No_2.md)
 - IoT Devices
   - Taslak [IoT Cihazlar](Personal%20IoT/README.md)
 - Securing Personal Devices
@@ -33,5 +35,14 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - Taslak [Güvenli Alışveriş](Shopping/README.md)
 - Social Media
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md)
+  - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2.md)
 - Staying Secure Online
-  - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online)
+  - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online/README.md)
+- Authentication
+  - Taslak [İki Faktörlü Doğrulama](Authentication/README.md)
+
+This repo couldn't be made with out the documents and blogs (they're the ones that gave me this idea) shared by;
+
+- [United Kingdom's National Cyber Security Centre](https://www.ncsc.gov.uk/) (translated some stuff here and hopefully this in compliance with their [licenses](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), for a non UK citizen :))
+- [Australian Government's National Security](https://www.nationalsecurity.gov.au/)
+- [Australian Signals Directorate Cyber Center](https://www.cyber.gov.au/)
