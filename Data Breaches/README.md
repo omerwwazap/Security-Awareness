@@ -1,5 +1,9 @@
 # TASLAK Veri İhlalleri Sonrası Korunma Yolları
 
+Check this out looks promising
+https://www.ncsc.gov.uk/guidance/data-breaches
+
+
 Kendinizi veri ihlallerinin etkisinden koruma ipuçları
 
 ## Veri İhlali Nedir Ve Sizi Nasıl Etkileyebilir?
