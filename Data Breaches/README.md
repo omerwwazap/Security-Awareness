@@ -11,6 +11,8 @@ Bu dolandırıcılık mesajları genellikle orijinal görünen, ancak yazdıktan
 
 İhlal sırasında çalınan bilgiler telefon numaralarını içeriyorsa, şüpheli bir arama alabilirsiniz. Sizden banka bilgilerini veya parolaları ya da bilgisayarınıza erişim sağlamanızı istenebilir. indirmeniz durumunda zararlı bir yazılım indirme olasılığınız çok azdır.
 
+### Genel Bakış - XXXXX - (İhalal Olan Platform)
+
 ### Bir veri ihlali sonrasında yapmanız gereken işlemler
 
 Veri ihlali yaşayan bir kuruluşun müşterisiyseniz, aşağıdaki işlemleri yapmanız gerekir:
