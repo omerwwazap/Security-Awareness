@@ -1,0 +1,1 @@
+# TASLAK İki Faktörlü Kimlik Doğrulama (2FA)
