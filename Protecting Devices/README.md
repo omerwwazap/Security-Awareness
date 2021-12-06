@@ -1,4 +1,8 @@
-# Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
+# TASLAK Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
+
+Check this out looks promising
+https://www.ncsc.gov.uk/blog-post/secure-home-working-personal-it
+
 
 Bu infografik, bilgisayarlarınızı, akıllı telefonlarınızı ve tabletlerinizi virüslerin ve diğer kötü amaçlı yazılım türlerinin neden olduğu zararlardan nasıl koruyacağınızla ilgili ipuçları içerir. Bu adımları takip etmek, cihazlarınızın ve üzerlerinde depolanan bilgilerin zarar görmemesine yardımcı olacaktır. Sorularınız için İlgili Güvenlik Ekiplerinizle ekibi ile iletişime geçebilirsiniz.
 
