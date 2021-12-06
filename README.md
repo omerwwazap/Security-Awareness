@@ -33,3 +33,5 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - Taslak [Güvenli Alışveriş](Shopping/README.md)
 - Social Media
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md)
+- Staying Secure Online
+  - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online)
