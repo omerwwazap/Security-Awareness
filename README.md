@@ -13,7 +13,7 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - Malware Removal Guide
   - [Kötü Amaçlı Yazılım Kaldırma Kılavuzu (Bitmedi)](Malware%20Removal%20Guide/README-tr.md) - Very Detailed
   - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
-  - TASLAK [Virüslü bir cihaz nasıl kurtarılır](Malware%20Removal%20Guide/README-No_2.md)
+  - TASLAK [Virüslü bir cihaz nasıl kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md)
 - Secondhand Devices Information
   - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
 - Protecting Devices From Viruses and Malware
@@ -24,9 +24,9 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md)
 - Actions to take after a data breach
   - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
-- Password
+- Passwords
   - Taslak [Parola Yönetimi](Passwords/README.md)
-  - Taslak [Parola Yöneticileri](Passwords/README-No_2.md)
+  - Taslak [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md)
 - IoT Devices
   - Taslak [IoT Cihazlar](Personal%20IoT/README.md)
 - Securing Personal Devices
@@ -35,7 +35,7 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - Taslak [Güvenli Alışveriş](Shopping/README.md)
 - Social Media
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md)
-  - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2.md)
+  - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md)
 - Staying Secure Online
   - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online/README.md)
 - Authentication
