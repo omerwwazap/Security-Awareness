@@ -38,3 +38,7 @@ https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi
 https://www.yedam.org.tr/cocuklarin-internet-kullaniminin-barindirdigi-riskler-ve-ebeveynlere-oneriler
 
 https://support.kaspersky.com/KIS4Mac/16.0/tr.lproj/pgs/59194.htm
+
+https://www.ncsc.gov.uk/guidance/social-media-protect-what-you-publish
+
+https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely
