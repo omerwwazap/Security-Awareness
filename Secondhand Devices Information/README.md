@@ -1,5 +1,8 @@
 # Kullanılmış Cihazları Satın Alma ve Satma
 
+Check this out looks promising
+https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices
+
 Telefonlardan, tabletlerden ve diğer cihazlardan kişisel veriler nasıl silinir.
 
 Akıllı telefonunuzu, tabletinizi veya başka herhangi bir cihazı satıyorsanız, veriyorsanız veya takas ediyorsanız, bu cihazdaki tüm kişisel verileri silmelisiniz. Bu sayfada bunun nasıl yapılacağı açıklanmaktadır**. Ayrıca, edinmiş olabileceğiniz herhangi bir ikinci el cihazı kullanmaya başlamadan önce atmanız gereken adımlar hakkında da öneriler içerir.
