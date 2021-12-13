@@ -23,23 +23,23 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - Oltalama ile Baş etmek - Phishing
   - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md) [%90]
 - Veri İhlali Sonrası Kişisel Önlemler
-  - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
+  - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md) [%60]
 - Parola Güvenliği
-  - Taslak [Parola Yönetimi](Passwords/README.md)
-  - Taslak [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md)
+  - Taslak [Parola Yönetimi](Passwords/README.md) [%80]
+  - Taslak [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md) [%70]
 - IoT Cihaz Güvenliği
-  - Taslak [IoT Cihazlar](Personal%20IoT/README.md)
+  - Taslak [IoT Cihazlar](Personal%20IoT/README.md) [%40]
 - Kişisel Cİhaz Güvenliği
-  - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md)
+  - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md) [%30]
 - Online Alışveriş Güvenliği
-  - Taslak [Güvenli Alışveriş](Shopping/README.md)
+  - Taslak [Güvenli Alışveriş](Shopping/README.md) [%90]
 - Sosyal Medya Güvenliği
-  - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md)
-  - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md)
+  - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md) [%30]
+  - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md) [%05]
 - Online Güvenlik
-  - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online/README.md)
+  - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online/README.md)  [%00]
 - Authentication
-  - Taslak [İki Faktörlü Doğrulama](Authentication/README.md)
+  - Taslak [İki Faktörlü Doğrulama](Authentication/README.md)  [%00]
 
 This repo couldn't be made with out the documents and blogs (they're the ones that gave me this idea) shared by;
 
