@@ -10,19 +10,19 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 
 - English to Turkish Cyber Security Terminology and Turkish Expiations
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
-- Malware Removal Guide
+- Zararlı Yazılım Kaldırma Kılavzu
   - [Zararlı Yazılım Kaldırma Kılavuzu (Bitmedi)](Malware%20Removal%20Guide/README-tr.md) - Very Detailed
   - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
-  - TASLAK [Virüslü bir cihaz nasıl kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md)
+  - TASLAK [Virüslü Bir Cihaz Nasıl Kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md)
 - İkinci El Cihaz Güvenliği
   - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
 - Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
   - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md)
-- Staff Training Basic Information
+- Personale Basit Güvenlik Bilgilendirmeleri
   - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md)
 - Oltalama ile Baş etmek - Phishing
   - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md)
-- Actions to take after a data breach
+- Veri İhlali Sonrası Kişisel Önlemler
   - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
 - Parola Güvenliği
   - Taslak [Parola Yönetimi](Passwords/README.md)
