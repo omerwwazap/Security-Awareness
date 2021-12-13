@@ -15,13 +15,13 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
   - TASLAK [Virüslü Bir Cihaz Nasıl Kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md)
 - İkinci El Cihaz Güvenliği
-  - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
-- Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
-  - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md)
-- Personale Basit Güvenlik Bilgilendirmeleri
-  - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md)
+  - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md) [%95]
+- Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak 
+  - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md) [%80]
+- Personale Basit Güvenlik Bilgilendirmeleri 
+  - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md) [Became somting very diffrent will check later]
 - Oltalama ile Baş etmek - Phishing
-  - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md)
+  - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md) [%90]
 - Veri İhlali Sonrası Kişisel Önlemler
   - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
 - Parola Güvenliği
