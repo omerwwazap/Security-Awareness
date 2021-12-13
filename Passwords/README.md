@@ -1,5 +1,8 @@
 # Cihazlarınızı ve verilerinizi korumak için şifreleri kullanma
 
+Check This
+https://gelecegiyazanlar.turkcell.com.tr/blog/unutulmayacak-guclu-ve-karmasik-sifreler-nasil-belirlenir
+
 Bu sayfada, güçlü parolaların nasıl oluşturulacağı, bunlara nasıl bakılacağı hakkında ipuçları verir. çalınmışlar.
 
 Siber Korsanlar, Hesaplarınıza erişmek için en çok kullanılan şifreleri deneyecek veya tahmin etmek için sosyal medya profillerinizdeki bilgileri kullanacaktır. Başarılı olursa, diğer hesaplarınıza erişmeyi denemek için aynı şifreyi kullanacaklar.
