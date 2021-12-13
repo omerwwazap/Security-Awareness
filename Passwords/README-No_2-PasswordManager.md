@@ -33,7 +33,8 @@ Peki gerçekten kusursuzlar mı? Hemen hiç düşünmeden kullanmaya başlamalı
 - Banka şifrelerinizi bir şifre yöneticisine koyduğunuzu (veya herhangi bir şekilde not ettiğinizi) söylerseniz, siber suç mağduru olmanız durumunda paranızı size geri vermeyebilirler.İşin iyi yanı, parolalarınızın çoğunu ebezlemek zorunda olmadığınız için sadece banka şifrenizi ezberlemek kolay olacaktır. (i̇ngiltere'de yaşanmış bir olaydır)
 
 ## Tarayıcı tabanlı bir şifre yöneticisi kullanmalı mıyım?
-UPDATE HERE : https://www.forbes.com/sites/leemathews/2017/01/10/this-simple-phishing-attack-tricks-you-into-leaking-browser-autofill-data/?sh=4e8bd9d13d4d
+UPDATE HERE: https://www.forbes.com/sites/leemathews/2017/01/10/this-simple-phishing-attack-tricks-you-into-leaking-browser-autofill-data/?sh=4e8bd9d13d4d
+UPDATE HERE: https://www.social-engineer.com/disable-autofill-browsers/
 Birçok web tarayıcısı artık yerleşik parola yöneticileriyle birlikte gelir ve bunlar çok iyi bir seçim olabilir. Web tarayıcısı ile tamamen entegre oldukları için kullanımı çok uygundur.
 
 Böylece, parola gerektiren bir web sitesinde olduğunuzu anlarlar ve hemen açılır ve işlerini yaparlar ve bunu yaparken siteleri kontrol ettikleri için sahte (oltalama) sitelerinde doğaları gereği çalışmazlar.
