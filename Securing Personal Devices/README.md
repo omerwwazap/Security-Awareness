@@ -19,3 +19,5 @@ XXXXX - XXXXX
 XXXXX - XXXXX
 
 XXXXX - XXXXX
+
+Check This https://gelecegiyazanlar.turkcell.com.tr/blog/akilli-telefonlarda-guvenlik-riskleri
