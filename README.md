@@ -11,32 +11,32 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - English to Turkish Cyber Security Terminology and Turkish Expiations
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
 - Malware Removal Guide
-  - [Kötü Amaçlı Yazılım Kaldırma Kılavuzu (Bitmedi)](Malware%20Removal%20Guide/README-tr.md) - Very Detailed
+  - [Zararlı Yazılım Kaldırma Kılavuzu (Bitmedi)](Malware%20Removal%20Guide/README-tr.md) - Very Detailed
   - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
   - TASLAK [Virüslü bir cihaz nasıl kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md)
-- Secondhand Devices Information
+- İkinci El Cihaz Güvenliği
   - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
-- Protecting Devices From Viruses and Malware
+- Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
   - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md)
 - Staff Training Basic Information
   - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md)
-- Dealing with Suspicious Emails - Phishing
+- Oltalama ile Baş etmek - Phishing
   - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md)
 - Actions to take after a data breach
   - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
-- Passwords
+- Parola Güvenliği
   - Taslak [Parola Yönetimi](Passwords/README.md)
   - Taslak [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md)
-- IoT Devices
+- IoT Cihaz Güvenliği
   - Taslak [IoT Cihazlar](Personal%20IoT/README.md)
-- Securing Personal Devices
+- Kişisel Cİhaz Güvenliği
   - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md)
-- Shopping
+- Online Alışveriş Güvenliği
   - Taslak [Güvenli Alışveriş](Shopping/README.md)
-- Social Media
+- Sosyal Medya Güvenliği
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md)
   - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md)
-- Staying Secure Online
+- Online Güvenlik
   - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online/README.md)
 - Authentication
   - Taslak [İki Faktörlü Doğrulama](Authentication/README.md)
