@@ -10,9 +10,9 @@ Kendinizi veri ihlallerinin etkisinden koruma ipuçları
 
 Bir kuruluş tarafından tutulan bilgiler çalındığında veya izinsiz olarak erişildiğinde bir veri ihlali meydana gelir.
 
-Suçlular, bu bilgileri oltalama e-postalarında ve metin mesajlarında kullanır, böylece gerçek görünmeleri sağlanır. Hatta yakın zamanda bir veri ihlaline maruz kalmış bir kuruluştan geliyormuş gibi davranarak, “dolandırıcılık faaliyeti gerçekleşti” veya benzeri nedeniyle oturum açmanızı ve kimliğinizi doğrulamanızı isteyen e-postalar bile gönderebilirler.
+Suçlular, bu bilgileri oltalama e-postalarında, telefon ve sms mesajlarında kullanabilir, böylece gerçek görünmeleri sağlar. Hatta yakın zamanda bir veri ihlaline maruz kalmış bir kuruluştan geliyormuş gibi davranabilir veya benzeri nedenler ile oturum açmanızı ve kimliğinizi doğrulamanızı isteyen e-postalar bile gönderebilirler.
 
-Bu dolandırıcılık mesajları genellikle orijinal görünen, ancak yazdıktan sonra gerçek bilgilerinizi saklayan web sitelerine bağlantılar içerir. Veya bu web siteleri bilgisayarınıza virüs yükleyebilir veya girdiğiniz şifreleri çalabilir.
+Bu dolandırıcılık mesajları genellikle orijinal görünen içeriğe sahiptir, ve bilgilerinizi girmeniz durumunda veya içerisindeki linkele tıklamanız durumunda zararlı web sitelerine erişmenizi sağlayabilir. Bu web siteleri bilgisayarınıza virüs yükleyebilir veya girdiğiniz şifreleri çalabilir.
 
 İhlal sırasında çalınan bilgiler telefon numaralarını içeriyorsa, şüpheli bir arama alabilirsiniz. Sizden banka bilgilerini veya parolaları ya da bilgisayarınıza erişim sağlamanızı istenebilir. indirmeniz durumunda zararlı bir yazılım indirme olasılığınız çok azdır.
 
