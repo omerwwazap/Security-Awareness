@@ -33,7 +33,7 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - Kişisel Cİhaz Güvenliği
   - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md) [%30]
 - Online Alışveriş Güvenliği
-  - Taslak [Güvenli Alışveriş](Shopping/README.md) [%90]
+  - Taslak [Güvenli Alışveriş](Shopping/README.md) [%99]
 - Sosyal Medya Güvenliği
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md) [%30]
   - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md) [%05]
