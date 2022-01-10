@@ -26,14 +26,14 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
 - Veri İhlali Sonrası Kişisel Önlemler
   - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md) [%60]
 - Parola Güvenliği
-  - Taslak [Parola Yönetimi](Passwords/README.md) [%80]
+  - Taslak [Parola Yönetimi](Passwords/README.md) [%100]
   - Taslak [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md) [%70]
 - IoT Cihaz Güvenliği
   - Taslak [IoT Cihazlar](Personal%20IoT/README.md) [%40]
 - Kişisel Cİhaz Güvenliği
   - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md) [%30]
 - Online Alışveriş Güvenliği
-  - Taslak [Güvenli Alışveriş](Shopping/README.md) [%99]
+  - [Güvenli Alışveriş](Shopping/README.md) [%100]
 - Sosyal Medya Güvenliği
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md) [%30]
   - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md) [%05]
