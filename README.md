@@ -16,7 +16,6 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - TASLAK [Virüslü Bir Cihaz Nasıl Kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md) [%00]
 - İkinci El Cihaz Güvenliği
   - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
-  - [Cihaz Sıfırlama ve Veri Silme](Secondhand%20Devices%20Information/README-2.md) [%00]
 - Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak 
   - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md) [%80]
 - Personale Basit Güvenlik Bilgilendirmeleri 
