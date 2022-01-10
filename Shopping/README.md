@@ -1,16 +1,11 @@
 # İnternet'ten Güvenli Alışveriş
 
-check out : https://www.ncsc.gov.uk/guidance/shopping-online-securely
-
 ## Alışveriş yaptığınız yeri özenle seçin
 
 Güvenilir site olup olmadıklarını kontrol etmek için, bu siteler hakkında biraz araştırma yapmalısınız. Forumlar, Sosyal Medya platformlarından  geri bildirimleri okuyun veya güvendiğiniz kişilerin verdiği tavsiyeleri dinleyin.
 
-UPDATE HERE
-Alışveriş yapılan siteler E-ticaret Bilgisi Sistemi (eticaret.gov.tr ) üzerinde yer alan “Kayıtlı Site Sorgula” teyit edilebilir. Örneğin bir sorgulama yapıldığında aşağıdaki gibi Doğrulanmış Site bölümünde Yeşil Tick bulunması, kayıtlı olduğu anlamına gelmektedir.
-REF:https://mcansozeri.wordpress.com/2021/05/01/internetten-alisveris-yapilirken-yararlanilabilecek-10-bilgi/
-https://gelecegiyazanlar.turkcell.com.tr/blog/internetten-alisveris-yapilirken-yararlanilabilecek-10-bilgi
-UPDATE HERE
+
+Alışveriş yapılan siteler [E-ticaret Bilgisi Sistemi](eticaret.gov.tr) üzerinde yer alan **Kayıtlı Site Sorgula** teyit edebilirsiniz. Sorgulama yapıldığında aşağıdaki gibi Doğrulanmış Site bölümünde Yeşil Tick bulunması, kayıtlı olduğu anlamına gelmektedir.
 
 Harika teklifler hakkında aldığınız e-postalar veya metinler sahte web sitelerine giden link içerebilir, Phishing mailleri olabilir. Emin değil iseniz, linki kullanmayın ve aşağıdakilerden birini yapın:
 
@@ -21,7 +16,8 @@ Harika teklifler hakkında aldığınız e-postalar veya metinler sahte web site
 
 Sanal Kredi kartı, Apple Pay veya Google Pay gibi bir ödeme platformu kullanmayı da düşünmelisiniz.
 
-Ödeme zamanı geldiğinde, tarayıcının adres çubuğunda 'kapalı asma kilit' simgesi olup olmadığını kontrol edin. Bunun gibi görünecek: XXXXXX ADD IMAGE XXXXXXX
+Ödeme zamanı geldiğinde, tarayıcının adres çubuğunda "kapalı asma kilit" simgesi olup olmadığını kontrol edin. 
+![Kilit Resmi](https://user-media-prod-cdn.itsre-sumo.mozilla.net/uploads/gallery/images/2021-05-06-04-29-55-5507f4.png)
 
 **Asma kilit simgesi, web sitesinin güvenilir/itibarlı olduğunu garanti etmez. Bu, bağlantının güvenli olduğu anlamına gelir.**
 
@@ -41,22 +37,18 @@ Mağaza ayrıca, bir sonraki alışverişinizde daha hızlı bir ödeme için ö
 
 Hesaplarınız için aynı parolayı kullanıyorsanız (veya kolayca tahmin edilebilecek parolalar kullanıyorsanız), çok büyük risk altındasınız demektir. Bilgisayar korsanları, şifrenizi çalabilir ve diğer hesaplarınıza erişmek için kullanabilir. Bu nedenle, gerçekten önemli hesaplarınızın (e-posta hesabınız, sosyal medya hesaplarınız, bankacılık hesaplarınız, alışveriş hesaplarınız gibi) başka hiçbir yerde kullanmadığınız güçlü şifrelerle korunduğundan emin olmalısınız.
 
-Sorun şu ki, çoğumuzun çok sayıda çevrimiçi hesabı var, bu nedenle hepsi için güçlü parolalar oluşturmak (ve bunları hatırlamak) zor. Bu bilgi notumuz(KISMEN HAZIR-EKLENECEK) bilgi grafiği, nasıl parolalar oluşturabileceğinizi ve bunları nasıl güvenli bir şekilde saklayabileceğinizi açıklar (böylece onları hatırlamanıza gerek kalmaz).
+Sorun şu ki, çoğumuzun çok sayıda çevrimiçi hesabı var, bu nedenle hepsi için güçlü parolalar oluşturmak (ve bunları hatırlamak) zor. Bu bilgi notumuz(KISMEN HAZIR-EKLENECEK) bilgi dökümanı, nasıl parolalar oluşturabileceğinizi ve bunları nasıl güvenli bir şekilde saklayabileceğinizi açıklar (böylece onları hatırlamanıza gerek kalmaz).
 
-İki faktörlü kimlik doğrulamayı (2FA) açarak önemli hesaplarınızın saldırıya uğramasını daha da koruyabilirsiniz. Aynı zamanda 'iki adımlı doğrulama' veya 'çok faktörlü doğrulama' olarak da adlandırılır. 2FA'yı açtıysanız, şifrenizi bilseler bile bilgisayar korsanlarının hesaplarınıza erişmesini engellersiniz.
+İki faktörlü kimlik doğrulamayı (2FA) açarak önemli hesaplarınızın saldırıya uğramasını daha da koruyabilirsiniz. Aynı zamanda "iki adımlı doğrulama" veya "çok faktörlü doğrulama" olarak da adlandırılır. 2FA'yı açtıysanız, şifrenizi bilseler bile bilgisayar korsanlarının hesaplarınıza erişmesini engellersiniz.
 
 ## Şüpheli e-postalara, kısa mesajlara ve web sitelerine dikkat edin
 
 Alışveriş sitesinden bir şeyler aldıysanız veya hesap açtıysanız muhtemelen mağazalardan birçok mesaj alacaksınız. Bu mesajlar arasında, fark edilmesi çok zor olabilecek sahte mesajlar (paranızı ve kişisel bilgilerinizi çalmak için tasarlanmış bağlantılar içeren) olabilir.
-
-Tabii ki, tüm mesajlar kötü değildir, ancak bir şeyler doğru gelmiyorsa, şüpheli e-postalar ve kısa mesajlar gelmiş ise bunları yapabilirsiniz:
-
-- ???? Email
-- ???? SMS
-- ???? GOOGLE
 
 ## Alışverişten Sonra
 
 Alışverişten sonra tetikte kalmalısınız. Banka hesabınızdaki herhangi bir şüpheli etkinliğe karşı tetikte olmanız önemlidir.
 
 Bu, bir dolandırıcılığın kurbanı olup olmadığınızı belirlemenin en hızlı ve en kolay yoludur. Banka ekstrelerinizi düzenli olarak kontrol edin ve küçük miktarlar da dahil olmak üzere bilmediğiniz herhangi bir şey için hemen bankanızla iletişime geçin.
+
+Bankaya Harcama İtirazı yapılabileceğiniz gibi E-Devlet üzerinden Tüketici Hakem Heyeti’ne de başvuru yapılabilir
