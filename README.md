@@ -25,6 +25,8 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - [IoT Cihazlar](Personal%20IoT/README.md)
 - Online Alışveriş Güvenliği
   - [Güvenli Alışveriş](Shopping/README.md)
+- Authentication
+  - [İki Faktörlü Doğrulama](Authentication/README.md)
 
  **In Progress**
 
@@ -39,8 +41,6 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md) [%05]
 - Online Güvenlik
   - Taslak [Çevrimiçi Güvenliğinizi Sağlamak](Staying%20Secure%20Online/README.md)  [%00]
-- Authentication
-  - Taslak [İki Faktörlü Doğrulama](Authentication/README.md)  [%00]
 - Zararlı Yazılım Kaldırma Kılavzu
   - [Zararlı Yazılım Kaldırma Kılavuzu](Malware%20Removal%20Guide/README-tr.md) - Very Detailed [%80]
   - TASLAK [Virüslü Bir Cihaz Nasıl Kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md) [%00]
