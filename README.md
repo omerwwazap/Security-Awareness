@@ -15,25 +15,25 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
   - TASLAK [Virüslü Bir Cihaz Nasıl Kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md) [%00]
 - İkinci El Cihaz Güvenliği
-  - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md) [%100]
+  - [Kullanılmış Cihazları Satın Alma ve Satma](Secondhand%20Devices%20Information/README.md)
   - [Cihaz Sıfırlama ve Veri Silme](Secondhand%20Devices%20Information/README-2.md) [%00]
 - Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak 
   - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md) [%80]
 - Personale Basit Güvenlik Bilgilendirmeleri 
   - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md) [Became somting very diffrent will check later]
 - Oltalama ile Baş etmek - Phishing
-  - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md) [%100]
+  - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md)
 - Spesifik Veri İhlali Sonrası Kişisel Önlemler
-  - [Spesifik Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md) [%100]
+  - [Spesifik Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md)
 - Parola Güvenliği
-  - [Parola Yönetimi](Passwords/README.md) [%100]
-  - [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md) [%100]
+  - [Parola Yönetimi](Passwords/README.md)
+  - [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md)
 - IoT Cihaz Güvenliği
   - Taslak [IoT Cihazlar](Personal%20IoT/README.md) [%40]
 - Kişisel Cİhaz Güvenliği
   - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md) [%30]
 - Online Alışveriş Güvenliği
-  - [Güvenli Alışveriş](Shopping/README.md) [%100]
+  - [Güvenli Alışveriş](Shopping/README.md)
 - Sosyal Medya Güvenliği
   - Taslak [Sosyal Medya Kullanımı](Social%20Media/README.md) [%30]
   - Taslak [Çalınmış Bir Hesabı Kurtarma](Social%20Media/README-No_2-RecoveringAccount.md) [%05]
