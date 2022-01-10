@@ -27,13 +27,14 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - [Güvenli Alışveriş](Shopping/README.md)
 - Authentication
   - [İki Faktörlü Doğrulama](Authentication/README.md)
+- Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
+  - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md)
+
 
  **In Progress**
 
 - Personale Basit Güvenlik Bilgilendirmeleri
   - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md) [Became somting very diffrent will check later]
-- Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
-  - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md) [%80]
 - Kişisel Cİhaz Güvenliği
   - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md) [%30]
 - Sosyal Medya Güvenliği
