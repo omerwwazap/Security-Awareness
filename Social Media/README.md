@@ -6,26 +6,32 @@ Sosyal medya, aileniz ve arkadaşlarınızla iletişimde kalmanın ve güncel ha
 
 Sosyal medya platformlarından tavsiyeler; (LİNK EKLE)
 
-- Facebook: basic privacy settings and tools - https://www.facebook.com/help/325807937506242/
-- Twitter: how to protect and unprotect your Tweets - https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public
-- YouTube: privacy and safety - https://support.google.com/youtube/topic/2803240?hl=en&ref_topic=6151248
-- Instagram: privacy settings and information - https://help.instagram.com/196883487377501
-- Instagtam: Keeping Instagram Safe and Secure - https://about.instagram.com/blog/announcements/keeping-instagram-safe-and-secure
-- LinkedIn: account and privacy settings overview - https://www.linkedin.com/help/linkedin/answer/66?lang=en
-- Snapchat: privacy settings - https://support.snapchat.com/en-GB/a/privacy-settings2
-- Tiktok: privacy and security settings - https://www.tiktok.com/safety/en/privacy-and-security-on-tiktok/
+- [Facebook - Temel Gizlilik Kontrolleri ve Araçlar](https://www.facebook.com/help/325807937506242/)
+- [Youtube - Gizlilik ve güvenlik merkezi](https://support.google.com/youtube/topic/2803240?hl=tr&ref_topic=6151248)
+- [Instagram - Gizlilik Ayarları ve Bilgiler](https://help.instagram.com/196883487377501)
+- [LinkedIn - Hesabınızı ve Gizlilik Ayarlarını Yönetme](https://www.linkedin.com/help/linkedin/answer/66?lang=tr)
+- [Tiktok - Gizlilik ve Güvenlik](https://www.tiktok.com/safety/tr-tr/privacy-and-security-on-tiktok/)
 
 ## Hesaplarınızı korumak için iki faktörlü kimlik doğrulama (2FA) kullanın
 
-xxxxxxxxxxx
+Birçok şirket, hesaplarınızda iki faktörlü kimlik doğrulama (2FA olarak da bilinir) kurmanıza izin verir.
+
+- Temelde şifreniz dışında ikinci bir doğrulama mekanizmasıdır, şifre dışında hesabın sahibinin siz olduğu kanıtlar.
+- 2FA'nın en yaygın biçimi, akıllı telefonunuza devam etmek için girmeniz gereken bir kodun gönderilmesidir. Bankacılık ve e-posta gibi önemli web siteleri için 2FA kurmalısınız.
+- Bir suçlu şifrelerinizi bilse bile, 2FA'yı açarak koruduğunuz tüm hesaplara erişmekte zorlanacaktır.
+- Daha fazla bilgi için 2FA'yı detaylıca ele aldığımız [İki Faktörlü Doğrulama](https://github.com/omerwwazap/Security-Awareness/blob/main/Authentication/README.md) adlı dökümanımaz bakabilrisiniz.
 
 ## Dijital ayak izinizi anlama
 
-xxxxxxxxx
+Sosyal Medya kullanımında çok dikaate alınmayan bir kavramdır, Dijital Ayak İzi, temelde sizin online olarak yaptığınız herşeyi kapsar, paylaşımlarınız, etiketleriniz, kullanım saatleriniz, kullanıdğınız dil, fotoğraflarınız, konumlarınız (konumu paylaşmasınızda fotoğraflardan bulunabilir - Geolocation), durumlarınız gibi başlaıkları kapsar.
+
+- Paylaşım yapmadan önce ne paylaştığınızı iyi düşünün, kimin erişimi olduğunu düşünün. Kullanığınız platformda gizlilik ayarlarınızı kontrol etmeden bir şey paylaşmamaya çalışın.
+- Takipçileriniz paylaştığınız şeyleri bilmesi gerekiyor mu? Kötü bir aktör tarafından kullanılabilecek bir bilgi içeriyor mu? bu sorulara cevap vermeden paylaşım yapmanyın.
+- Sosyal medyada arkadaşlarınız sizin hakkınızda ne paylaşıyor takip edin, yukarıdaki maddelere göre bunları düşün gerekirse kaldırmalarını isteyin.
 
 ## Sosyal medya ve çocuklar
 
-xxxxxxxxxxxx
+Geleceği yazanlar'lar cocuklar kısmı - koontrol et
 
 https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/
 
