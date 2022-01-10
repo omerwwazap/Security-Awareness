@@ -28,7 +28,7 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - [Parola Yönetimi](Passwords/README.md)
   - [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md)
 - IoT Cihaz Güvenliği
-  - Taslak [IoT Cihazlar](Personal%20IoT/README.md) [%40]
+  - [IoT Cihazlar](Personal%20IoT/README.md)
 - Kişisel Cİhaz Güvenliği
   - Taslak [Cihazlarınızın güvenliği](Securing%20Personal%20Devices/README.md) [%30]
 - Online Alışveriş Güvenliği
