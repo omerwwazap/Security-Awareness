@@ -1,5 +1,7 @@
 # İnternet'ten Güvenli Alışveriş
 
+check out : https://www.ncsc.gov.uk/guidance/shopping-online-securely
+
 ## Alışveriş yaptığınız yeri özenle seçin
 
 Güvenilir site olup olmadıklarını kontrol etmek için, bu siteler hakkında biraz araştırma yapmalısınız. Forumlar, Sosyal Medya platformlarından  geri bildirimleri okuyun veya güvendiğiniz kişilerin verdiği tavsiyeleri dinleyin.
