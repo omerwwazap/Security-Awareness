@@ -23,8 +23,8 @@ Majority of this repo will be in Turkish, simply because there aren't many **Sec
   - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md) [Became somting very diffrent will check later]
 - Oltalama ile Baş etmek - Phishing
   - [Oltalama Saldırıları - Şüpheli E-Postalara Baş Etmek](Suspicious%20Emails/README.md) [%100]
-- Veri İhlali Sonrası Kişisel Önlemler
-  - Taslak [Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md) [%60]
+- Spesifik Veri İhlali Sonrası Kişisel Önlemler
+  - [Spesifik Veri ihlalleri sonrası Korunma Yolları](Data%20Breaches/README.md) [%100]
 - Parola Güvenliği
   - [Parola Yönetimi](Passwords/README.md) [%100]
   - [Parola Yöneticileri](Passwords/README-No_2-PasswordManager.md) [%100]
