@@ -37,7 +37,7 @@ Mağaza ayrıca, bir sonraki alışverişinizde daha hızlı bir ödeme için ö
 
 Hesaplarınız için aynı parolayı kullanıyorsanız (veya kolayca tahmin edilebilecek parolalar kullanıyorsanız), çok büyük risk altındasınız demektir. Bilgisayar korsanları, şifrenizi çalabilir ve diğer hesaplarınıza erişmek için kullanabilir. Bu nedenle, gerçekten önemli hesaplarınızın (e-posta hesabınız, sosyal medya hesaplarınız, bankacılık hesaplarınız, alışveriş hesaplarınız gibi) başka hiçbir yerde kullanmadığınız güçlü şifrelerle korunduğundan emin olmalısınız.
 
-Sorun şu ki, çoğumuzun çok sayıda çevrimiçi hesabı var, bu nedenle hepsi için güçlü parolalar oluşturmak (ve bunları hatırlamak) zor. Bu bilgi notumuz(KISMEN HAZIR-EKLENECEK) bilgi dökümanı, nasıl parolalar oluşturabileceğinizi ve bunları nasıl güvenli bir şekilde saklayabileceğinizi açıklar (böylece onları hatırlamanıza gerek kalmaz).
+Sorun şu ki, çoğumuzun çok sayıda çevrimiçi hesabı var, bu nedenle hepsi için güçlü parolalar oluşturmak (ve bunları hatırlamak) zor. Bu bilgi dökümanı, nasıl parolalar oluşturabileceğinizi ve bunları nasıl güvenli bir şekilde saklayabileceğinizi açıklamaktadır [Şifre Kullanımı](https://github.com/omerwwazap/Security-Awareness/blob/main/Passwords/README.md) (böylece onları hatırlamanıza gerek kalmaz).
 
 İki faktörlü kimlik doğrulamayı (2FA) açarak önemli hesaplarınızın saldırıya uğramasını daha da koruyabilirsiniz. Aynı zamanda "iki adımlı doğrulama" veya "çok faktörlü doğrulama" olarak da adlandırılır. 2FA'yı açtıysanız, şifrenizi bilseler bile bilgisayar korsanlarının hesaplarınıza erişmesini engellersiniz.
 
