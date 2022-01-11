@@ -4,7 +4,9 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ![Language-Turkish](https://img.shields.io/badge/Language-Turkish-brightgreen)
 
-Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available.
+Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available. 
+
+This repo was for a university course aimed at increasing children's awareness of Cyber Security. But, I removed all kid-related content to another repo which is currently private. So, this repo is a heavily modified version of the original project.
 
 **Information here is written like it will be used by some company** 😊
 
