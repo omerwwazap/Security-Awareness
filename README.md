@@ -47,6 +47,8 @@ This repo was for a university course aimed at increasing children's awareness o
 - Zararlı Yazılım Kaldırma Kılavzu
   - [Zararlı Yazılım Kaldırma Kılavuzu](Malware%20Removal%20Guide/README-tr.md) - Very Detailed [%80]
   - TASLAK [Virüslü Bir Cihaz Nasıl Kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md) [%00]
+- Kripto (Cüzdan) Güvenliği 
+  - [TASLAK] [Cüzdan Güvenliği](https://github.com/omerwwazap/Security-Awareness/tree/main/Crypto) [%00]
 
 This repo couldn't be made with out the documents and blogs (they're the ones that gave me this idea) shared by;
 
