@@ -1,10 +1,13 @@
 # Security-Awareness-Turkish
 
+# **Re Writing The Topics, some have broken Turkish, going to be fixed Soon**
+
+
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ![Language-Turkish](https://img.shields.io/badge/Language-Turkish-brightgreen)
 
-Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available. 
+Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available.
 
 This repo was for a university course aimed at increasing children's awareness of Cyber Security. But, I removed all kid-related content to another repo which is currently private. So, this repo is a heavily modified version of the original project.
 
@@ -32,7 +35,6 @@ This repo was for a university course aimed at increasing children's awareness o
 - Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
   - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md)
 
-
  **In Progress**
 
 - Personale Basit Güvenlik Bilgilendirmeleri
@@ -47,7 +49,7 @@ This repo was for a university course aimed at increasing children's awareness o
 - Zararlı Yazılım Kaldırma Kılavzu
   - [Zararlı Yazılım Kaldırma Kılavuzu](Malware%20Removal%20Guide/README-tr.md) - Very Detailed [%80]
   - TASLAK [Virüslü Bir Cihaz Nasıl Kurtarılır](Malware%20Removal%20Guide/README-No_2-InfectedDevice.md) [%00]
-- Kripto (Cüzdan) Güvenliği 
+- Kripto (Cüzdan) Güvenliği
   - [TASLAK] [Cüzdan Güvenliği](https://github.com/omerwwazap/Security-Awareness/tree/main/Crypto) [%00]
 
 This repo couldn't be made with out the documents and blogs (they're the ones that gave me this idea) shared by;
