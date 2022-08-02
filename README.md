@@ -13,7 +13,7 @@ TR - Bu repo, çocukların Siber Güvenlik konusundaki farkındalığını artı
 
 **Bazı konuların Türkçesinde yazım ve anlam hataları olduğu için yeniden yazılmaktadır.**
 
-- English to Turkish Cyber Security Terminology and Turkish Explanation
+- İngilizce'den Türkçe'ye Siber Güvenlik Terminolojisi ve Türkçe Açıklamalar
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
 - Zararlı Yazılım Kaldırma Kılavzu
   - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
@@ -35,7 +35,7 @@ TR - Bu repo, çocukların Siber Güvenlik konusundaki farkındalığını artı
 - Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
   - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md)
 
- **In Progress**
+ **Devam Eden**
 
 - Personale Basit Güvenlik Bilgilendirmeleri
   - [Çalışan Eğitim - Çevrimiçi Güvende Kalmak - İpuçları](Staff%20Training%20Inforamtion/README.md) [Became somting very diffrent will check later]
