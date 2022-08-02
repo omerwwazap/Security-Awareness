@@ -13,7 +13,7 @@ This repo was for a university course aimed at increasing children's awareness o
 
 **Information here is written like it will be used by some company** 😊
 
-- English to Turkish Cyber Security Terminology and Turkish Expiations
+- English to Turkish Cyber Security Terminology and Turkish Explanation
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
 - Zararlı Yazılım Kaldırma Kılavzu
   - [Malware Removal Guide](Malware%20Removal%20Guide/README.md) - English - Very Detailed
