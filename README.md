@@ -1,17 +1,17 @@
 # Security-Awareness-Turkish
 
-# **Re-writing some topics, as they have broken Turkish, going to be fixed Soon**
-
-
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ![Language-Turkish](https://img.shields.io/badge/Language-Turkish-brightgreen)
 
-Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available.
+EN - Majority of this repo will be in Turkish, simply because there aren't many **Security Awareness** resources available.
+TR - Türkçe Çok fazla Güvenlik Farkındalığı kaynağı bulunmadığı için bu repo'nun büyük bir kısmı Türkçe olacaktır.
 
-This repo was for a university course aimed at increasing children's awareness of Cyber Security. But, I removed all kid-related content to another repo which is currently private. So, this repo is a heavily modified version of the original project.
+EN - This repo was for a university course aimed at increasing children's awareness of Cyber Security. But, I removed all kid-related content to another repo which is currently private. So, this repo is a heavily modified version of the original project.
 
-**Information here is written like it will be used by some company** 😊
+TR - Bu repo, çocukların Siber Güvenlik konusundaki farkındalığını artırmayı amaçlayan bir üniversite dersi için açılmıştı. Ancak, çocuklarla ilgili tüm içerik gizli başka bir repoda. Dolayısıyla, bu repo ana fikir olarak aynı devam ettmekte ve genel kullanucılar için genel farkındalık oluşturmak için tasarlandı. Çocuklara özel kısmı daha sonra eklenecektir.
+
+**Bazı konuların Türkçesinde yazım ve anlam hataları olduğu için yeniden yazılmaktadır.**
 
 - English to Turkish Cyber Security Terminology and Turkish Explanation
   - [Siber Güvenlik Terimleri Sözlüğü](Glossary/README.md)
