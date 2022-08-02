@@ -1,6 +1,6 @@
 # Security-Awareness-Turkish
 
-# **Re-writing The Topics, some have broken Turkish, going to be fixed Soon**
+# **Re-writing some topics, as they have broken Turkish, going to be fixed Soon**
 
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
