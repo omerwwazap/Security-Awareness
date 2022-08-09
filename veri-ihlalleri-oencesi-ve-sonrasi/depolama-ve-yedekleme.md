@@ -1,0 +1,2 @@
+# 🔠 Depolama ve Yedekleme
+
