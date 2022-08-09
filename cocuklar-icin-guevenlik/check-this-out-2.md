@@ -12,24 +12,6 @@ Cool Stuff will check later and add to other documents;
 
 [https://www.ncsc.gov.uk/information/resources-for-schools](https://www.ncsc.gov.uk/information/resources-for-schools)\
 \
-Geleceği yazanlar'lar cocuklar kısmı - koontrol et
-
-[https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/](https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/)
-
-[https://www.internetmatters.org/resources/tech-guide/gaming-consoles-for-children/](https://www.internetmatters.org/resources/tech-guide/gaming-consoles-for-children/)
-
-[https://www.net-aware.org.uk/networks/?order=-popularity\&category=Gaming](https://www.net-aware.org.uk/networks/?order=-popularity\&category=Gaming)
-
-[https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi](https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi)
-
-[https://www.yedam.org.tr/cocuklarin-internet-kullaniminin-barindirdigi-riskler-ve-ebeveynlere-oneriler](https://www.yedam.org.tr/cocuklarin-internet-kullaniminin-barindirdigi-riskler-ve-ebeveynlere-oneriler)
-
-[https://support.kaspersky.com/KIS4Mac/16.0/tr.lproj/pgs/59194.htm](https://support.kaspersky.com/KIS4Mac/16.0/tr.lproj/pgs/59194.htm)
-
-[https://www.ncsc.gov.uk/guidance/social-media-protect-what-you-publish](https://www.ncsc.gov.uk/guidance/social-media-protect-what-you-publish)
-
-[https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely)\
-\
 Sosyal medya ve çocuklar
 
 Geleceği yazanlar'lar cocuklar kısmı - koontrol et
@@ -37,8 +19,6 @@ Geleceği yazanlar'lar cocuklar kısmı - koontrol et
 [https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/](https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/)
 
 [https://www.internetmatters.org/resources/tech-guide/gaming-consoles-for-children/](https://www.internetmatters.org/resources/tech-guide/gaming-consoles-for-children/)
-
-[https://www.net-aware.org.uk/networks/?order=-popularity\&category=Gaming](https://www.net-aware.org.uk/networks/?order=-popularity\&category=Gaming)
 
 [https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi](https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi)
 
@@ -49,3 +29,5 @@ Geleceği yazanlar'lar cocuklar kısmı - koontrol et
 [https://www.ncsc.gov.uk/guidance/social-media-protect-what-you-publish](https://www.ncsc.gov.uk/guidance/social-media-protect-what-you-publish)
 
 [https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely)
+
+[https://www.nspcc.org.uk/keeping-children-safe/online-safety/](https://www.nspcc.org.uk/keeping-children-safe/online-safety/)

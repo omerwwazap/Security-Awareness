@@ -58,7 +58,6 @@
   * [Facebook](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/facebook.md)
   * [Twitter](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/twitter.md)
   * [Tiktok](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/tiktok.md)
-* [🛒 İnternette Güvende Kalma](sosyal-medya-guevenligi/internette-guevende-kalma.md)
 
 ## Sosyal Mühendislik
 
