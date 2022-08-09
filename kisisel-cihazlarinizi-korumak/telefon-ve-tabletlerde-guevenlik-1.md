@@ -14,6 +14,11 @@ Telefonlar git gide daha fazla kişisel, finansal ve konum tabanlı veri paylaş
 
 <summary>Olası Riskler</summary>
 
+**Phishing and Smishing**, Kimlik avı mesajları, güvenilir bir kaynaktan geliyormuş gibi davranarak sizi kandırmak için tasarlanmış e-postalardır. Phishing mesajları, telefon görüşmeleri şeklinde de gelebilir. Smishing mesajları SMS metinleri ile gönderilir.
+
+Kimlik avı dolandırıcılığına düşmekten kaçınmanın en iyi yolu dikkatli olmaktır: bilinmeyen numaralardan gelen beklenmedik mesajlara asla yanıt vermeyin, hassas bilgileri SMS veya e-posta ile göndermekten kaçının ve bağlantıları tıklamadan veya ekleri açmadan önce iki kez düşünün.
+
+**Zararlı Yazılımlar**, bir cihaza sızmak veya cihaza zarar vermek için tasarlanmış kötü amaçlı yazılımdır. Virüsler veya solucanlar gibi kötü amaçlı yazılımlar, internetten indirmeler, metin ekleri veya Bluetooth aktarımları yoluyla telefonunuza yayılabilir. Kişilerinize spam göndermek veya cihazı tamamen kapatmak gibi mobil cihazlarınızda her türlü soruna neden olabilir.\
 
 
 </details>
