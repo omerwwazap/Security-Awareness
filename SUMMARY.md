@@ -47,7 +47,8 @@
 * [💻 Virüslerden ve Zararlı Yazılımlardan Korumak](kisisel-cihazlarinizi-korumak/virueslerden-ve-zararli-yazilimlardan-korumak.md)
 * [🛰 Cihaz ve Ağ Güvenliği](kisisel-cihazlarinizi-korumak/cihaz-ve-ag-guevenligi.md)
 * [🖲 Uygulama Güvenliği](kisisel-cihazlarinizi-korumak/uygulama-guevenligi.md)
-* [📵 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md)
+* [💾 Depolama ve yedekleme](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md)
+* [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik-1.md)
 
 ## Sosyal Medya Güvenliği
 
@@ -57,7 +58,7 @@
   * [Facebook](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/facebook.md)
   * [Twitter](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/twitter.md)
   * [Tiktok](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/tiktok.md)
-* [İnternette Güvende Kalma](sosyal-medya-guevenligi/internette-guevende-kalma.md)
+* [🛒 İnternette Güvende Kalma](sosyal-medya-guevenligi/internette-guevende-kalma.md)
 
 ## Sosyal Mühendislik
 
