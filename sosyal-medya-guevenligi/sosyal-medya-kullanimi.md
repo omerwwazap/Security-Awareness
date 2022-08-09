@@ -10,7 +10,7 @@ Sosyal medya, aileniz ve arkadaşlarınızla iletişimde kalmanın ve güncel ha
 
 ### Gizlilik ayarlarını düzenleyin
 
-Dijital ayak izinizi yönetmek için sosyal medya platformlarında gizlilik ayarlarını düzenleyin. Sosyal medya platformlarından tavsiyeler;&#x20;
+Dijital ayak izinizi yönetmek için sosyal medya platformlarında gizlilik ayarlarını düzenleyin. Sosyal medya platformlarından tavsiyeler;
 
 * [Facebook - Temel Gizlilik Kontrolleri ve Araçlar](https://www.facebook.com/help/325807937506242/)
 * [Youtube - Gizlilik ve güvenlik merkezi](https://support.google.com/youtube/topic/2803240?hl=tr\&ref\_topic=6151248)
@@ -35,22 +35,24 @@ Sosyal Medya kullanımında çok dikkate alınmayan bir kavramdır, Dijital Ayak
 * Takipçileriniz paylaştığınız şeyleri bilmesi gerekiyor mu? Kötü bir aktör tarafından kullanılabilecek bir bilgi içeriyor mu? bu sorulara cevap vermeden paylaşım yapmayın.
 * Sosyal medyada arkadaşlarınız sizin hakkınızda ne paylaşıyor takip edin, yukarıdaki maddelere göre bunları düşün gerekirse kaldırmalarını isteyin.
 
-### Sosyal medya ve çocuklar
+### Karmaşık bir şifre kullanın
 
-Geleceği yazanlar'lar cocuklar kısmı - koontrol et
+Sosyal medya tamamen paylaşmakla ilgilidir, bu nedenle şifreniz evcil hayvanınızın adı gibi sosyal medyada paylaştığınız bir şeyse, bir siber suçlunun tahmin etmesi kolay olacaktır. Her sosyal medya hesabı için benzersiz bir parola veya parola kullandığınızdan emin olun. Daha fazla bilgi için [cihazlarinizi-ve-verilerinizi-korumak-icin-parola-kullanma.md](../parola-guevenligi/cihazlarinizi-ve-verilerinizi-korumak-icin-parola-kullanma.md "mention")
 
-[https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/](https://www.internetmatters.org/resources/online-gaming-top-tips-for-parents/)
+### Çok faktörlü kimlik doğrulamayı etkinleştir
 
-[https://www.internetmatters.org/resources/tech-guide/gaming-consoles-for-children/](https://www.internetmatters.org/resources/tech-guide/gaming-consoles-for-children/)
+Çoğu sosyal medya sitesi, çok faktörlü kimlik doğrulama (MFA) sunar. Hesabınızı güvende tutmak için her zaman ayarlarınızda MFA'yı açın. Daha fazla bilgi için [iki-faktoerlue-kimlik-dogrulama-2fa.md](../parola-guevenligi/iki-faktoerlue-kimlik-dogrulama-2fa.md "mention")
 
-[https://www.net-aware.org.uk/networks/?order=-popularity\&category=Gaming](https://www.net-aware.org.uk/networks/?order=-popularity\&category=Gaming)
+### Review your privacy settings often
 
-[https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi](https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi)
+Kimin neyi görebileceğini kontrol etmek için sosyal medya sitelerindeki gizlilik ve güvenlik ayarlarını kullanın - varsayılan ayarlar muhtemelen yabancılara istediğinizden daha fazla erişim sağlar.
 
-[https://www.yedam.org.tr/cocuklarin-internet-kullaniminin-barindirdigi-riskler-ve-ebeveynlere-oneriler](https://www.yedam.org.tr/cocuklarin-internet-kullaniminin-barindirdigi-riskler-ve-ebeveynlere-oneriler)
+### Özel bilgileri gizli tutun
 
-[https://support.kaspersky.com/KIS4Mac/16.0/tr.lproj/pgs/59194.htm](https://support.kaspersky.com/KIS4Mac/16.0/tr.lproj/pgs/59194.htm)
+Dikkatli olsanız bile, ekranın diğer tarafında kimin olduğunu asla bilemezsiniz. Sosyal medyada paylaşım yaparken, bunları paylaşmaktan kaçının:
 
-[https://www.ncsc.gov.uk/guidance/social-media-protect-what-you-publish](https://www.ncsc.gov.uk/guidance/social-media-protect-what-you-publish)
-
-[https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely)
+* Telefon numaranız, e-posta adresiniz, ev adresiniz, iş bilgileriniz veya çocuğunuzun okulu gibi kişisel bilgiler
+* Bilgilendirici resimler: Sokak işaretleri veya plakalar gibi açıklayıcı bilgiler için göndermeden önce resimlerin arka planını kontrol edin.
+* Coğrafi etiketli fotoğraflar: Çoğu akıllı telefon ve dijital kamera, fotoğrafın çekildiği tam konumu otomatik olarak ekler. Birçok sosyal medya sitesi, bir fotoğraf yayınladığınızda bu bilgileri saklamaz. Ancak her ihtimale karşı kontrol etmekte fayda var.
+* Heyecan verici haberler: Tatil ayrıntıları, büyük alışverişler veya adresinizle ilgili etkinlikler, suçluların siz yokken evinizi soyma fırsatı olduğunu bilmesini sağlayabilir
+* Bankanızın adı, kredi kartı veya banka kartı numaraları ve diğer finansal bilgiler dahil olmak üzere bankacılık veya finansal bilgiler.
