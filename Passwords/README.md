@@ -22,6 +22,11 @@ Parolalarınızı güvenli bir yerde saklarsanız, onları hatırlamak zorunda k
 - Çoğu web tarayıcısı, çevrimiçi şifrelerinizi saklamayı teklif eder. Bunu yapmak güvenlidir. Tarayıcılar, kimlik avı e-postalarının sizi ziyaret etmeniz için kandırmaya çalıştığı 'tehlikeli' web sitelerini de algılar ve gerçek bir siteyi taklit eden sitelerde şifre hatırlama özelliği çalışmaz.
 - Güçlü parolalar oluşturmanıza ve saklamanıza yardımcı olması için bağımsız bir parola yöneticisi uygulaması da kullanabilirsiniz.
 
+## Her Hesap için farklı bir şifre kullanın
+
+Birçok kişi birden fazla hesap ve cihaz için aynı şifreyi kullanıyor. Ne yazık ki, bunun büyük bir sorunu var: Bir siber suçlu, hesaplarınızdan birine erişirse, hepsine erişebilir.
+Bir biri ile farklı şifreler kullanmak, şifrenizin çalınması durumunda tüm hesaplarınızı korumanın en kolay yoludur. Ayrıca, birden fazla parolayı hatırlamakta sorun yaşıyorsanız her zaman bir parola yöneticisi deneyebilirsiniz.
+
 ## Password Manager (Şifre Yöneticisi)
 
 Ayrı şifrelere sahip olmak çok iyi, ama hepsini nasıl hatırlıyorsunuz?
