@@ -31,7 +31,7 @@ This repo was for a university course aimed at increasing children's awareness o
 - Online Alışveriş Güvenliği
   - [Güvenli Alışveriş](Shopping/README.md)
 - Authentication
-  - [İki Faktörlü Doğrulama](Authentication/README.md)
+  - [İki Faktörlü Doğrulama](Authentication/Authentication.md)
 - Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak
   - [Kişisel Cihazlarınızı Virüslerden ve Zararlı Yazılımlardan Korumak](Protecting%20Devices/README.md)
 
