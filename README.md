@@ -8,6 +8,10 @@ coverY: 290.1554404145078
 
 # Siber Güvenlik Farkındalığı
 
+{% hint style="info" %}
+Gitbook URL: [https://omerwwazap.gitbook.io/security-awareness/](https://omerwwazap.gitbook.io/security-awareness/)
+{% endhint %}
+
 ## İçerik
 
 | Başlık                           | Alt Başlık                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                               |
