@@ -49,6 +49,10 @@ Birçok şirket, hesaplarınızda iki faktörlü kimlik doğrulama (2FA olarak d
 - Aynı şifreyi başka hesaplarda kullandıysanız, bunları da değiştirin.
 - www.haveibeenpwned.com web sitesini kullanarak, bilgilerinizin büyük bir veri ihlalinde kamuya açıklanıp yayınlanmadığını kontrol edebilirsiniz.
 
+## Şifrenizi asla paylaşmayın
+
+Bu bariz olmalı. Ama her ihtimale karşı: şifrelerinizi asla ama asla kimseyle paylaşmayın!
+
 -------
 **Kaynak**
 - https://gelecegiyazanlar.turkcell.com.tr/blog/unutulmayacak-guclu-ve-karmasik-sifreler-nasil-belirlenir
