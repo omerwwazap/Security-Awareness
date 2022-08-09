@@ -67,3 +67,10 @@ Eeğer hali hazırda tüm platformlarınızda aynı tarayıcı kullanıyorsa tar
 Farklı platformlarda aynı taraycısı kullanmak istemiyorsanız veya işerli sadece parola yöneticisi yapmak olan şirket bu uygulamaları daha çok koruyabilir diye düşünüyorsanız ve tarayıcınızdan farklı olarak tek bir master şifre ile şifrelerinizin daha da güvende olacağını düşünüyorsanız o zaman bağımız uygulamaları kullanabilirsiniz.
 
 Temelde ikisininde artıları ve eskileri bulunmakta ve kendi durumunuza göre kullanacağız yönetimi belirlemeniz çok daha doğru olacaktır.
+
+## Kullanacaksam Neye Dikkat etmeliyim
+
+- Parola yöneticinizin parolası (Master Password), sahip olduğunuz her hesabın anahtarıdır, bu nedenle onu güvende tutmak için ekstra dikkatli olmanız gerekir.
+- Parolalarınızı sadece başka bir parola ile korumak yeterli değildir. Mümkünse çok faktörlü kimlik doğrulamayı etkinleştirin.
+- **Tüm parolalar için en iyi seçim olmayabilirler. E-postanız ve bankanız gibi çok kullandığınız veya hassas hesapların şifreleri eski moda bir şekilde saklanması daha iyi olabilir. Örnk; aklınızda**
+
