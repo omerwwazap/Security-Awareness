@@ -26,7 +26,7 @@ IT sektöründe dalgası geçildiği gibi çok ciddi sorunları olmasa da, olabi
 
 Bazı cihazlar ilk açıldıklarında güvenli olmayabilir, bu nedenle kendinizi korumak için bazı hızlı adımlar atmanız gerekir.
 
-Cihaz, kolayca tahmin edilebilir görünen bir Parola ile geliyorsa (örneğin admin, root veya 12345), acilen değiştirin. Kamera veya mikrofonu olan bir cihaz ise izinsiz olarak, sizin haberiniz olmadan görüntülenebilir ve dinlenebilirsiniz.
+Cihaz, kolayca tahmin edilebilir görünen bir şifre ile geliyorsa (örneğin admin, root veya 12345), acilen değiştirin. Kamera veya mikrofonu olan bir cihaz ise izinsiz olarak, sizin haberiniz olmadan görüntülenebilir ve dinlenebilirsiniz.
 
 Bazı üreticilerin kontrol panelinde gizlik veya güvenlik adı altında ayarları vardır. Bunları mutlaka kontrol edin.
 

@@ -60,7 +60,7 @@ Phishing e-postaları gerçek görünür (Kurum için yapılan LinkedIn testimiz
 Kullandığınız akıllı telefonlar, tabletler, dizüstü bilgisayarlar veya masaüstü bilgisayarlar hem uzaktan hem de fiziksel olarak istismar edilebilir, ancak onları birçok yaygın saldırıdan koruyabilirsiniz.
 
 * Yazılım güncellemelerini göz ardı etmeyin - bunlar cihazınızın güvenliğini sağlayan yamalar içerir. Kuruluşunuz güncellemeleri yönetebilir, ancak herhangi birini yüklemeniz istenirse, yaptığınızdan emin olun.
-* Cihazınızı kullanmadığınız zamanlarda daima kilitleyin. Bir PIN, Parola veya parmak izi/yüz kimliği kullanın. Bu, kilidi açık bırakılırsa, kaybolursa veya çalınırsa bir saldırganın bir aygıtı kullanmasını zorlaştıracaktır.
+* Cihazınızı kullanmadığınız zamanlarda daima kilitleyin. Bir PIN, şifre veya parmak izi/yüz kimliği kullanın. Bu, kilidi açık bırakılırsa, kaybolursa veya çalınırsa bir saldırganın bir aygıtı kullanmasını zorlaştıracaktır.
 * Tehlikeli uygulamaları indirmekten kaçının. Yalnızca virüslere karşı bir miktar koruma sağlayan resmi uygulama mağazalarını (Google Play veya Apple App Store gibi) kullanın. Bilinmeyen satıcılardan ve kaynaklardan uygulama indirmeyin.
 
 ####
@@ -70,7 +70,7 @@ Kullandığınız akıllı telefonlar, tabletler, dizüstü bilgisayarlar veya m
 Saldırganlar en yaygın şifreleri (ör. şifre1, 1q2w3e4r5t6y) deneyecek veya hesaplarınıza erişmeye çalışmak için herkese açık bilgileri kullanacak. Başarılı olursa, diğer hesaplarınıza erişmek için aynı şifreyi kullanabilirler.
 
 * Önemli hesaplar için güçlü(rastgele seçilmiş üç kelime gibi) ve akılda kalıcı bir parola oluşturun. Tarihler, aile ve evcil hayvan adları gibi öngörülebilir parolalar kullanmaktan kaçının.
-* İş hesabınız için ayrı bir Parola kullanın. Bir hesabın güvenliği ihlal edilirse, saldırganın iş parolanızı da bilmesini istemezsiniz.
+* İş hesabınız için ayrı bir şifre kullanın. Bir hesabın güvenliği ihlal edilirse, saldırganın iş parolanızı da bilmesini istemezsiniz.
 * Seçeneğiniz varsa, bankacılık ve e-posta gibi önemli web siteleri için iki faktörlü kimlik doğrulama (2FA) kullanın.
 
 ###

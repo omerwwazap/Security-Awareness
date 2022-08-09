@@ -1,7 +1,7 @@
 ---
 description: >-
   Uluslararası güvenlik kuruluşları ve siber güvenlik şirketlerinin sıklıkla
-  bahsettiği Parola Yöneticilerini kullanmanızı istemekte.
+  bahsettiği Şifre Yöneticilerini kullanmanızı istemekte.
 ---
 
 # 🔑 Parola Yöneticileri
@@ -22,15 +22,15 @@ Bu doküman bir tavsiye niteliğindedir. Kullanıp kullanmayacağınıza ve nas�
 
 </details>
 
-### Parola yöneticisi nedir?
+### Şifre yöneticisi nedir?
 
 Parola yöneticisi, telefonunuzda, tabletinizde veya bilgisayarınızda parolalarınızı güvenli bir şekilde saklayan ve böylece tüm şifrelerinizi hatırlamanıza gerektirmeyen bir uygulamadır.&#x20;
 
-Bazı Parola yöneticileri, şifrelerinizi farklı cihazlarınız arasında senkronize ederek, nerede olursanız olun oturum açmayı kolaylaştırır. Bazıları, yeni bir parola oluşturmanız (veya mevcut bir parolayı değiştirmeniz) gerektiğinde sizin için rastgele, benzersiz parolalar da oluşturabilir.
+Bazı şifre yöneticileri, şifrelerinizi farklı cihazlarınız arasında senkronize ederek, nerede olursanız olun oturum açmayı kolaylaştırır. Bazıları, yeni bir parola oluşturmanız (veya mevcut bir parolayı değiştirmeniz) gerektiğinde sizin için rastgele, benzersiz parolalar da oluşturabilir.
 
-### Bir Parola yöneticisi kullanmalı mıyım?
+### Bir şifre yöneticisi kullanmalı mıyım?
 
-Kısacası evet. Parola yöneticileri çok iyi bir şeydir. Herkesin hatırlaması gereken çok fazla parolanın olduğu bir dünyada size büyük avantajlar sağlarlar. Örneğin;
+Kısacası evet. Şifre yöneticileri çok iyi bir şeydir. Herkesin hatırlaması gereken çok fazla parolanın olduğu bir dünyada size büyük avantajlar sağlarlar. Örneğin;
 
 * Farklı siteler ve hizmetler arasında uzun, karmaşık, benzersiz parolaları ezberlemek zorunda kalmadan, güçlü parolalar kullanmanızı sağlar.
 * Sahte web sitelerini tespit etmede insanlardan daha iyidirler, bu nedenle kimlik avı saldırılarına düşmenizi önlemeye yardımcı olabilirler.
@@ -46,25 +46,25 @@ Peki gerçekten kusursuzlar mı? Hemen hiç düşünmeden kullanmaya başlamalı
 * Parola yöneticileri tek başına çok çekici bir saldırı hedefidir. Tüm şifrelerinizi barındıran tek bir sistem olması büyük bir risktir. Örnek vermek gerekirse çok kullanılan bir parola yöneticisi olan LastPass 2021 Aralık ayında uygulamalarına izin erişim girişimi bulunulduğunu açıkladı. Olay hakkında yazı [LastPass says no passwords were compromised following breach scare](https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare).
 * Geçmişte başarılı bir şekilde saldırıya uğradılar ve gerçekçi olmak gerekirse tekrar olacaktır.
   * 2017, 2016, 2015 ve 2014 de KeePass, LatsPass, Keeper ve 1Password gibi bir çok bilinen uygulama zafiyetler bulundu.
-* Onları her şey için kullanamazsınız. Bazı servisler (belirli bankalar gibi) Parola yöneticilerinin kullanımını desteklemez. Parola yöneticilerin otomatik olarak şifreleri girmesine izin vermez.
-* Banka şifrelerinizi bir Parola yöneticisine koyduğunuzu (veya herhangi bir şekilde not ettiğinizi) söylerseniz, siber suç mağduru olmanız durumunda paranızı size geri vermeyebilirler. İşin iyi yanı, parolalarınızın çoğunu ezberlemek zorunda olmadığınız için sadece banka şifrenizi ezberlemek kolay olacaktır. (Bazı bankalar Parola yöneticilerini 3. şahıs olarak gördüğü için, şifrelinizi alenen başkasına vermiş gibi değerlendirebilir ve yapılan harcamalardan sizin sorumlu olduğunuzu idaa edebilir, paranızı geri vermeye bilir.)
+* Onları her şey için kullanamazsınız. Bazı servisler (belirli bankalar gibi) şifre yöneticilerinin kullanımını desteklemez. Parola yöneticilerin otomatik olarak şifreleri girmesine izin vermez.
+* Banka şifrelerinizi bir şifre yöneticisine koyduğunuzu (veya herhangi bir şekilde not ettiğinizi) söylerseniz, siber suç mağduru olmanız durumunda paranızı size geri vermeyebilirler. İşin iyi yanı, parolalarınızın çoğunu ezberlemek zorunda olmadığınız için sadece banka şifrenizi ezberlemek kolay olacaktır. (Bazı bankalar şifre yöneticilerini 3. şahıs olarak gördüğü için, şifrelinizi alenen başkasına vermiş gibi değerlendirebilir ve yapılan harcamalardan sizin sorumlu olduğunuzu idaa edebilir, paranızı geri vermeye bilir.)
 
-### Tarayıcı tabanlı bir Parola yöneticisi kullanmalı mıyım?
+### Tarayıcı tabanlı bir şifre yöneticisi kullanmalı mıyım?
 
 Birçok web tarayıcısı artık yerleşik parola yöneticileriyle birlikte gelir ve bunlar çok iyi bir seçim olabilir. Web tarayıcısı ile tamamen entegre oldukları için kullanımı çok kolaydır.
 
 Böylece, parola gerektiren bir web sitesinde olduğunuzu anlarlar ve hemen açılırlar ve verileri otomatik ya da size sorarak girerler. Bu algılamayı yaparken siteleri kontrol ettikleri için sahte (oltalama) sitelerinde doğaları gereği çalışmazlar.
 
-Bu nedenle, aşağıdakileri sağlamak koşuluyla tarayıcıların Parola yöneticisini kullanmaktan çekinmeyin;
+Bu nedenle, aşağıdakileri sağlamak koşuluyla tarayıcıların şifre yöneticisini kullanmaktan çekinmeyin;
 
 * Web tarayıcınızı güncel tutarsınız.
-* Cihazınızda PIN/Parola/biyometrik gibi bir tür erişim kontrolünüz olması. Bunları zaten yapıyor olmalısınız :)
+* Cihazınızda PIN/şifre/biyometrik gibi bir tür erişim kontrolünüz olması. Bunları zaten yapıyor olmalısınız :)
 
 Tarayıcı tabanlı parola yöneticilerinin bir dezavantajı, farklı işletim sistemleri kullanıyorlarsa parolalarınızın tüm cihazlarınız arasında otomatik olarak eşitlenmeyebilmesidir. Dolayısıyla, bir Windows dizüstü bilgisayarınız, bir iPad'iniz ve bir Android akıllı telefonunuz varsa, tüm cihazlarınızda aynı web tarayıcısını kullanmadığınız ve oturum açmadığınız sürece parolalarınız sizinle beraber cihaz değiştirmez. Ayrıca, aynı kullanıcı profilindeki bir cihazı birden fazla kişi kullanıyorsa, hepsinin aynı parola korumalı içeriğe erişimi olacaktır. Bu da büyük ihtimalle istenmeyen bir şeydir.
 
 ### Bağımsız bir parola yöneticisi kullanmalı mıyım?
 
-Tarayıcı tabanlı yöneticilerle karşılaştırıldığında, bağımsız Parola yöneticileri, hangi platformda olurlarsa olsunlar, şifrelerinizi farklı cihazlarınızda kullanımınız konusunda daha iyi bir iş çıkarma eğilimindedir.
+Tarayıcı tabanlı yöneticilerle karşılaştırıldığında, bağımsız şifre yöneticileri, hangi platformda olurlarsa olsunlar, şifrelerinizi farklı cihazlarınızda kullanımınız konusunda daha iyi bir iş çıkarma eğilimindedir.
 
 Daha da önemlisi, bağımsız bir parola yöneticisiyle (tarayıcı tabanlı parolanın aksine) uzun bir ana parola oluşturmanız (Master Password) ve hatırlamanız gerekir. Bağımsız parola yöneticileri ayrıca aşağıdakiler gibi daha gelişmiş özellikler içerebilir;
 
@@ -75,8 +75,8 @@ Daha da önemlisi, bağımsız bir parola yöneticisiyle (tarayıcı tabanlı pa
 
 ### &#x20;Peki hangisini kullanmalıyım?
 
-Eğer hali hazırda tüm platformlarınızda aynı tarayıcı kullanıyorsa tarayıcınız içinde bulunan Parola yöneticisini kullanabilirsiniz, sadece tüm platformlarda tarayıcınızın güncel her zaman olduğundan emin olun ve otomatik güncellemeleri açmayı unutmayın.
+Eğer hali hazırda tüm platformlarınızda aynı tarayıcı kullanıyorsa tarayıcınız içinde bulunan şifre yöneticisini kullanabilirsiniz, sadece tüm platformlarda tarayıcınızın güncel her zaman olduğundan emin olun ve otomatik güncellemeleri açmayı unutmayın.
 
-Farklı platformlarda aynı tarayıcısı kullanmak istemiyorsanız veya işaretli sadece parola yöneticisi yapmak olan şirket bu uygulamaları daha çok koruyabilir diye düşünüyorsanız ve tarayıcınızdan farklı olarak tek bir master Parola ile şifrelerinizin daha da güvende olacağını düşünüyorsanız o zaman bağımız uygulamaları kullanabilirsiniz.
+Farklı platformlarda aynı tarayıcısı kullanmak istemiyorsanız veya işaretli sadece parola yöneticisi yapmak olan şirket bu uygulamaları daha çok koruyabilir diye düşünüyorsanız ve tarayıcınızdan farklı olarak tek bir master şifre ile şifrelerinizin daha da güvende olacağını düşünüyorsanız o zaman bağımız uygulamaları kullanabilirsiniz.
 
 Temelde ikisinin de artıları ve eskileri bulunmakta ve kendi durumunuza göre kullanacağız yönetimi belirlemeniz çok daha doğru olacaktır.
