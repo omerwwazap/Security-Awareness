@@ -32,101 +32,92 @@ More will be added..
 | Water-holing   | Türkçe Ekle   | Sitenin hacklenmesi ile bu siteye giren birçok kullanıcının cihazlarının zafiyetlerinden faydalanarak bu cihazlara sızmayı hedefleyen bir saldırıdır. Bu saldırıya Watering Hole denmesinin sebebi aslında su kaynağının başında bekleyen timsahın, sudan içmek isteyen ceylanlara saldırması gibi bir yöntem olmasıdır.
 | Worm  | Solucan  | Kendisini kopyalayabilen ve insan yardımı olmadan bilgisayar virüsleri yoluyla çoğalabilen bağımsız kötü amaçlı programlardır.
 | Zero-day  | Sıfırıncı Gün Açığı  | Daha önceden bilinmeyen veya tespit edilmemiş ancak ciddi saldırılara yol açacak zafiyetler barındıran yazılım veya donanım kusurlarıdır. Zeroday açıklıkları çoğunlukla saldırı gerçekleşene kadar tespit edilmesi zor olan zafiyetlerdir. Zeroday saldırısı ise geliştiricilerin bir yama veya düzeltme yayınlamaya fırsat bulamadan saldırganın zafiyeti istismar etmesi ve zararlı yazılımı yaymasıyla gerçekleşir. Bu nedenle bu zafiyet sıfırıncı gün açıklığı (zeroday) olarak isimlendirilmiştir.
-| Sql Injection | Sql Eenjeksiyon  |s
-| Vulnerability | Güvenlik zaafiyeti  |s
-| Exploit  | Content Cell  |s
-| Local Exploits | Yerel Zayıflıklar  |s
-| Remote Exploits | Uzaktan Çalıştırabilen Zayıflıklar  |s
-| Command Execution Exploits | Komut Çalıştırma Zayıflıkları  |s
-| Reverse Engineering : Ters Mühendislikl  |s
-| Brute Force | Kaba Kuvvet Saldırısı  |s
-| Authentication  | Content Cell  |s
-| Cookie | Çerez  |s
-| Man-in-the-middle Attack | Aradaki adam saldırısı  |s
-| Masquerading | Maskeleme  |s
-| Advanced Persistent Threat  (APT)  | Content Cell  | An adversary that possesses sophisticated levels of expertise and significant resources which allow it to create opportunities to achieve its objectives by using multiple attack vectors (e.g., cyber, physical, and deception).
-| Air Gap    | Content Cell  | The physical separation or isolation of a system from other systems or networks.
-| availability    | Content Cell  | The property of being accessible and usable upon demand.
-| confidentiality  | Content Cell  | A property that information is not disclosed to users, processes, or devices unless they have been authorized to access the information
-| integrity  | Content Cell  | The property whereby information, an information system, or a component of a system has not been modified or destroyed in an unauthorized manner.
-| behavior monitoring  | Content Cell  | Observing activities of users, information systems, and processes and measuring the activities against organizational policies and rule, baselines of normal activity, thresholds, and trends.
-| Blue Team  | Content Cell  |s
-| White Team  | Content Cell  |s
-| Red Team  | Content Cell  | A group authorized and organized to emulate a potential adversary’s attack or exploitation capabilities against an enterprise’s cybersecurity posture.
-| Purple Team  | Content Cell  |s
-| bot  | Content Cell  | A computer connected to the Internet that has been surreptitiously / secretly compromised with malicious logic to perform activities under remote the command and control of a remote administrator.
-| bot master  | Content Cell  | The controller of a botnet that, from a remote location, provides direction to the compromised computers in the botnet.
-| critical infrastructure    | Content Cell  | The systems and assets, whether physical or virtual, so vital to society that the incapacity or destruction of such may have a debilitating impact on the security, economy, public health or safety, environment, or any combination of these matters.
-| cryptography    | Content Cell  |s
-| cyber exercise    | Content Cell  |s
-| cyber infrastructure  | Content Cell  |s
-| Cyber Operations    | Content Cell  |s
-| Cyber Threat Intelligence (CTI) | Content Cell  |s
-| data aggregation  | Content Cell  |s
-| data breach    | Content Cell  |s
-| data integrity  | Content Cell  |s
-| data loss prevention (DLP)  | Content Cell  |s
-| digital signature  | Content Cell  |s
-| exfiltration  | Content Cell  |s
-| hashing  | Content Cell  |s
-| incident management  | Content Cell  |s
-| incident responsel  | Content Cell  |s
-| information assurance  | Content Cell  |s
-| information security policy  | Content Cell  |s
-| information sharing    | Content Cell  |s
-| inside( r) threat | Content Cell  |s
-| intrusion  | Content Cell  |s
-| malicious code  | Content Cell  |s
-| malicious logic | Content Cell  |s
-| mitigation  | Content Cell  |s
-| outside( r) threat  | Content Cell  |s
-| pen test  | Content Cell  |s
-| Spoofing | Content Cell  |s
-| supply chain  | Content Cell  |s
-| threat  actor |  t Cell  |s
-| unauthorized access  | Content Cell  |s
-| authentication   | Content Cell  |s
-| authorization   | Content Cell  |s
-| BYOD (Bring Your Own Device)   | Content Cell  |s
-| clickjacking   | Content Cell  |s
-| DMZ (Demilitarized Zone)  | Content Cell  |s
-| eavesdropping   | Content Cell  |s
-| hacktivism   | Content Cell  |s
-| honeypot  | Content Cell  |s
-| identity cloning  | Content Cell  |s
-| identity fraud  | Content Cell  |s
-| link jacking  | Content Cell  |s
-| SCADA (Supervisory Control and Data Acquisition) | Content Cell  |s
-| Cache | Content Cell  |s
-| Cache Cramming | Content Cell  |s
-| Cache Poisoning  | Content Cell  |s
-| Cipher | Content Cell  |s
-| Ciphertext  | Content Cell  |s
-| Cookie  | Content Cell  |s
-| Domain Name System (DNS)  | Content Cell  |s
-| GNU  | Content Cell  |s
-| National Institute of Standards and Technology (NIST)  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Password Cracking  | Content Cell  |s
-| Password Sniffing  | Content Cell  |s
-| Request for Comment (RFC)  | Content Cell  |s
-| Threat Vector  | Content Cell  |s
-| Threat Model | Content Cell  |s
-| Threat Assessment| Content Cell  |s
-| Wiretapping  | Content Cell  |s
-| TEMPEST  | Content Cell  |s
-| Command and control center (C2 or C&C)  | Content Cell  |s
-| Hacktivism  | Content Cell  |s
-| Skimming  | Content Cell  |s
-| Zip bomb  | Content Cell  |s
-| electronic intelligence (ELINT)  | Content Cell  |s
-| imagery intelligence (IMINT)  | Content Cell  |s
-| open source intelligence (OSINT)  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
-| Content Cell  | Content Cell  |s
+| Sql Injection | Sql Eenjeksiyon  | TASLAK
+| Vulnerability | Güvenlik zaafiyeti  |TASLAK
+| Exploit  | Content Cell  |TASLAK
+| Local Exploits | Yerel Zayıflıklar  |TASLAK
+| Remote Exploits | Uzaktan Çalıştırabilen Zayıflıklar  |TASLAK
+| Command Execution Exploits | Komut Çalıştırma Zayıflıkları  |TASLAK
+| Reverse Engineering | Ters Mühendislikl  |TASLAK
+| Brute Force | Kaba Kuvvet Saldırısı  |TASLAK
+| Authentication  | Content Cell  |TASLAKTASLA
+| Cookie | Çerez  |TASLAK
+| Man-in-the-middle Attack | Aradaki adam saldırısı  |TASLAK
+| Masquerading | Maskeleme  |TASLAK
+| Advanced Persistent Threat  (APT)  | Content Cell  | TASLAK
+| Air Gap    | Content Cell  | TASLAK
+| Availability    | Content Cell  | TASLAK
+| confidentiality  | Content Cell  | TASLAK
+| Integrity  | Content Cell  | TASLAK
+| Behavior monitoring  | Content Cell  | TASLAK
+| Blue Team  | Content Cell  |TASLAK
+| White Team  | Content Cell  |TASLAK
+| Red Team  | Content Cell  | TASLAK
+| Purple Team  | Content Cell  |TASLAK
+| Bot  | Content Cell  | TASLAK
+| Bot master  | Content Cell  | TASLAK
+| Critical infrastructure    | Content Cell  |TASLAK
+| Cryptography    | Content Cell  |TASLAK
+| Cyber exercise    | Content Cell  |TASLAK
+| Cyber infrastructure  | Content Cell  |TASLAK
+| Cyber Operations    | Content Cell  |TASLAK
+| Cyber Threat Intelligence (CTI) | Content Cell  |TASLAK
+| Data aggregation  | Content Cell  |TASLAK
+| Data breach    | Content Cell  |TASLAK
+| Data integrity  | Content Cell  |TASLAK
+| Data loss prevention (DLP)  | Content Cell  |TASLAK
+| Digital signature  | Content Cell  |TASLAK
+| Exfiltration  | Content Cell  |TASLAK
+| Hashing  | Content Cell  |TASLAK
+| Incident management  | Content Cell  |TASLAK
+| Incident responsel  | Content Cell  |TASLAK
+| Information assurance  | Content Cell  |TASLAK
+| Information security policy  | Content Cell  |TASLAK
+| Information sharing    | Content Cell  |TASLAK
+| Inside( r) threat | Content Cell  |TASLAK
+| Intrusion  | Content Cell  |TASLAK
+| Malicious code  | Content Cell  |TASLAK
+| Malicious logic | Content Cell  |TASLAK
+| Mitigation  | Content Cell  |TASLAK
+| Outside( r) threat  | Content Cell  |TASLAK
+| Pen test  | Content Cell  |TASLAK
+| Spoofing | Content Cell  |TASLAK
+| Supply chain  | Content Cell  |TASLAK
+| Threat  actor |  t Cell  |TASLAK
+| Unauthorized access  | Content Cell  |TASLAK
+| Authentication   | Content Cell  |TASLAK
+| Authorization   | Content Cell  |TASLAK
+| BYOD (Bring Your Own Device)   | Content Cell  |TASLAK
+| Clickjacking   | Content Cell  |TASLAK
+| DMZ (Demilitarized Zone)  | Content Cell  |TASLAK
+| Eavesdropping   | Content Cell  |TASLAK
+| Hacktivism   | Content Cell  |TASLAK
+| Honeypot  | Content Cell  |TASLAK
+| Identity cloning  | Content Cell  |TASLAK
+| Identity fraud  | Content Cell  |TASLAK
+| Link jacking  | Content Cell  |TASLAK
+| SCADA (Supervisory Control and Data Acquisition) | Content Cell  |TASLAK
+| Cache | Content Cell  |TASLAK
+| Cache Cramming | Content Cell  |TASLAK
+| Cache Poisoning  | Content Cell  |TASLAK
+| Cipher | Content Cell  |TASLAK
+| Ciphertext  | Content Cell  |TASLAK
+| Cookie  | Content Cell  |TASLAK
+| Domain Name System (DNS)  | Content Cell  |TASLAK
+| GNU  | Content Cell  |TASLAK
+| National Institute of Standards and Technology (NIST)  | Content Cell  |TASLAK
+| Password Cracking  | Content Cell  |TASLAK
+| Password Sniffing  | Content Cell  |TASLAK
+| Request for Comment (RFC)  | Content Cell  |TASLAK
+| Threat Vector  | Content Cell  |TASLAK
+| Threat Model | Content Cell  |TASLAK
+| Threat Assessment| Content Cell  |TASLAK
+| Wiretapping  | Content Cell  |TASLAK
+| TEMPEST  | Content Cell  |TASLAK
+| Command and control center (C2 or C&C)  | Content Cell  |TASLAK
+| Hacktivism  | Content Cell  |TASLAK
+| Skimming  | Content Cell  |TASLAK
+| Zip bomb  | Content Cell  |TASLAK
+| Electronic intelligence (ELINT)  | Content Cell  |TASLAK
+| Imagery intelligence (IMINT)  | Content Cell  |TASLAK
+| Open source intelligence (OSINT)  | Content Cell  |TASLAK
