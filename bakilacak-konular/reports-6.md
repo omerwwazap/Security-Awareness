@@ -1,6 +1,8 @@
 # Reports 6
 
-
+{% hint style="info" %}
+Düzlenmekte
+{% endhint %}
 
 ## Reports
 

@@ -1,5 +1,9 @@
 # 📩 TASLAK 3
 
+{% hint style="info" %}
+Düzlenmekte
+{% endhint %}
+
 2021 Social Engineering Attacks: A Look Back [https://www.social-engineer.com/2021-social-engineering-attacks-a-look-back/](https://www.social-engineer.com/2021-social-engineering-attacks-a-look-back/)
 
 Social Engineering News: Vishing [https://www.social-engineer.com/social-engineering-news-vishing/](https://www.social-engineer.com/social-engineering-news-vishing/)
