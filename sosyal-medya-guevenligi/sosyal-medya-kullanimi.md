@@ -22,7 +22,7 @@ Dijital ayak izinizi yönetmek için sosyal medya platformlarında gizlilik ayar
 
 Birçok şirket, hesaplarınızda iki faktörlü kimlik doğrulama (2FA olarak da bilinir) kurmanıza izin verir.
 
-* Temelde şifreniz dışında ikinci bir doğrulama mekanizmasıdır, şifre dışında hesabın sahibinin siz olduğu kanıtlar.
+* Temelde şifreniz dışında ikinci bir doğrulama mekanizmasıdır, Parola dışında hesabın sahibinin siz olduğu kanıtlar.
 * 2FA'nın en yaygın biçimi, akıllı telefonunuza devam etmek için girmeniz gereken bir kodun gönderilmesidir. Bankacılık ve e-posta gibi önemli web siteleri için 2FA kurmalısınız.
 * Bir suçlu şifrelerinizi bilse bile, 2FA'yı açarak koruduğunuz tüm hesaplara erişmekte zorlanacaktır.
 * Daha fazla bilgi için 2FA'yı detaylıca ele aldığımız [iki-faktoerlue-kimlik-dogrulama-2fa.md](../parola-guevenligi/iki-faktoerlue-kimlik-dogrulama-2fa.md "mention") adlı dokümanıma bakabilirsiniz.

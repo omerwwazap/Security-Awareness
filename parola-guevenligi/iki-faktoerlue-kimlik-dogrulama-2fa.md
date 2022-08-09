@@ -56,4 +56,4 @@ Son zamanlarda 2FA ürünlerin çok büyük çoğunluğunda kullanılabilir hale
 
 * Kullandığınız ya da kullanmak istediğiniz servisi 2FA olan alternatif bir ürün ile değiştirmeyi düşünmelisiniz.
 * Ürünü yapan firmaya bu talebinizi iletebilirsiniz ve geliştirilmesini isteyebilirsiniz.
-* Kuvvetli bir şifre kullanmak isteyeceksiniz, daha fazla bilgi için Cihazlarınızı ve verilerinizi korumak için şifreleri kullanımı adlı dokümanımıza bakabilirsiniz.
+* Kuvvetli bir Parola kullanmak isteyeceksiniz, daha fazla bilgi için Cihazlarınızı ve verilerinizi korumak için şifreleri kullanımı adlı dokümanımıza bakabilirsiniz.
