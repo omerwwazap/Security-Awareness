@@ -1,9 +1,10 @@
 # Sosyal Medya Kullanımı
 
+Facebook, Twitter ve Instagram gibi Sosyal medya, aileniz ve arkadaşlarınızla iletişimde kalmanın ve güncel haberlerden haberdar olmanın harika bir yoludur. Ancak, onu nasıl kullandığınıza dikkat etmezseniz, sosyal medya, siber suçluların sizin hakkınızda daha fazla bilgi edinmesi için de kolay bir yoldur. Paylaşım yapmadan önce önlem aldığınızdan emin olun.
+
+## Gizlilik ayarlarını düzenleyin
+
 Dijital ayak izinizi yönetmek için sosyal medya platformlarında gizlilik ayarlarını düzenleyin.
-
-Sosyal medya, aileniz ve arkadaşlarınızla iletişimde kalmanın ve güncel haberlerden haberdar olmanın harika bir yoludur. Ancak, kişisel bilgilerinize sizden başka kimsenin erişememesi için hesaplarınızdaki güvenlik ve gizlilik ayarlarını nasıl yöneteceğinizi bilmek önemlidir.
-
 Sosyal medya platformlarından tavsiyeler; (LİNK EKLE)
 
 - [Facebook - Temel Gizlilik Kontrolleri ve Araçlar](https://www.facebook.com/help/325807937506242/)
