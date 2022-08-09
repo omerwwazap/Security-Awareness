@@ -1,33 +1,41 @@
-# 📵 Telefon ve Tabletlerde Güvenlik
+---
+description: >-
+  Cihazlarınızı yedeklemek, verilerinizin, özel fotoğraflarınızın, kişisel
+  dosyalarınızın ve önemli belgelerinizin her zaman korunacağından emin olmanızı
+  sağlar.
+---
 
-[https://www.getcybersafe.gc.ca/en/secure-your-devices/phones-and-tablets](https://www.getcybersafe.gc.ca/en/secure-your-devices/phones-and-tablets)&#x20;
+# 💾 Depolama ve yedekleme
 
-[https://www.getcybersafe.gc.ca/en/secure-your-devices/phones-and-tablets](https://www.getcybersafe.gc.ca/en/secure-your-devices/phones-and-tablets) &#x20;
+### Önemli dosyaları koruyun
 
-[https://www.getcybersafe.gc.ca/en/secure-your-devices/phones-and-tablets](https://www.getcybersafe.gc.ca/en/secure-your-devices/phones-and-tablets)
+En önemli, çoğu zaman yeri doldurulamaz dosyalarımızı bilgisayarlarımızda ve telefonlarımızda saklarız. Bu dosyaları çoğaltmak ve güvenli bir şekilde saklamak, onları kaybetmemizi engeller.
 
+Verilerinizi yedeklemek, dosyaların yanlışlıkla silinmesinden dosyalarınızın ve belgelerinizin yok edildiği toplam sistem arızasına kadar her türlü öngörülemeyen durumda korunmasını sağlar.
 
+Aile fotoğrafları veya finansal belgeler gibi korumak istediğiniz dosyaları yedekleyin. İşletim sisteminizdeki (OS) uygulamaları, yardımcı programları yedeklemeniz gerekmez - bunlar daha sonra yüklenebilir.
 
-### Cihazlarınızın güvenliğini sağlama
+### Size uygun yedekleme çözümünü seçin
 
-Akıllı telefonlar, tabletler ve PC'ler gibi cihazlar giderek daha güvenli hale geliyor, ancak bilgisayar korsanları da onlara saldırma konusunda daha iyi hale geliyor.
+Bulut depolama, dosyalarınızı, belgelerinizi ve fotoğraflarınızı uzak bir veri tabanına kaydeder. Bir bulut depolama hizmeti, bilgisayarınızın veya cihazınızın işletim sistemiyle (OS) standart olarak gelebilir. İşletim sisteminizin sistem tercihlerinde veya ayarlar menüsünde arayarak cihazınızın bir buluta otomatik yedekleme yapıp yapmadığını öğrenebilirsiniz.
 
-Bu nedenle, yeni veya ikinci el bir cihaz satın aldıysanız veya bir süredir güvenlik ayarlarınıza bakmadıysanız, en son tehditlere karşı korunduğunuzdan emin olmak için biraz zaman ayırmalısınız. Neyse ki çoğu üretici, cihazlarınızı nasıl güvence altına alacağınız konusunda kullanımı kolay rehberlik sağlar.
+Harici sabit sürücüler, dosyaların, belgelerin ve fotoğrafların bir kopyasını kaydetmek için bilgisayarınıza veya cihazınıza bağlanabilen cihazlardır. Dosyaları yedeklemek için harici sabit sürücünüzü düzenli olarak bağlayın. Yedekleme tamamlandığında bağlantısını kesmeyi unutmayın.
 
-Korunduğunuzdan emin olmak için birkaç ayda bir veya yeni bir cihaz aldığınızda bu kılavuzları\* gözden geçirmenizi öneririz.
+Harici depolama ayrıca bir USB anahtarında, CD'lerde veya DVD'lerde de yapılabilir.
 
-Apple - [https://www.apple.com/uk/privacy/control/](https://www.apple.com/uk/privacy/control/)
+İçinizin daha rahat etmesi için dosyalarınızı iki farklı depolama aygıtına yedeklemeyi düşünebilirsiniz. Dosyalarınızı ve belgelerinizi harici olarak yedeklemenin, hasar görmeleri veya tehlikeye girmeleri durumunda onları kurtarmanıza yardımcı olabileceğini unutmayın.
 
-Google (Android) - [https://safety.google/security/security-tips/](https://safety.google/security/security-tips/)
+### Bir yedekleme zamanlaması ayarlayın
 
-Samsung - [https://www.samsung.com/global/galaxy/security/](https://www.samsung.com/global/galaxy/security/)
+Bazı harici sabit sürücüler, sizin için her şeyi düzenli olarak yedekleyen otomatik yedekleme yazılımı ile önceden yüklenmiş olarak gelir. Değilse, verilerinizi en az haftada bir kez yedeklemeniz için kendinize bir hatırlatıcı ayarlayın.
 
-Microsoft - [https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963](https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963)
+### Yedeklerinizi koruyun
 
-XXXXX - XXXXX
+İster bulutu, ister fiziksel yedeklemeyi kullanıyor olun, parolaları etkinleştirin veya mümkün olduğunda diğer şifreleme güvenliklerini kullanın.
 
-XXXXX - XXXXX
+Ayrıca, hem çalınma hem de yok olma olasılığını en aza indirmek için veri yedekleme depolamanızı bilgisayarınızdan ayrı veya hatta evden uzakta tutabilirsiniz.
 
-XXXXX - XXXXX
+### Kullandığınız Bulut Hizmetini Bilin
 
-Check This [https://gelecegiyazanlar.turkcell.com.tr/blog/akilli-telefonlarda-guvenlik-riskleri](https://gelecegiyazanlar.turkcell.com.tr/blog/akilli-telefonlarda-guvenlik-riskleri)
+Verilerinizi yedeklemek için bulut depolama kullanıyorsanız, bulut sağlayıcınız tarafından sunulan gizlilik politikalarını ve güvenlik özelliklerini inceleyin. Örneğin, sağlayıcılar birkaç aylık geçmiş dosya kurtarma veya fidye yazılımlarına karşı koruma sunabilir. Bulut hizmetiniz için güçlü bir parola kullandığınızdan emin olun.
+

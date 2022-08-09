@@ -77,8 +77,6 @@
 
 * [Check This Out](bakilacak-konular/check-this-out.md)
 * [Page 3](bakilacak-konular/page-3.md)
-* [Page 4](bakilacak-konular/page-4.md)
-* [Page 5](bakilacak-konular/page-5.md)
 * [Reports 6](bakilacak-konular/reports-6.md)
 
 ## Referanslar
