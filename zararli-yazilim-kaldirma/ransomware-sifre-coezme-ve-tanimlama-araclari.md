@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 🔥 Ransomware Şifre Çözme ve Tanımlama Araçları
 
 {% hint style="danger" %}
