@@ -24,7 +24,7 @@
 ## Veri İhlalleri Öncesi ve Sonrası
 
 * [⚔ Veri İhlalleri Sonrası Korunma Yolları](veri-ihlalleri-oencesi-ve-sonrasi/veri-ihlalleri-sonrasi-korunma-yollari.md)
-* [🔠 Depolama ve Yedekleme](veri-ihlalleri-oencesi-ve-sonrasi/depolama-ve-yedekleme.md)
+* [🔠 Delete](veri-ihlalleri-oencesi-ve-sonrasi/Delete.md)
 
 ## Parola Güvenliği
 
@@ -47,8 +47,8 @@
 * [💻 Virüslerden ve Zararlı Yazılımlardan Korumak](kisisel-cihazlarinizi-korumak/virueslerden-ve-zararli-yazilimlardan-korumak.md)
 * [🛰 Cihaz ve Ağ Güvenliği](kisisel-cihazlarinizi-korumak/cihaz-ve-ag-guevenligi.md)
 * [🖲 Uygulama Güvenliği](kisisel-cihazlarinizi-korumak/uygulama-guevenligi.md)
-* [💾 Depolama ve yedekleme](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md)
-* [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik-1.md)
+* [💾 Depolama ve Yedekleme](<kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md>)
+* [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md)
 
 ## Sosyal Medya Güvenliği
 
