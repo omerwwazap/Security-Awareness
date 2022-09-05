@@ -24,7 +24,6 @@
 ## Veri İhlalleri Öncesi ve Sonrası
 
 * [⚔ Veri İhlalleri Sonrası Korunma Yolları](veri-ihlalleri-oencesi-ve-sonrasi/veri-ihlalleri-sonrasi-korunma-yollari.md)
-* [🔠 Delete](veri-ihlalleri-oencesi-ve-sonrasi/Delete.md)
 
 ## Parola Güvenliği
 
