@@ -41,6 +41,10 @@
 
 * [🛍 İnternet'ten Güvenli Alışveriş](online-alisveris-guevenligi/internetten-guevenli-alisveris.md)
 
+## Uzaktan Çalışma
+
+* [🌍 Uzaktan Çalışmada Güvenlik](uzaktan-calisma/uzaktan-calismada-guvenlik.md)
+
 ## Kişisel Cihazlarınızı Korumak
 
 * [💻 Virüslerden ve Zararlı Yazılımlardan Korumak](kisisel-cihazlarinizi-korumak/virueslerden-ve-zararli-yazilimlardan-korumak.md)
@@ -58,14 +62,14 @@
   * [Twitter](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/twitter.md)
   * [Tiktok](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/tiktok.md)
 
-## Sosyal Mühendislik
-
-* [📩 TASLAK 3](sosyal-muehendislik/taslak-3.md)
-* [💕 Aşk Dolandırıcılığı](sosyal-muehendislik/ask-dolandiriciligi.md)
-
 ## Crypto
 
 * [💳 Kripto Cüzdan Güvenliği](crypto/kripto-cuezdan-guevenligi.md)
+
+## Sosyal Mühendislik
+
+* [📩 Taslak3](sosyal-muehendislik/taslak3.md)
+* [💕 Taslak2](sosyal-muehendislik/ask-dolandiriciligi.md)
 
 ## Çocuklar İçin Güvenlik
 
