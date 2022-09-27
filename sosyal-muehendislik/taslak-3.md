@@ -1,4 +1,4 @@
-# 📩 Taslak3
+# 📩 TASLAK 3
 
 {% hint style="info" %}
 Düzlenmekte
