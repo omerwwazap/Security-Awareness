@@ -68,7 +68,7 @@
 
 ## Sosyal Mühendislik
 
-* [📩 Taslak3](sosyal-muehendislik/taslak3.md)
+* [📩 Taslak3](sosyal-muehendislik/taslak-3.md)
 * [💕 Taslak2](sosyal-muehendislik/ask-dolandiriciligi.md)
 
 ## Çocuklar İçin Güvenlik
