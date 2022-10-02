@@ -24,7 +24,7 @@ Bu doküman bir tavsiye niteliğindedir. Kullanıp kullanmayacağınıza ve nas�
 
 ### Şifre yöneticisi nedir?
 
-Parola yöneticisi, telefonunuzda, tabletinizde veya bilgisayarınızda parolalarınızı güvenli bir şekilde saklayan ve böylece tüm şifrelerinizi hatırlamanıza gerektirmeyen bir uygulamadır.
+Parola yöneticisi, telefonunuzda, tabletinizde veya bilgisayarınızda parolalarınızı güvenli bir şekilde saklayan ve böylece tüm şifrelerinizi hatırlamanıza gerektirmeyen bir uygulamadır.&#x20;
 
 Bazı şifre yöneticileri, şifrelerinizi farklı cihazlarınız arasında senkronize ederek, nerede olursanız olun oturum açmayı kolaylaştırır. Bazıları, yeni bir parola oluşturmanız (veya mevcut bir parolayı değiştirmeniz) gerektiğinde sizin için rastgele, benzersiz parolalar da oluşturabilir.
 
@@ -73,14 +73,10 @@ Daha da önemlisi, bağımsız bir parola yöneticisiyle (tarayıcı tabanlı pa
 * Eski şifreleri değiştirmenizi isteyebilirler.
 * Çok faktörlü kimlik doğrulama kullanabilirler. Detaylı bilgi için [iki-faktoerlue-kimlik-dogrulama-2fa.md](iki-faktoerlue-kimlik-dogrulama-2fa.md "mention")
 
-### Peki hangisini kullanmalıyım?
+### &#x20;Peki hangisini kullanmalıyım?
 
 Eğer hali hazırda tüm platformlarınızda aynı tarayıcı kullanıyorsa tarayıcınız içinde bulunan şifre yöneticisini kullanabilirsiniz, sadece tüm platformlarda tarayıcınızın güncel her zaman olduğundan emin olun ve otomatik güncellemeleri açmayı unutmayın.
 
 Farklı platformlarda aynı tarayıcısı kullanmak istemiyorsanız veya işaretli sadece parola yöneticisi yapmak olan şirket bu uygulamaları daha çok koruyabilir diye düşünüyorsanız ve tarayıcınızdan farklı olarak tek bir master şifre ile şifrelerinizin daha da güvende olacağını düşünüyorsanız o zaman bağımız uygulamaları kullanabilirsiniz.
 
 Temelde ikisinin de artıları ve eskileri bulunmakta ve kendi durumunuza göre kullanacağız yönetimi belirlemeniz çok daha doğru olacaktır.
-
-Check Out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/keep-your-data-safe-with-a-password-manager/" %}
