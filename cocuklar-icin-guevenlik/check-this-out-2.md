@@ -31,3 +31,5 @@ Geleceği yazanlar'lar cocuklar kısmı - koontrol et
 [https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely)
 
 [https://www.nspcc.org.uk/keeping-children-safe/online-safety/](https://www.nspcc.org.uk/keeping-children-safe/online-safety/)
+
+{% embed url="https://www.cert.govt.nz/individuals/guides/buying-a-new-device/" %}

@@ -58,9 +58,3 @@ Verilerinizin tamamen silindiğinden emin olmak için cihazınızın **Tüm İç
 * Parola, parmak izi, yüz kimliği veya PIN kullanarak bir ekran kilidi ayarlamayı da ihmal etmeyin. Telefonunuzu (ve üzerindeki verileri) güvende tutmanıza yardımcı olacaktır.
 
 > \*\*Bir uzman - özel araçlar kullanarak - yine de bir cihazdaki verileri kurtarabilir. Verilerin bir daha asla kurtarılamayacağından gerçekten emin olmanız gerekiyorsa [Secure Sanitisation](https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media) adlı dokümana bakmanızı tavsiye ederiz.
-
-Check Out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/buying-a-new-device/" %}
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/ditch-your-older-device/" %}
