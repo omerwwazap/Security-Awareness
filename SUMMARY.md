@@ -30,6 +30,7 @@
 * [🔑 Parola Yöneticileri](parola-guevenligi/parola-yoeneticileri.md)
 * [🔑 Cihazlarınızı ve Verilerinizi Korumak için Parola Kullanma](parola-guevenligi/cihazlarinizi-ve-verilerinizi-korumak-icin-parola-kullanma.md)
 * [🔐 İki Faktörlü Kimlik Doğrulama (2FA)](parola-guevenligi/iki-faktoerlue-kimlik-dogrulama-2fa.md)
+* [🗝 İyi Bir Şifre Nasıl Oluşturulur?](parola-guevenligi/iyi-bir-sifre-nasil-olusturulur.md)
 
 ## IoT Cihaz Güvenliği
 
