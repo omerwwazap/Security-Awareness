@@ -79,8 +79,4 @@ Samsung - [https://www.samsung.com/global/galaxy/security/](https://www.samsung.
 
 Microsoft - [https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963](https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963)
 
-
-
-Check out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/keep-mobile-phone-safe-secure/" %}
+&#x20;
