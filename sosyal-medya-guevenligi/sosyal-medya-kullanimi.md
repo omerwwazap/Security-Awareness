@@ -56,3 +56,7 @@ Dikkatli olsanız bile, ekranın diğer tarafında kimin olduğunu asla bilemezs
 * Coğrafi etiketli fotoğraflar: Çoğu akıllı telefon ve dijital kamera, fotoğrafın çekildiği tam konumu otomatik olarak ekler. Birçok sosyal medya sitesi, bir fotoğraf yayınladığınızda bu bilgileri saklamaz. Ancak her ihtimale karşı kontrol etmekte fayda var.
 * Heyecan verici haberler: Tatil ayrıntıları, büyük alışverişler veya adresinizle ilgili etkinlikler, suçluların siz yokken evinizi soyma fırsatı olduğunu bilmesini sağlayabilir
 * Bankanızın adı, kredi kartı veya banka kartı numaraları ve diğer finansal bilgiler dahil olmak üzere bankacılık veya finansal bilgiler.
+
+Check Out
+
+{% embed url="https://www.cert.govt.nz/individuals/guides/cyber-security-social-media/" %}
