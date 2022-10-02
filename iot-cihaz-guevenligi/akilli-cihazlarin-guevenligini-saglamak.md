@@ -38,9 +38,3 @@ Bir siber saldırının vereceği zararı sınırlamak için akıllı cihazları
 ### İhtiyacınız kadar bağlı kalın
 
 Bluetooth, coğrafi konum, kameralar ve mikrofonlar gibi özellikler, potansiyel bir bilgisayar korsanı tarafından erişilmemesi için kullanmadığınız zamanlarda kapatılabilir. Akıllı bir cihazı yalnızca ara sıra kullanıyorsanız, kullanmadığınız zamanlarda kapatın veya internet bağlantısını kesin.
-
-
-
-Check Out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/smart-devices-the-internet-of-things-iot/" %}

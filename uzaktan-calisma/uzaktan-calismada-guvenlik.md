@@ -4,6 +4,8 @@
 
 {% embed url="https://www.ncsc.govt.nz/guidance/working-from-home-and-cloud-security/" %}
 
+{% embed url="https://www.cert.govt.nz/individuals/guides/working-remotely/" %}
+
 {% embed url="https://www.upguard.com/blog/working-from-home-security-tips" %}
 
 {% embed url="https://www.kaspersky.com/resource-center/threats/remote-working-how-to-stay-safe" %}
