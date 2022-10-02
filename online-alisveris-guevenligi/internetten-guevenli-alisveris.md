@@ -52,7 +52,3 @@ Alışverişten sonra tetikte kalmalısınız. Banka hesabınızdaki herhangi bi
 Bu, bir dolandırıcılığın kurbanı olup olmadığınızı belirlemenin en hızlı ve en kolay yoludur. Banka ekstrelerinizi düzenli olarak kontrol edin ve küçük miktarlar da dahil olmak üzere bilmediğiniz herhangi bir şey için hemen bankanızla iletişime geçin.
 
 Bankaya Harcama İtirazı yapabileceğiniz gibi E-Devlet üzerinden Tüketici Hakem Heyeti’ne de başvuru yapılabilirsiniz.
-
-Check Out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/shopping-online-safely/" %}

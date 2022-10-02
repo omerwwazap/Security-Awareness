@@ -5,7 +5,7 @@ description: >-
   sağlar.
 ---
 
-# 💾 Depolama ve yedekleme
+# 💾 Depolama ve Yedekleme
 
 ### Önemli dosyaları koruyun
 
@@ -39,3 +39,6 @@ Ayrıca, hem çalınma hem de yok olma olasılığını en aza indirmek için ve
 
 Verilerinizi yedeklemek için bulut depolama kullanıyorsanız, bulut sağlayıcınız tarafından sunulan gizlilik politikalarını ve güvenlik özelliklerini inceleyin. Örneğin, sağlayıcılar birkaç aylık geçmiş dosya kurtarma veya fidye yazılımlarına karşı koruma sunabilir. Bulut hizmetiniz için güçlü bir parola kullandığınızdan emin olun.
 
+Check Out
+
+{% embed url="https://www.cert.govt.nz/individuals/guides/backing-up-data-and-devices/" %}
