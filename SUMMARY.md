@@ -12,6 +12,7 @@
 * [☢ Zararlı Yazılım Kaldırma Kılavuzu](zararli-yazilim-kaldirma/zararli-yazilim-kaldirma-kilavuzu.md)
 * [☣ Virüslü Bir Cihaz Nasıl Kurtarılır](zararli-yazilim-kaldirma/virueslue-bir-cihaz-nasil-kurtarilir.md)
 * [🔥 Ransomware Şifre Çözme ve Tanımlama Araçları](zararli-yazilim-kaldirma/ransomware-sifre-coezme-ve-tanimlama-araclari.md)
+* [🎆 Zaralı Yazılımlarından Korunmak İçin İpuçları](zararli-yazilim-kaldirma/zarali-yazilimlarindan-korunmak-icin-ipuclari.md)
 
 ## İkinci El Cihaz Güvenliği
 
