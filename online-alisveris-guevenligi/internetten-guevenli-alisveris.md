@@ -15,13 +15,13 @@ Harika teklifler hakkında aldığınız e-postalar veya metinler sahte web site
 
 Sanal Kredi kartı, Apple Pay veya Google Pay gibi bir ödeme platformu kullanmayı da düşünmelisiniz.
 
-Ödeme zamanı geldiğinde, tarayıcının adres çubuğunda "kapalı asma kilit" simgesi olup olmadığını kontrol edin.&#x20;
+Ödeme zamanı geldiğinde, tarayıcının adres çubuğunda "kapalı asma kilit" simgesi olup olmadığını kontrol edin. Alternatif olarak, URL'nin başlangıcının **http://** yerine **https://** ile başladığını kontrol edin.
 
 ![](https://camo.githubusercontent.com/02b962295caa1279152c2a6825a7a1d5717247be3f1526566aa70858bbd025de/68747470733a2f2f757365722d6d656469612d70726f642d63646e2e69747372652d73756d6f2e6d6f7a696c6c612e6e65742f75706c6f6164732f67616c6c6572792f696d616765732f323032312d30352d30362d30342d32392d35352d3535303766342e706e67)
 
-**Asma kilit simgesi, web sitesinin güvenilir/itibarlı olduğunu garanti etmez. Bu, bağlantının güvenli olduğu anlamına gelir.**
-
 Asma kilit simgesi orada değilse veya tarayıcı güvenli değil diyorsa siteyi kullanmayın. Herhangi bir kişisel veya ödeme detayı girmeyin veya bir hesap oluşturmayın.
+
+**Asma kilit simgesi ve https:// olması, web sitesinin güvenilir/itibarlı olduğunu garanti etmez.** Bu, tarayıcınızdan web sunucusuna olan bağlantının şifreli olduğu ve gönderdiğiniz bilgileri başka hiç kimsenin kopyalayamayacağı anlamına gelir.
 
 ### Yalnızca satın alma işleminizi tamamlamak için yeterli bilgileri girin.
 
@@ -52,3 +52,7 @@ Alışverişten sonra tetikte kalmalısınız. Banka hesabınızdaki herhangi bi
 Bu, bir dolandırıcılığın kurbanı olup olmadığınızı belirlemenin en hızlı ve en kolay yoludur. Banka ekstrelerinizi düzenli olarak kontrol edin ve küçük miktarlar da dahil olmak üzere bilmediğiniz herhangi bir şey için hemen bankanızla iletişime geçin.
 
 Bankaya Harcama İtirazı yapabileceğiniz gibi E-Devlet üzerinden Tüketici Hakem Heyeti’ne de başvuru yapılabilirsiniz.
+
+Check Out
+
+{% embed url="https://www.cert.govt.nz/individuals/guides/shopping-online-safely/" %}

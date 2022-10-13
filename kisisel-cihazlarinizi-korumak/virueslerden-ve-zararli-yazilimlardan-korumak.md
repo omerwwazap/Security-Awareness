@@ -7,10 +7,10 @@ description: >-
 
 # 💻 Virüslerden ve Zararlı Yazılımlardan Korumak
 
-Burada ki adımları takip etmek, cihazlarınızın ve üzerlerinde depolanan bilgilerin zarar görmemesine yardımcı olacaktır.&#x20;
+Burada ki adımları takip etmek, cihazlarınızın ve üzrelerinde depolanan bilgilerin zarar görmemesine yardımcı olacaktır.&#x20;
 
 {% hint style="info" %}
-**Virüsler bilgisayar**, akıllı telefonlar ve tabletler gibi cihazlara zarar verebilecek bir tür kötü amaçlı yazılımlardır. Cihazınıza bir kez bulaştıktan sonra, bu kötü amaçlı yazılım verilerinizi çalabilir, tamamen silebilir, sizin cihazınızı kullanmanıza engel olabilir.
+**Virüsler** bilgisayar, akıllı telefonlar ve tabletler gibi cihazlara zarar verebilecek bir tür kötü amaçlı yazılımlardır. Cihazınıza bir kez bulaştıktan sonra, bu kötü amaçlı yazılım verilerinizi çalabilir, tamamen silebilir, sizin cihazınızı kullanmanıza engel olabilir.
 {% endhint %}
 
 ### Ufak Bilgiler
