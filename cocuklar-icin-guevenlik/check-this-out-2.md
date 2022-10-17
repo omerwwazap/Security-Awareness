@@ -34,6 +34,10 @@ Geleceği yazanlar'lar cocuklar kısmı - koontrol et
 
 {% embed url="https://www.cert.govt.nz/individuals/guides/buying-a-new-device/" %}
 
-​https://www.cert.govt.nz/business/news-and-events/buying-devices-for-back-to-school/www.cert.govt.nz
+{% embed url="https://www.cert.govt.nz/business/news-and-events/buying-devices-for-back-to-school/" %}
+
+{% embed url="https://gelecegiyazanlar.turkcell.com.tr/blog/cocuklar-evde-ama-guvende-mi" %}
+
+{% embed url="https://netsafe.org.nz/BYOD/" %}
 
 \
