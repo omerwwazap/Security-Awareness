@@ -33,3 +33,7 @@ Geleceği yazanlar'lar cocuklar kısmı - koontrol et
 [https://www.nspcc.org.uk/keeping-children-safe/online-safety/](https://www.nspcc.org.uk/keeping-children-safe/online-safety/)
 
 {% embed url="https://www.cert.govt.nz/individuals/guides/buying-a-new-device/" %}
+
+​https://www.cert.govt.nz/business/news-and-events/buying-devices-for-back-to-school/www.cert.govt.nz
+
+\
