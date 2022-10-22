@@ -1,4 +1,4 @@
-# 🖲 Uygulama Güvenliği
+# Uygulama Güvenliği
 
 {% hint style="info" %}
 Düzlenmekte

@@ -2,9 +2,9 @@
 
 * [Siber Güvenlik Farkındalığı](README.md)
   * [Siber Güvenliğe Giriş](readme/siber-guevenlige-giris.md)
-  * [Siber Güvenlik İçin En İyi 6 İpucu](readme/siber-guevenlik-icin-en-iyi-6-ipucu.md)
   * [Todo](readme/todo.md)
   * [Github Repo](https://github.com/omerwwazap/Security-Awareness)
+* [6⃣ Siber Güvenlik İçin En İyi 6 İpucu](siber-guevenlik-icin-en-iyi-6-ipucu.md)
 
 ## Sözlük
 
@@ -57,13 +57,14 @@
 * [🕸 Ev Ağınızın Güvenliği](kisisel-cihazlarinizi-korumak/cihaz-ve-ag-guevenligi.md)
 * [💾 Depolama ve Yedekleme](<kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md>)
 * [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md)
-* [🖲 Uygulama Güvenliği](kisisel-cihazlarinizi-korumak/uygulama-guevenligi.md)
+* [Uygulama Güvenliği](kisisel-cihazlarinizi-korumak/uygulama-guevenligi.md)
 
 ## Sosyal Medya Güvenliği
 
 * [🐦 Sosyal Medya Güvenliği](sosyal-medya-guevenligi/sosyal-medya-kullanimi.md)
 * [🗼 Sosyal Medya Kullanımı](sosyal-medya-guevenligi/sosyal-medya-kullanimi-1.md)
-* [🏛 Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/README.md)
+* [Aşk Dolandırıcılığı](sosyal-medya-guevenligi/ask-dolandiriciligi.md)
+* [Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/README.md)
   * [Instagram](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/instagram.md)
   * [Facebook](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/facebook.md)
   * [Twitter](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/twitter.md)
@@ -77,21 +78,10 @@
 
 * [⚔ Veri İhlalleri Sonrası Korunma Yolları](veri-ihlalleri-oencesi-ve-sonrasi/veri-ihlalleri-sonrasi-korunma-yollari.md)
 
-## Crypto
-
-* [💳 Kripto Cüzdan Güvenliği](crypto/kripto-cuezdan-guevenligi.md)
-
-## Sosyal Mühendislik
-
-* [📩 Taslak3](sosyal-muehendislik/taslak-3.md)
-* [💕 Taslak2](sosyal-muehendislik/ask-dolandiriciligi.md)
-
-## Bakılacak Konular
-
-* [Check This Out](bakilacak-konular/check-this-out.md)
-* [Page 3](bakilacak-konular/page-3.md)
-* [Reports 6](bakilacak-konular/reports-6.md)
-
 ## Referanslar
 
 * [‼ Referanslar](referanslar/referanslar.md)
+
+## Check Out
+
+* [Check Out](check-out/reports-6.md)

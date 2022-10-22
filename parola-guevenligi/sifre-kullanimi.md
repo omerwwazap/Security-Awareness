@@ -9,7 +9,7 @@ Siber Korsanlar, Hesaplarınıza erişmek için en çok kullanılan şifreleri d
 * Ek olarak normalde şifrenizi **Canımoğlum** yapmak istiyorsanız, burada **I** harfi yerine **1**, **L** harfi yerine **!** kullanılabilir. Şifreniz nihai olarak "**Can1moğ!um"** olacaktır. Bu şekilde komplike bir şifre oluşturmuş olacaksınız.
 * Rastgele dört kelimeden oluşan şifreler, en az 10 karakter olacak şekilde ve rakam, büyük küçük harflar, noktalam ve semboller ile yapılan şifreler kadar güvenlidir. İstediğinize göre kullanabilirsiniz.
 
-<figure><img src="../.gitbook/assets/resim (1).png" alt=""><figcaption><p>Howsecureismypassword sistemine göre yukarıda bahsedilen yöntem kullanılarak ve kullanılmayarak belirlenmiş şifrelerin kırılma zamanları.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/resim (2).png" alt=""><figcaption><p>Howsecureismypassword sistemine göre yukarıda bahsedilen yöntem kullanılarak ve kullanılmayarak belirlenmiş şifrelerin kırılma zamanları.</p></figcaption></figure>
 
 Daha fazla bilgi için [iyi-bir-sifre-nasil-olusturulur.md](iyi-bir-sifre-nasil-olusturulur.md "mention") adlı dokümanımıza bakabilirsiniz.
 

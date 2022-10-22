@@ -45,7 +45,7 @@ Yedeklenmemiş tüm verileri kaybedersiniz.
 
 ### Zararlı Yazılımı Kaldırdıktan Sonra
 
-[Broken link](broken-reference "mention"), [Broken link](broken-reference "mention") ve [siber-guevenlik-icin-en-iyi-6-ipucu.md](../readme/siber-guevenlik-icin-en-iyi-6-ipucu.md "mention") dokümanlarımıza göz atın.
+[Broken link](broken-reference "mention"), [Broken link](broken-reference "mention") ve [siber-guevenlik-icin-en-iyi-6-ipucu.md](../siber-guevenlik-icin-en-iyi-6-ipucu.md "mention") dokümanlarımıza göz atın.
 
 Cihazınızı ve programlarınızı/uygulamalarınızı güncel tutun.
 

@@ -1,10 +1,16 @@
-# 💕 Aşk Dolandırıcılığı
+# Aşk Dolandırıcılığı
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Düzlenmekte
 {% endhint %}
 
 Aşk Folandırıcılığı
+
+Netflix Belgesel
+
+Check Austrila Cert
+
+Check New Zealand Cert
 
 [https://www.actionfraud.police.uk/a-z-of-fraud/dating-fraud](https://www.actionfraud.police.uk/a-z-of-fraud/dating-fraud)
 

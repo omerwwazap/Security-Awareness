@@ -36,7 +36,7 @@ Veri ihlali yaşayan bir kuruluşun müşterisiyseniz, aşağıdaki işlemleri y
 
 Doğru gelmeyen bir güvenlik ihlaliyle ilgili bir mesaj (SMS mesajları veya rahatsız edici aramalar dahil) alırsanız, yapmanız gerekenler şunlardır:
 
-TASLAK
+<mark style="color:red;">**TASLAK**</mark>
 
 ### Maddi Zarara Uğradıysanız
 
