@@ -3,7 +3,7 @@
 Bilgisayarınıza, tabletinize veya telefonunuza bir virüs veya başka bir zararlı yazılım bulaştığından şüpheleniyorsanız, bu üç adımı uygulayarak onu kaldırabilirsiniz.&#x20;
 
 {% hint style="info" %}
-Bu yöntemler her zaman işe yaramayabilir. Bu tür durumlarda cihazınızı servise verebilir yada [Depolama ve Yedekleme.md](<../kisisel-cihazlari-korumak/Depolama ve Yedekleme.md> "mention") dokunmamız da anlattığımız gibi yedekleriniz var ise, bu yedekler ile sistemi eski haline çevirebilirsiniz.
+Bu yöntemler her zaman işe yaramayabilir. Bu tür durumlarda cihazınızı servise verebilir yada [Depolama ve Yedekleme.md](<../kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md> "mention") dokunmamız da anlattığımız gibi yedekleriniz var ise, bu yedekler ile sistemi eski haline çevirebilirsiniz.
 {% endhint %}
 
 ### Cihazınıza virüs bulaştığından emin olun

@@ -1,4 +1,4 @@
-# 🛰 Cihaz ve Ağ Güvenliği
+# 🛰 Ev Ağınızın Güvenliği
 
 {% hint style="info" %}
 Düzlenmekte

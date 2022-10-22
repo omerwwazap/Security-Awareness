@@ -1,4 +1,4 @@
-# ☢ Zararlı Yazılım Kaldırma Kılavuzu
+# ☢ Zararlı Yazılım Kaldırma Kılavuzu ve Yarımcı Uygulamalar
 
 {% hint style="info" %}
 Aşağıdaki talimatlar yalnızca tavsiye niteliğindedir.
