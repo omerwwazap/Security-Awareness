@@ -25,7 +25,7 @@ Birçok şirket, hesaplarınızda iki faktörlü kimlik doğrulama (2FA olarak d
 * Temelde şifreniz dışında ikinci bir doğrulama mekanizmasıdır, şifre dışında hesabın sahibinin siz olduğu kanıtlar.
 * 2FA'nın en yaygın biçimi, akıllı telefonunuza devam etmek için girmeniz gereken bir kodun gönderilmesidir. Bankacılık ve e-posta gibi önemli web siteleri için 2FA kurmalısınız.
 * Bir suçlu şifrelerinizi bilse bile, 2FA'yı açarak koruduğunuz tüm hesaplara erişmekte zorlanacaktır.
-* Daha fazla bilgi için 2FA'yı detaylıca ele aldığımız [iki-faktoerlue-kimlik-dogrulama-2fa.md](../parola-guevenligi/iki-faktoerlue-kimlik-dogrulama-2fa.md "mention") adlı dokümanıma bakabilirsiniz.
+* Daha fazla bilgi için 2FA'yı detaylıca ele aldığımız [Broken link](broken-reference "mention") adlı dokümanıma bakabilirsiniz.
 
 ### Dijital ayak izinizi anlama
 
@@ -37,11 +37,11 @@ Sosyal Medya kullanımında çok dikkate alınmayan bir kavramdır, Dijital Ayak
 
 ### Karmaşık bir şifre kullanın
 
-Sosyal medya tamamen paylaşmakla ilgilidir, bu nedenle şifreniz evcil hayvanınızın adı gibi sosyal medyada paylaştığınız bir şeyse, bir siber suçlunun tahmin etmesi kolay olacaktır. Her sosyal medya hesabı için benzersiz bir parola veya parola kullandığınızdan emin olun. Daha fazla bilgi için [cihazlarinizi-ve-verilerinizi-korumak-icin-parola-kullanma.md](../parola-guevenligi/cihazlarinizi-ve-verilerinizi-korumak-icin-parola-kullanma.md "mention")
+Sosyal medya tamamen paylaşmakla ilgilidir, bu nedenle şifreniz evcil hayvanınızın adı gibi sosyal medyada paylaştığınız bir şeyse, bir siber suçlunun tahmin etmesi kolay olacaktır. Her sosyal medya hesabı için benzersiz bir parola veya parola kullandığınızdan emin olun. Daha fazla bilgi için [Broken link](broken-reference "mention")
 
 ### Çok faktörlü kimlik doğrulamayı etkinleştir
 
-Çoğu sosyal medya sitesi, çok faktörlü kimlik doğrulama (MFA) sunar. Hesabınızı güvende tutmak için her zaman ayarlarınızda MFA'yı açın. Daha fazla bilgi için [iki-faktoerlue-kimlik-dogrulama-2fa.md](../parola-guevenligi/iki-faktoerlue-kimlik-dogrulama-2fa.md "mention")
+Çoğu sosyal medya sitesi, çok faktörlü kimlik doğrulama (MFA) sunar. Hesabınızı güvende tutmak için her zaman ayarlarınızda MFA'yı açın. Daha fazla bilgi için [Broken link](broken-reference "mention")
 
 ### Review your privacy settings often
 
@@ -56,3 +56,7 @@ Dikkatli olsanız bile, ekranın diğer tarafında kimin olduğunu asla bilemezs
 * Coğrafi etiketli fotoğraflar: Çoğu akıllı telefon ve dijital kamera, fotoğrafın çekildiği tam konumu otomatik olarak ekler. Birçok sosyal medya sitesi, bir fotoğraf yayınladığınızda bu bilgileri saklamaz. Ancak her ihtimale karşı kontrol etmekte fayda var.
 * Heyecan verici haberler: Tatil ayrıntıları, büyük alışverişler veya adresinizle ilgili etkinlikler, suçluların siz yokken evinizi soyma fırsatı olduğunu bilmesini sağlayabilir
 * Bankanızın adı, kredi kartı veya banka kartı numaraları ve diğer finansal bilgiler dahil olmak üzere bankacılık veya finansal bilgiler.
+
+Check Out
+
+{% embed url="https://www.cert.govt.nz/individuals/guides/cyber-security-social-media/" %}

@@ -1,4 +1,4 @@
-# 🚧 Çalınmış Bir Hesabı Kurtarma
+# 🏛 Çalınmış Bir Hesabı Kurtarma
 
 {% hint style="info" %}
 Düzlenmekte

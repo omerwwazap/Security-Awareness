@@ -1,6 +1,13 @@
+---
+description: >-
+  Evden çalışmak kullanışlıdır ve hatta bir iş sürekliliği planının parçası
+  olarak gereklidir, ancak uzaktan eriştiğiniz hizmetler ve veriler için o kadar
+  güvenli olmayabilir.
+---
+
 # 🌍 Uzaktan Çalışmada Güvenlik
 
-### Check Out
+### sCheck Out
 
 {% embed url="https://www.ncsc.govt.nz/guidance/working-from-home-and-cloud-security/" %}
 

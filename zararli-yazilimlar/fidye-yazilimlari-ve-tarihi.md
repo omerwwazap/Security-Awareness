@@ -1,0 +1,2 @@
+# Fidye Yazılımları ve Tarihi
+

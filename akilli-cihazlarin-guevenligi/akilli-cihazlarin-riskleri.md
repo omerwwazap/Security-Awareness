@@ -4,7 +4,7 @@ description: >-
   verileriniz ve gizliliğiniz risk altındadır.
 ---
 
-# 🛰 Akıllı Cihazların Riskleri
+# 🌐 Akıllı Cihazların Riskleri
 
 Aşağıda bazı haberler bulunmakta;
 
@@ -32,7 +32,7 @@ Bazı üreticilerin kontrol panelinde gizlik veya güvenlik adı altında ayarla
 
 ### Hesabını Yönetmek
 
-Cihaz veya uygulama iki faktörlü kimlik doğrulama (2FA) sunuyorsa, kesinlikle açın. 2FA, gerçekten olduğunu iddia ettiğiniz kişi olup olmadığınızı **"iki kez kontrol etmenin"** bir yolunu sunar ve suçluların şifrenizi bilseler bile hesaplarınıza erişmesini çok daha zor hale getirir. Daha fazla bilgi için [iki-faktoerlue-kimlik-dogrulama-2fa.md](../parola-guevenligi/iki-faktoerlue-kimlik-dogrulama-2fa.md "mention") adlı dokümanımıza bakabilirsiniz.
+Cihaz veya uygulama iki faktörlü kimlik doğrulama (2FA) sunuyorsa, kesinlikle açın. 2FA, gerçekten olduğunu iddia ettiğiniz kişi olup olmadığınızı **"iki kez kontrol etmenin"** bir yolunu sunar ve suçluların şifrenizi bilseler bile hesaplarınıza erişmesini çok daha zor hale getirir. Daha fazla bilgi için [Broken link](broken-reference "mention") adlı dokümanımıza bakabilirsiniz.
 
 ### Cihazınızı güncel tutmalısınız
 

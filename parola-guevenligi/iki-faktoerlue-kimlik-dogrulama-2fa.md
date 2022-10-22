@@ -1,24 +1,29 @@
 ---
-description: >-
-  Çoklu kimlik doğrulama metotları hakkında bilinmesi gerek ve neden kullanmamız
-  gerektiğini anlatan bir tavsiye dokümanıdır.
+description: Çoğu zaman Çok Faktörlü Kimlik Doğrulama MFA olarak da anlatılmaktadır.
 ---
 
 # 🔐 İki Faktörlü Kimlik Doğrulama (2FA)
 
-<details>
+Hesaplarınıza çevrimiçi olarak giriş yaptığınızda, bunu yapmak için çoğunlukla basit bir 'kullanıcı adı ve şifre' kombinasyonu kullanırsınız. Oturum açma işleminize iki faktörlü kimlik doğrulama (2FA) eklemek, hesaplarınıza ekstra bir güvenlik katmanı eklemenin basit bir yoludur.
 
-<summary>Olası Riskler</summary>
+Bir kullanıcı adı ve şifre oturum açma methoduna güvenmenin sorunu, şifrenizi her zaman güvende tutulamamasıdır. 2FA ile başka bir güvenlik düzeyi eklemek, bir saldırganın çevrimiçi hesaplarınıza erişmesini zorlaştırır - yalnızca şifrenizi bilmek hesaba giriş için yeterli değildir.
 
-**Phishing and Smishing,** güvenilir bir kaynaktan geliyormuş gibi davranarak sizi kandırmak için tasarlanmış e-postalar ve metin mesajlarıdır. Kimlik avcıları, ana parolanızı almak için kendilerini saygın bir şirket (bu durumda, parola yöneticinizin sağlayıcısı) olarak gizler ve sizden oturum açma bilgilerinizi ister veya sahte bir oturum açma sitesine bir bağlantı gönderir.
+### 2FA Nasıl çalışır
 
-</details>
+Bir kullanıcı adı ve şifre ile bir hesaba giriş yaptığınızda, tek faktörlü kimlik doğrulama denilen şeyi kullanırsınız. Söylediğiniz kişi olduğunuzu doğrulamak için tek bir şeye ihtiyacınız var - **şifreniz**.
 
-### İki Faktörlü Kimlik Doğrulama Nedir?
+2FA ile, bir hesaba erişmeden önce iki şey sağlamanız gerekir - **şifreniz ve başka bir şey**.
 
-İki faktörlü kimlik doğrulama, çoklu kimlik doğrulama (kısaca 2FA) bir sisteme girişiniz sırasında, sistemin şifreniz dışında girenin doğru kişi olduğunu anlamasına yardım eden ikini kontroldür. İlk kontrol ise şifrenizdir. Aklınıza gelecek büyük şirketlerin tamamında kullanabilirsiniz.
+Diğer şey ise temelde bunlardır,
 
-2FA açarken bahsedilen ikinci doğrulama metodu sadece sizin erişebileceğiniz sistemler ile yapılır. Bu metot size SMS, e-mail veya özel bir uygulama ile bir kod ulaştırılması ile yapılır.
+* Bildiğin bir şey
+  * başka bir şifre, güvenlik soruların cevapları, PIN numarası
+* Sahip olduğun bir şey
+  * USB token, güvenlik kartı, bir doğrulama yazılımı, anahtar
+* Olduğun bir şey
+  * parmak izi, retna/iris taraması, ses tanıması, yüz tanıması
+
+Turkcell üzerinden örnek vermek gerkirse, şirket VPN'i 2FA kullanmaktadır ve şifre girdikten sonra SMS kodu gelmektedir.
 
 ### Neden 2FA Kullanmalıyım?
 
@@ -26,29 +31,15 @@ description: >-
 
 Önemli gördüğünüz tüm hesaplarınıza 2FA açmanızı şiddetle tavsiye ederiz. E-Mail'iniz, Finansal Hesaplarınız, E-Devlet gibi önemli olabilecek hesaplarda olmasını tavsiye ederiz.
 
-### 2FA Nasıl Açılır?
-
-2FA'sı olan çoğu ürün servise üye olurken, açıp açmamayı sormaktadır. Sormayanlar için ya da kullandığınız bir ürün açmak istiyorsanız, genellikle Hesap Ayarlarınızın, Güvenlik sekmesinde bu ayarı bulabilirsiniz. 2FA, çoklu-doğrulama ya da iki adımlı doğrulama olarak adlandırılabilir.
-
 ### 2FA Tipleri
 
-2FA'yı açtığını taktirde genelde iki farklı seçenek ile karşı karşıya gelirsiniz. Bunlar SMS veya Authenticator uygulamalarıdır.
+Bir sistemde 2FA'yı açtığınız taktirde genelde iki farklı seçenek ile karşı karşıya gelirsiniz. Bunlar SMS veya Authenticator uygulamalarıdır.
 
-* SMS Şirketler tarafından en çok kullanılan 2FA yöntemidir. Kullanmak için şirket telefon numaranızı talep edecektir. SMS 2FA çok güvenli olmasa da. Hiç olamamasından daha iyidir.
+* SMS Şirketler tarafından en çok kullanılan 2FA yöntemidir. Kullanmak için şirket telefon numaranızı talep edecektir.
 * Authenticator uygulamaları telefon, tablet veya bilgisayarınıza kurduğunuz bir uygulamadır. Google Authenticator, Authy ve Microsoft Authenticator en çok kullanılanlar arasındadır. Kod üretimi cihazınızın üzerinde yapıldığı için SMS gibi teflonunuzun bağlantıya ihtiyacı yoktur ve SMS'in gelmesini beklemenize gerek yoktur.
 * E-Mail SMS'den sonra en çok kullanılan yöntemdir ancak mailinize izinsiz erişim olması sonrası 2FA kodunuza erişim sağlanabileceği için çok tercih edilmez. Çoğunlukla telefon numaranızı vermediğiniz zaman otomatik olarak kullanılır.
 
 Ek olarak 2FA açılırken kullandığınız ürün, yedek kodlar verir. Bu kodların her birisi sadece bir defa kullanılabilir ve 2FA koduna erişim sorunu olduğu zaman ya da telefonunuzu kaybettiğiniz ya da ulaşamadığınız gibi acil durumlarda kullanılmak için verilir.
-
-Çok nadiren şirketler 2FA yerine kişisel sorular sorarlar, **"İlk evcil hayvanızın adı nedir?"** gibi bunlar 2FA gibi düşünülmemelidir ve aynı güvenliği kesinlikle vermez.
-
-### Her seferinde 2FA mi girişi istenecek
-
-Ürüne göre değişiklik gösterse de genellikle hayır. Her seferinde girmek zorunda değilsiniz. Kullandığınız sistem, giriş sırında olağan dışı bir durum tespit ederse karşınıza çıkar ya da uzun süre giriş yapmadıysanız 2FA girmeniz gerekecektir. Bazı sistemler ise her seferinde 2FA talep etmektedir. Eğer her seferinde soruyor "beni hatırlama" gibi opsiyonu giriş sırasında seçebilirsiniz, sizin o anda bilgilerini kayıt eder başka cihazlarda sormasına neden olur.
-
-{% hint style="info" %}
-**Not**: Birden fazla kişinin kullandığı veya şifresi olmayan bir cihazda **"beni hatırla"** özelliğinin kullanılması çok doğru değildir.
-{% endhint %}
 
 ### 2FA yok ise ne yapmalıyım?
 
@@ -56,8 +47,4 @@ Son zamanlarda 2FA ürünlerin çok büyük çoğunluğunda kullanılabilir hale
 
 * Kullandığınız ya da kullanmak istediğiniz servisi 2FA olan alternatif bir ürün ile değiştirmeyi düşünmelisiniz.
 * Ürünü yapan firmaya bu talebinizi iletebilirsiniz ve geliştirilmesini isteyebilirsiniz.
-* Kuvvetli bir şifre kullanmak isteyeceksiniz, daha fazla bilgi için Cihazlarınızı ve verilerinizi korumak için şifreleri kullanımı adlı dokümanımıza bakabilirsiniz.
-
-Check Out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/two-factor-authentication/" %}
+* Kuvvetli bir şifre kullanmak isteyeceksiniz, daha fazla bilgi için [iyi-bir-sifre-nasil-olusturulur.md](iyi-bir-sifre-nasil-olusturulur.md "mention") dokümanımıza bakabilirsiniz.

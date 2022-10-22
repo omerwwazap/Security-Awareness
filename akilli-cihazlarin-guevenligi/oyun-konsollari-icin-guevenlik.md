@@ -33,7 +33,7 @@ Yamalar veya Güncellemeler yalnızca oyunlarınıza yeni özellikler eklemekle 
 
 ### Kendinizi virüslerden koruyun
 
-Bir bilgisayarda oyun oynuyorsanız, güncel bir güvenlik duvarı, casus yazılım önleme yazılımı ve virüsten koruma yazılımının yüklü olduğundan emin olun. Daha fazla bilgi için [virueslerden-ve-zararli-yazilimlardan-korumak.md](../kisisel-cihazlarinizi-korumak/virueslerden-ve-zararli-yazilimlardan-korumak.md "mention") adlı dokümanımıza bakabilirsiniz.
+Bir bilgisayarda oyun oynuyorsanız, güncel bir güvenlik duvarı, casus yazılım önleme yazılımı ve virüsten koruma yazılımının yüklü olduğundan emin olun. Daha fazla bilgi için [Broken link](broken-reference "mention") adlı dokümanımıza bakabilirsiniz.
 
 ### Mod'larken Dikkatli Olun
 
@@ -41,4 +41,4 @@ Modları, eklentileri, değişiklikleri veya özel içeriği indirirken her zama
 
 ### Karmaşık Parolalar Kullanın
 
-Herhangi bir hesapta olduğu gibi, oyun hesaplarınız da benzersiz şifreler veya büyük ve küçük harfler, sayılar ve özel karakterler içeren parolalar kullanmalıdır. Daha fazla bilgi için [cihazlarinizi-ve-verilerinizi-korumak-icin-parola-kullanma.md](../parola-guevenligi/cihazlarinizi-ve-verilerinizi-korumak-icin-parola-kullanma.md "mention") adlı dokümana bakabilirsiniz.
+Herhangi bir hesapta olduğu gibi, oyun hesaplarınız da benzersiz şifreler veya büyük ve küçük harfler, sayılar ve özel karakterler içeren parolalar kullanmalıdır. Daha fazla bilgi için [Broken link](broken-reference "mention") adlı dokümana bakabilirsiniz.
