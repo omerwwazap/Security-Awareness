@@ -63,7 +63,7 @@
 
 * [🐦 Sosyal Medya Güvenliği](sosyal-medya-guevenligi/sosyal-medya-kullanimi.md)
 * [🗼 Sosyal Medya Kullanımı](sosyal-medya-guevenligi/sosyal-medya-kullanimi-1.md)
-* [Aşk Dolandırıcılığı](sosyal-medya-guevenligi/ask-dolandiriciligi.md)
+* [Aşk Dolandırıcılığı](sosyal-muehendislik/ask-dolandiriciligi.md)
 * [Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/README.md)
   * [Instagram](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/instagram.md)
   * [Facebook](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/facebook.md)
@@ -84,4 +84,4 @@
 
 ## Check Out
 
-* [Check Out](check-out/reports-6.md)
+* [Check Out](bakilacak-konular/reports-6.md)

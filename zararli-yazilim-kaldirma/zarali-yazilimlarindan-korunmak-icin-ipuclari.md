@@ -51,4 +51,4 @@ Korsan yazılım kullanmamaya özen gösterin. Oyun olsa bile!
 
 Zararlı yazılımlar çoğu zaman olmadıkları gibi görünürler. Video gibi görünen programlar, belge gibi görünen zararlı yazılımlar sizi tuzağa düşürebilir. Windows’ta dosya gezgini ayarlarında **görünüm** sekmesinde **Dosya uzantılarını göster** (File name extensions) kutucuğunu işaretlerseniz tüm dosyaların isimlerini ve uzantılarını görebilirsiniz. Mesela **Bodro.docx.exe** açmamanız gereken şüpheli bir dosyadır.
 
-<figure><img src="../.gitbook/assets/resim (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/resim.png" alt=""><figcaption></figcaption></figure>
