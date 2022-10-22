@@ -1,62 +1,56 @@
 ---
 description: >-
-  Facebook, Twitter ve Instagram gibi Sosyal medya, aileniz ve arkadaşlarınızla
-  iletişimde kalmanın ve güncel haberlerden haberdar olmanın harika bir yoludur.
+  Sosyal medya birçok insan için bir yaşam biçimi haline geldi. Ancak, çevrimiçi
+  olan her şeyde olduğu gibi, risklerin farkında olmak önemlidir.
 ---
 
-# 🗼 Sosyal Medya Kullanımı
+# 🐦 Sosyal Medya Güvenliği
 
-Sosyal medya, aileniz ve arkadaşlarınızla iletişimde kalmanın ve güncel haberlerden haberdar olmanın harika bir yoludur. Ancak, onu nasıl kullandığınıza dikkat etmezseniz, sosyal medya, siber suçluların sizin hakkınızda daha fazla bilgi edinmesi için de kolay bir yoldur. Paylaşım yapmadan önce önlem aldığınızdan emin olun.
+{% hint style="info" %}
+[sosyal-medya-kullanimi-1.md](sosyal-medya-kullanimi-1.md "mention") ile birleştirilebilir.
+{% endhint %}
 
-### Gizlilik ayarlarını düzenleyin
+### Login'lerinize dikkat edin
 
-Dijital ayak izinizi yönetmek için sosyal medya platformlarında gizlilik ayarlarını düzenleyin. Sosyal medya platformlarından tavsiyeler;
+Hesaplarınıza nereden ve nasıl giriş yaptığınızı düşünmek önemlidir.
 
-* [Facebook - Temel Gizlilik Kontrolleri ve Araçlar](https://www.facebook.com/help/325807937506242/)
-* [Youtube - Gizlilik ve güvenlik merkezi](https://support.google.com/youtube/topic/2803240?hl=tr\&ref\_topic=6151248)
-* [Instagram - Gizlilik Ayarları ve Bilgiler](https://help.instagram.com/196883487377501)
-* [LinkedIn - Hesabınızı ve Gizlilik Ayarlarını Yönetme](https://www.linkedin.com/help/linkedin/answer/66?lang=tr)
-* [Tiktok - Gizlilik ve Güvenlik](https://www.tiktok.com/safety/tr-tr/privacy-and-security-on-tiktok/)
+* Sosyal medya sitelerine erişmek için yer imlerini veya favorileri kullanın veya URL'leri tarayıcınıza yazın
+* Tarayıcınızın veya web sitenizin, giriş bilgilerinizi kütüphane bilgisayarları, ortak kullanım tabletler gibi herkese açık cihazlarda saklamadığından veya hatırlamadığından emin olun. Bunu yaparsanız ve başka biri bu cihazı kullanırsa, sosyal medya hesaplarınıza da erişebilir.
+* Örneğin bir kafede oturum açıyorsanız, ücretsiz WiFi kullanarak sosyal medya hesaplarınıza giriş yaparken dikkatli olun. Bu ağlar "güvenilmez" ağlardır. Bu, başkalarının, ne yaptığınızı görebilmesinin mümkün olduğu anlamına gelir. Daha fazla bilgi için [Broken link](broken-reference "mention") dokümanmıza bakabilirsiniz.
+* Sosyal medya hesaplarınıza telefonunuzdaki veya tabletinizdeki bir uygulama üzerinden erişim sağlıyorsanız, telefonunuzu kullanmadığınız zamanlarda mutlaka kilitleyin. Daha fazla bilgi için [telefon-ve-tabletlerde-guevenlik.md](../kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md "mention") dokümanmıza bakabilirsiniz.
 
-### Hesaplarınızı korumak için iki faktörlü kimlik doğrulama (2FA) kullanın
+### Hesaplarınızda güçlü şifreler kullanın
 
-Birçok şirket, hesaplarınızda iki faktörlü kimlik doğrulama (2FA olarak da bilinir) kurmanıza izin verir.
+Sosyal medya hesaplarınızın her biri için güçlü ve benzersiz şifreler kullanmak, onları güvende tutmanın en kolay yollarından biridir.
 
-* Temelde şifreniz dışında ikinci bir doğrulama mekanizmasıdır, şifre dışında hesabın sahibinin siz olduğu kanıtlar.
-* 2FA'nın en yaygın biçimi, akıllı telefonunuza devam etmek için girmeniz gereken bir kodun gönderilmesidir. Bankacılık ve e-posta gibi önemli web siteleri için 2FA kurmalısınız.
-* Bir suçlu şifrelerinizi bilse bile, 2FA'yı açarak koruduğunuz tüm hesaplara erişmekte zorlanacaktır.
-* Daha fazla bilgi için 2FA'yı detaylıca ele aldığımız [Broken link](broken-reference "mention") adlı dokümanıma bakabilirsiniz.
+* Her sosyal medya hesabınız için farklı bir şifre kullanın. Örneğin, Facebook hesabınız için kullandığınız şifreyi Twitter için kullanmayaın. Bu şekilde, birisi hesap şifrelerinizden birine erişirse, diğer hesaplarınıza da kolay erişim sağlayamaz.
+* Hesap şifrelerinizi uzun ve güçlü yapın. Kısa cümleler, hatırlamaları kolay olduğu için en iyi şifreleri oluşturur. Örneğin, üç veya daha fazla rastgele sözcükten oluşan bir dizin, sayıların, harflerin ve simgelerin karışımını kullanan 10 karakterlik bir parola kadar güçlüdür. Daha fazla bilgi için [iyi-bir-sifre-nasil-olusturulur.md](../parola-guevenligi/iyi-bir-sifre-nasil-olusturulur.md "mention") dokümanmıza bakabilirsiniz.
+* Sosyal medyada şifrelerinizin içeriği hakkında olabilicek bir paylaşım yapmayın. Örneğin kediniz Alex hakkında bir paylaşım yapıyorsanız. Şifreniz içinde Alex olmamalı.
+* Şifrelerinizi hiç kimseyle paylaşmayın - eşiniz, ebeveyniniz veya çocuklarınız bile.
 
-### Dijital ayak izinizi anlama
+Tüm şifrelerinizi hatırlamaktan endişe ediyorsanız, bunları sizin için saklayacak ve yönetecek bir şifre yöneticisi kullanmayı deneyin. Bu şekilde, yalnızca Parola yöneticisinin "master password" adlı ana oturum açma bilgilerini hatırlamanız gerekir. Daha fazla bilgi için [parola-yoeneticileri.md](../parola-guevenligi/parola-yoeneticileri.md "mention") dokümanmıza bakabilirsiniz.
 
-Sosyal Medya kullanımında çok dikkate alınmayan bir kavramdır, Dijital Ayak İzi, temelde sizin online olarak yaptığınız her şeyi kapsar, paylaşımlarınız, etiketleriniz, kullanım saatleriniz, kullandığınız dil, fotoğraflarınız, konumlarınız (konumu paylaşmasınız da fotoğraflardan bulunabilir – OSINT ile Geolocation yapılabilir), durumlarınız gibi başlıkları kapsamaktadır.
+### Gizlilik ve güvenlik ayarlarınızı göz atın
 
-* Paylaşım yapmadan önce ne paylaştığınızı iyi düşünün, kimin erişimi olduğunu düşünün. Kullandığınız platformda gizlilik ayarlarınızı kontrol etmeden bir şey paylaşmamaya çalışın.
-* Takipçileriniz paylaştığınız şeyleri bilmesi gerekiyor mu? Kötü bir aktör tarafından kullanılabilecek bir bilgi içeriyor mu? bu sorulara cevap vermeden paylaşım yapmayın.
-* Sosyal medyada arkadaşlarınız sizin hakkınızda ne paylaşıyor takip edin, yukarıdaki maddelere göre bunları düşün gerekirse kaldırmalarını isteyin.
+Sosyal medya hesaplarınızın her birinin gizlilik ve güvenlik ayarlarını göz atın. Profilinizi kimin görmesini istiyorsunuz ve ne tür bilgileri görmelerini istediğinizi düşünün.
 
-### Karmaşık bir şifre kullanın
+### Dolandırıcılıklara dikkat edin
 
-Sosyal medya tamamen paylaşmakla ilgilidir, bu nedenle şifreniz evcil hayvanınızın adı gibi sosyal medyada paylaştığınız bir şeyse, bir siber suçlunun tahmin etmesi kolay olacaktır. Her sosyal medya hesabı için benzersiz bir parola veya parola kullandığınızdan emin olun. Daha fazla bilgi için [Broken link](broken-reference "mention")
+Dolandırıcılar, insanları kişisel bilgilerini, finansal bilgilerini veya paralarını vermeleri için kandırmaya çalışmak için sosyal medyayı kullanır.
 
-### Çok faktörlü kimlik doğrulamayı etkinleştir
+Sosyal medyada bağlantıları ve ekleri açarken dikkatli olun. Ücretsiz bir teklif veya ödül talep etmek için başka bir web sitesini ziyaret etmenizi isteyen bağlantılar genellikle dolandırıcılık amaçlıdır. Bunlar, saldırganlar tarafından kişisel bilgilerinizi ele geçirmek ve hatta cihazınıza kötü amaçlı yazılım yüklemek için kullanılabilir. Tıklamadan önce düşünün - bir şey gerçek olamayacak kadar iyi geliyorsa, muhtemelen değildir. :smile:
 
-Çoğu sosyal medya sitesi, çok faktörlü kimlik doğrulama (MFA) sunar. Hesabınızı güvende tutmak için her zaman ayarlarınızda MFA'yı açın. Daha fazla bilgi için [Broken link](broken-reference "mention")
+Sosyal medyadaki bir arkadaşınız size garip sorular sorarsa dikkatli olun - örneğin kişisel bilgilerinizi isterse veya sizden para isterse. Bunu soran arkadaşınız değil, dolandırıcı olabilir. Dolandırıcı, arkadaşınızı taklit etmek için bir hesap oluşturmuş olabilir veya arkadaşınız hesabına erişimini kaybetmiş olabilir. Böyle bir durumda, arkadaşınızla telefon veya yüz yüze gibi başka bir kanaldan iletişime geçin ve ona sorun. Bu bir dolandırıcılıksa, hesabı şikayet edebilmelisiniz.
 
-### Review your privacy settings often
+### Paylaşılan hiçbir şey silinemez, her zaman bir yerde bir kopyası vardır
 
-Kimin neyi görebileceğini kontrol etmek için sosyal medya sitelerindeki gizlilik ve güvenlik ayarlarını kullanın - varsayılan ayarlar muhtemelen yabancılara istediğinizden daha fazla erişim sağlar.
+Sosyal medyada paylaşım yaparken arkadaşlarınız ve aileniz dışında paylaştığınız şeyleri kimlerin görebileceğini her zaman düşünmeniz gerekir. Sosyal medya, olumlu olduğu kadar olumsuz bir itibar yaratmak için de bir olanak sunuyor.
 
-### Özel bilgileri gizli tutun
+Bir şeyler paylaşıyorsanız,
 
-Dikkatli olsanız bile, ekranın diğer tarafında kimin olduğunu asla bilemezsiniz. Sosyal medyada paylaşım yaparken, bunları paylaşmaktan kaçının:
+* Sosyal medyada çok fazla kişisel bilgi ifşa etmeyin. 'Hakkımda' alanları isteğe bağlıdır - bunları doldurmanız gerekmez.
+* Twitter'ın varsayılan olarak herkese açık olduğunu unutmayın - herkes ne paylaştığınızı görebilir
 
-* Telefon numaranız, e-posta adresiniz, ev adresiniz, iş bilgileriniz veya çocuğunuzun okulu gibi kişisel bilgiler
-* Bilgilendirici resimler: Sokak işaretleri veya plakalar gibi açıklayıcı bilgiler için göndermeden önce resimlerin arka planını kontrol edin.
-* Coğrafi etiketli fotoğraflar: Çoğu akıllı telefon ve dijital kamera, fotoğrafın çekildiği tam konumu otomatik olarak ekler. Birçok sosyal medya sitesi, bir fotoğraf yayınladığınızda bu bilgileri saklamaz. Ancak her ihtimale karşı kontrol etmekte fayda var.
-* Heyecan verici haberler: Tatil ayrıntıları, büyük alışverişler veya adresinizle ilgili etkinlikler, suçluların siz yokken evinizi soyma fırsatı olduğunu bilmesini sağlayabilir
-* Bankanızın adı, kredi kartı veya banka kartı numaraları ve diğer finansal bilgiler dahil olmak üzere bankacılık veya finansal bilgiler.
+### Eski hesaplarınızı kapatın
 
-Check Out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/cyber-security-social-media/" %}
+Artık kullanmadığınız eski sosyal medya hesaplarınız varsa - Clubhouse kullanan hala var mı?, bunları kapatın. Kişisel bilgilerinizi artık kullanmadığınız ve kullamayacağınız yerlerde olmasına özen gösterin.

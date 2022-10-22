@@ -1,44 +1,26 @@
 ---
 description: >-
-  Cihazlarınızı yedeklemek, verilerinizin, özel fotoğraflarınızın, kişisel
-  dosyalarınızın ve önemli belgelerinizin her zaman korunacağından emin olmanızı
-  sağlar.
+  Yedekleme yapmak, verilerinizin kaybolması, sızdırılması veya çalınması
+  durumunda hızla geri yükleyebilmeniz için verilerinizin bir kopyasını
+  oluşturmak anlamına gelir.
 ---
 
 # 💾 Depolama ve Yedekleme
 
-### Önemli dosyaları koruyun
+Yedekleme, verilerinizin güncel bir kopyasının oluşturulmasını kapsar. Bunu yapmak önemlidir, böylece verilerinizi herhangi bir nedenle kaybederseniz, hızlı bir şekilde oluşturduğunuz kopyayla değiştirebilirsiniz. Veri kaybı, bir cihazın hasar görmesi, bir siber saldırı veya bilgisayarın kaybolması ya da çalınması sonucu olabilir.
 
-En önemli, çoğu zaman yeri doldurulamaz dosyalarımızı bilgisayarlarımızda ve telefonlarımızda saklarız. Bu dosyaları çoğaltmak ve güvenli bir şekilde saklamak, onları kaybetmemizi engeller.
+Yedekleme, yalnızca üzerinde bulunan veriler kadar yararlıdır. Bir yedekleme güncel değilse, o zamandan beri yaptığınız tüm fotoğrafları veya belgeleri yine de kaybedersiniz. Yedeklemeyi yalnızca dosyalarınızın (belgeleriniz ve fotoğraflarınız gibi) için değil tüm sisteminizin yedeğini almak içinde yapabilirsiniz.
 
-Verilerinizi yedeklemek, dosyaların yanlışlıkla silinmesinden dosyalarınızın ve belgelerinizin yok edildiği toplam sistem arızasına kadar her türlü öngörülemeyen durumda korunmasını sağlar.
+### İyi bir yedekleme planı yapın
 
-Aile fotoğrafları veya finansal belgeler gibi korumak istediğiniz dosyaları yedekleyin. İşletim sisteminizdeki (OS) uygulamaları, yardımcı programları yedeklemeniz gerekmez - bunlar daha sonra yüklenebilir.
+Her türlü yedeklemeyi yapmak verilerinizi kaybetme riskinizi azaltır. Riskinizi daha da azaltmak için etkili yedeklemeler yapmak için bazı ipuçları:
 
-### Size uygun yedekleme çözümünü seçin
+* **Düzenli olarak yedekleme yapın**. Düzenli olarak yedekleme yapmayı bir rutin haline getirin. Ne sıklıkta yedekleme yapacağınız, verilerinizin ne sıklıkta değiştiğine bağlı olsa da belirli bir rutin otturmak iyi bir başlangıç olacaktır.
+* **Farklı yerlerde yedekleriniz olsun.** Biri farklı bir konumda olmak üzere yedeklerinizin iki farklı kopyasını saklayın. Bu en ideal yedekleme yöntemidir. Verilerinizin orijinalini ve bir yedeğini kaybet aynı anda kaybetmiz mümkün olsa da coğrafi olarak farklı yerlerde olan yada birisi bulut biri evinizde olan yedekleri aynı anda kaybetmeniz neredeyse imkansızdır.
+* **Yedeklemelerin çevrimdışı depolandığından emin olun**. Yedekleme aygıtı olarak bir USB veya veya harici bir harddisk kullanıyorsanız, yedekleme sonrasında cihaz ile bağlantısını kesin. Bağlı kalırsa, makinenizi etkileyen herhangi bir şey yedeklemeyi de etkileme olasılığı çok yüksektir.
+* **Yedekleme çözümlerinizi düzenli aralıklarla test edin**. Yedeklemelerinizin çalıştığından ve depolanan verilerinizin olması gerektiği gibi olduğundan emin olmanız çok önemlidir. Bir harddisk yedeğinden geri yükleme yapmadan önce makinenizin kötü amaçlı yazılım içermediğini kontrol edin.
+* **Yedeklenmiş verilerinizi şifrelerle koruyun**. Yedeklerinize yetkisiz erişimi önlemek için güçlü bir parolaya sahip olduğundan emin olarak yedeklemenizi güvence altına almaya çalışabilirsiniz. Varsa, iki faktörlü kimlik doğrulamayı da etkinleştirebilirsiniz. 2FA için daha fazla bilgi için [iki-faktoerlue-kimlik-dogrulama-2fa.md](../parola-guevenligi/iki-faktoerlue-kimlik-dogrulama-2fa.md "mention") dokümanına bakabilirsiniz.
 
-Bulut depolama, dosyalarınızı, belgelerinizi ve fotoğraflarınızı uzak bir veri tabanına kaydeder. Bir bulut depolama hizmeti, bilgisayarınızın veya cihazınızın işletim sistemiyle (OS) standart olarak gelebilir. İşletim sisteminizin sistem tercihlerinde veya ayarlar menüsünde arayarak cihazınızın bir buluta otomatik yedekleme yapıp yapmadığını öğrenebilirsiniz.
-
-Harici sabit sürücüler, dosyaların, belgelerin ve fotoğrafların bir kopyasını kaydetmek için bilgisayarınıza veya cihazınıza bağlanabilen cihazlardır. Dosyaları yedeklemek için harici sabit sürücünüzü düzenli olarak bağlayın. Yedekleme tamamlandığında bağlantısını kesmeyi unutmayın.
-
-Harici depolama ayrıca bir USB anahtarında, CD'lerde veya DVD'lerde de yapılabilir.
-
-İçinizin daha rahat etmesi için dosyalarınızı iki farklı depolama aygıtına yedeklemeyi düşünebilirsiniz. Dosyalarınızı ve belgelerinizi harici olarak yedeklemenin, hasar görmeleri veya tehlikeye girmeleri durumunda onları kurtarmanıza yardımcı olabileceğini unutmayın.
-
-### Bir yedekleme zamanlaması ayarlayın
-
-Bazı harici sabit sürücüler, sizin için her şeyi düzenli olarak yedekleyen otomatik yedekleme yazılımı ile önceden yüklenmiş olarak gelir. Değilse, verilerinizi en az haftada bir kez yedeklemeniz için kendinize bir hatırlatıcı ayarlayın.
-
-### Yedeklerinizi koruyun
-
-İster bulutu, ister fiziksel yedeklemeyi kullanıyor olun, parolaları etkinleştirin veya mümkün olduğunda diğer şifreleme güvenliklerini kullanın.
-
-Ayrıca, hem çalınma hem de yok olma olasılığını en aza indirmek için veri yedekleme depolamanızı bilgisayarınızdan ayrı veya hatta evden uzakta tutabilirsiniz.
-
-### Kullandığınız Bulut Hizmetini Bilin
-
-Verilerinizi yedeklemek için bulut depolama kullanıyorsanız, bulut sağlayıcınız tarafından sunulan gizlilik politikalarını ve güvenlik özelliklerini inceleyin. Örneğin, sağlayıcılar birkaç aylık geçmiş dosya kurtarma veya fidye yazılımlarına karşı koruma sunabilir. Bulut hizmetiniz için güçlü bir parola kullandığınızdan emin olun.
-
-Check Out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/backing-up-data-and-devices/" %}
+{% hint style="info" %}
+Düzenli yedeklemeler, saldırılara karşı büyük bir etki azaltıcı olsa da, bilgilerinizi güvende tutmaya yardımcı olmak için diğer iyi güvenlik uygulamalarını kullanın. Detaylı bilgi için [zarali-yazilimlarindan-korunmak-icin-ipuclari.md](../zararli-yazilim-kaldirma/zarali-yazilimlarindan-korunmak-icin-ipuclari.md "mention") dokümanına bakabilirsiniz.
+{% endhint %}

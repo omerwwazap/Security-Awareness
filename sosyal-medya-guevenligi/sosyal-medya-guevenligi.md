@@ -1,2 +1,0 @@
-# 🐦 Sosyal Medya Güvenliği
-

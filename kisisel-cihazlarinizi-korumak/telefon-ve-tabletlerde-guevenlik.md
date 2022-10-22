@@ -6,81 +6,61 @@ description: >-
 
 # 📲 Telefon ve Tabletlerde Güvenlik
 
-### Mobil cihazlarınızdaki verileri güvenli hale getirin
+Cep telefonunuzu kaybederseniz veya çalınırsa, birisi Google hesabı giriş bilgilerinizi (Android telefonunuz varsa) veya Apple Kimliğinizi (iPhone'unuz varsa) ele geçirebilir. Ayrıca aşağıdakilere kolayca erişebilirler:
 
-Telefonlar git gide daha fazla kişisel, finansal ve konum tabanlı veri paylaşmamızı gerektiriyor. Bir siber suçlu bu bilgilere erişirse sonuçlar felaket olabilir. Cihazlarınızın güvenliğini sağlamak, bunun olmasını önlemeye yardımcı olabilir.
+* İletişim bilgilerinizi
+* Fotoğraflarınızı&#x20;
+* Sosyal medya hesaplarınız (telefonunuzda Facebook veya Twitter'dan en son ne zaman çıkış yaptınız?)&#x20;
+* Bankacılık veya finansal bilgileriniz&#x20;
+* Dropbox, OneDrive, Google docs veya iCloud gibi kullandığınız tüm uygulamalar ve bu uygulamalarda sakladığınız veriler&#x20;
+* Tarayıcı geçmişiniz
 
-<details>
+### Cep telefonunuzu kaybetmeye ve hırsızlığa karşı koruyun
 
-<summary>Olası Riskler</summary>
+* Telefonunuzu kullanmadığınız zamanlarda daima ekranı kilitleyin. Belirli bir süre sonra otomatik olarak kilitlenecek şekilde ayarlayabilirsiniz, ne kadar kısa olursa o kadar iyidir.
+* Başkalarının kolayca erişememesi için telefonunuza iyi ve güvenli bir şifre koyun; bir sayı, desen veya parmak izi kullanın.
+* Telefonunuzun kaybolması veya çalınması durumunda korumanıza yardımcı olması için izleme işlevini (Apple'ın "Telefonumu bul" özelliği gibi) kullanın. Bu size şunları sağlayacaktır:
+  * Haritada nerede olduğunu takip etmenize
+  * Yakınlardaysa, bulmanıza yardımcı olacak bir ses çaldırma
+  * Uzaktan kilitleme
+  * Üzerine iletişim bilgilerinizle birlikte bir not koyma (Bazı telefonlar yapabilmekte)
+  * Üzerindeki verileri uzaktan silme
 
-**Phishing and Smishing**, Kimlik avı mesajları, güvenilir bir kaynaktan geliyormuş gibi davranarak sizi kandırmak için tasarlanmış e-postalardır. Phishing mesajları, telefon görüşmeleri şeklinde de gelebilir. Smishing mesajları SMS metinleri ile gönderilir.
+### Mobil verilerinizi yedekleyin
 
-Kimlik avı dolandırıcılığına düşmekten kaçınmanın en iyi yolu dikkatli olmaktır: bilinmeyen numaralardan gelen beklenmedik mesajlara asla yanıt vermeyin, hassas bilgileri SMS veya e-posta ile göndermekten kaçının ve bağlantıları tıklamadan veya ekleri açmadan önce iki kez düşünün.
+Cep telefonunuzdaki verileri yedeklemek - örneğin iCloud'a - yapabileceğiniz en önemli şeylerden biridir. Verilerinizi yedeklerseniz, telefonunuz kaybolsa veya çalınsa bile hiçbirine erişiminizi kaybetmezsiniz. Cep telefonunuzu düzenli olarak, örneğin haftada bir yedeklediğinizden emin olun. Yedekleme hakkında daha fazla bilgi almak için [Depolama ve Yedekleme.md](<Depolama ve Yedekleme.md> "mention") dokümanmıza bakabilirsiniz.
 
-**Zararlı Yazılımlar**, bir cihaza sızmak veya cihaza zarar vermek için tasarlanmış kötü amaçlı yazılımdır. Virüsler veya solucanlar gibi kötü amaçlı yazılımlar, internetten indirmeler, metin ekleri veya Bluetooth aktarımları yoluyla telefonunuza yayılabilir. Kişilerinize spam göndermek veya cihazı tamamen kapatmak gibi mobil cihazlarınızda her türlü soruna neden olabilir.\
+### Cihazın işletim sistemini güncelleyin
 
+Cep telefonunuz için bir yazılım güncellemesi uyarısı aldığınızda, mümkün olan en kısa sürede yükleyin. Güncellemeler sadece yeni özellikler eklemekle ilgili değildir. Ayrıca, saldırganların bulabileceği ve sisteminize izinsiz erişmek için kullanabileceği güvenlik açıklarını düzeltmektedir.
 
-</details>
+### İndirdiğiniz uygulamalara dikkat edin
 
-### Telefon ve tabletinizi güncel tutun
-
-Mobil işletim sistemi (OS) güncellemeleri, tamamen yeni bir sürümden güvenliği güçlendirmek, hataları gidermek veya işlevselliği geliştirmek için bir yama veya düzeltmeye kadar her şeyi içerebilir.
-
-İstendiğinde her zaman cihazınızı güncelleyin veya varsa otomatik güncellemeleri açın.
-
-### Bluetooth'a dikkat edin
-
-Bluetooth teknolojisi, kablosuz kulaklıklar, yazıcılar ve klavyeler gibi yakındaki cihazları mobil cihazınıza veya bilgisayarınıza bağlar. Cihazlarınız hassas veriler taşıdığından, Bluetooth aracılığıyla herhangi bir şeyi eşleştirirken ekstra özen göstermek isteyeceksiniz. Bilgisayar korsanlarının cihazınızı algılayıp eşleştirmeye çalışmaması için, kullanmadığınız zamanlarda Bluetooth'u her zaman kapatmayı unutmayın.
-
-### Mesaj yazmadan önce düşünün
-
-SMS mesajları veya metinler arkadaşlarınızla iletişim kurmanın uygun bir yoludur, ancak sizi kötü amaçlı yazılımlara, gizlilik ihlallerine ve diğer suç faaliyetlerine karşı savunmasız hale getirebilirler. Mesaj yazarken birkaç önlem alın:
-
-* Bilinmeyen veya güvenilmeyen kaynaklardan gelen ekleri asla açmayın.&#x20;
-* Şüpheli mesajlarda asla bağlantıları tıklamayın veya telefon numaralarını aramayın - bankanızdan veya mobil sağlayıcınızdan geldiğini söyleseler bile. **** Mesajı atan kurum bir sorun olduğu düşünüyorsa kurumun telefonunu kendi sitesinden bularak arayın ve sorunu teyit edin.
-
-### Güvenilmeyen uygulamalara dikkat edin
-
-Kuruluşları hakkında çok az veya hiç bilgi vermeyen şirketler tarafından geliştirilen uygulamaları indirmekten kaçının.
+Uygulamayı geliştirenler hakkında çok az veya hiç bilgi vermeyen uygulamaları indirmekten kaçının.
 
 Saygın bir şirket, iletişim bilgilerini, bir web sitesi adresini veya e-posta bilgilerini sağlamalıdır. Uygulamaları yalnızca App Store veya Google Play gibi güvenilir kaynaklardan indirin. Ancak unutmayın, güvenilir kaynaklar bile zararlı uygulamalar barındırabilir.
 
-Şüpheye düştüğünüzde, bir uygulamanın güvenlik özellikleri hakkında daha fazla bilgi edinmek için internette arama yapın veya diğer kullanıcıların ne söylediğini görmek için yayınlanan incelemeleri okuyun.
+Uygulamalarınızı otomatik olarak güncellenecek şekilde ayarlayın. Bu, her zaman mevcut en yeni ve en güvenli sürüme sahip olmanızı sağlayacaktır.
 
-Bir uygulamayı yüklemeden önce izinleri gözden geçirdiğinizden emin olun. İşlevselliğinin talep ettiği izinlerle örtüşüp örtüşmediğini kontrol etmek için sağduyunuzu kullanın. Mümkün olduğunda, yalnızca rahat ettiğiniz izinleri etkinleştirin.
+Tüm uygulamalarınızın izinlerini ve ayarlarını kontrol edin. Telefonunuzda sizi rahatsız eden diğer özelliklere erişimleri olmadığından emin olun. Örneğin, Facebook'un fotoğraflarına erişmesini isteyebilirsiniz, ancak hava durumu uygulamanızın muhtemelen buna ihtiyacı yoktur.
 
-### Dikkatlice bağlanın
+Kullanmadığınız tüm uygulamaları silin. Örneğin, bir tatil planlamanıza yardımcı olacak bir uygulama indirdiyseniz ve artık buna ihtiyacınız yoksa, ondan kurtulun. Bu şekilde güncelleme konusunda endişelenmenize gerek kalmaz. :smile:
 
-Herkese açık ve güvenli olmayan özel Wi-Fi ağları, bilgisayar korsanlarının mobil cihazınıza erişmesi için mükemmel bir fırsat olabilir.
+### Bağlantı noktaları ve ücretsiz WiFi kullanırken dikkatli olun
 
-Herkese açık Wi-Fi kullanmanız gerekiyorsa, bunun bildiğiniz ve güvendiğiniz bir ağ olduğundan emin olun ve bunu asla bankacılık yapmak veya hassas bilgilere erişmek için kullanmayın.
+* Hotspot veya ücretsiz WiFi kullanırken ne yaptığınıza dikkat edin. Bu ağlar güvenilmezdir, yani başkalarının onları kullandığınızda ne yaptığınızı görebilmesi mümkündür.
+* Ücretsiz WiFi üzerinden online alışveriş veya internet bankacılığı yapmamaya özen gösterin.
+* Telefonunuzdaki WiFi ve bluetooth'u kullanmadığınız zamanlarda kapatın.
 
-### Cihazlarınızı kilitleyin
+### Telefonunuzu satarsanız, başka birine verirseniz veya yenisiyle değiştirirseniz
 
-Mobil cihazlarımızı ne kadar çok kullanırsak, onlarda o kadar fazla veri depolarız. Bu günlerde telefonunuzu kaybetmek kimlik hırsızlığına veya mali felakete neden olabilir. Tehdit aktörleri, kişi listenizdeki herkesin cihazlarına bulaşmak için cihazınızı kullanabilir.
+Cep telefonunuzu kullanmayı bıraktığınızda, başka birine verirseniz, satarsanız veya yenisini almaya karar verirseniz, önce fabrika ayarlarına sıfırlayın. Bu, tüm kişisel bilgilerinizi ondan temizleyecektir. Bu seçeneğini ayarlarınızda bulabilirsiniz.&#x20;
 
-Kilit ekranı parolası kullanmak ve varsa parmak izi taraması gibi biyometrik güvenlik özelliklerini etkinleştirmek, cihazınızı kaybederseniz suçluların cihazınızda erişmesini engelleyebilir. Ayrıca Kısa zaman ayarlı otomatik kilitlemeyi açmaı unutmayın.
+Bu konu hakkında daha fazla bilgi almak için [kullanilmis-cihazlari-satin-alma-ve-satma.md](../ikinci-el-cihaz-guevenligi/kullanilmis-cihazlari-satin-alma-ve-satma.md "mention") dokümanına bakabilirsiniz.
 
 ### Cihazlarınıza göz kulak olun
 
 Mobil cihazlarınızı asla araçta veya halka açık yerlerde gözetimsiz bırakmayın. Marka, IMEI ve modellerinin kaydını tutun. Cihazınız kaybolursa, güvenli bir şekilde geri almak için aşağıdaki adımları izleyin,
 
 * E-Devlet üzerinden IMEI numarası ile cihazı kayıp olarak işaretleyebilirsiniz. Bu telefonunuzu ulusal bir kara listeye alınarak kullanılmasını engellemektedir.
-* Eğer cihazınızın konum bilgisi açık ise Andriod telefonlarda bulunan Find My Device ve Apple cihazlarda bulunan Find My uygulamaları ile kayıp cihazınızı takip edebilir, sıfırlayabilir ve devre dışı bırakabilirsiniz. Konumunu bilseniz bile Poliste gitmeniz gerekmeke, asla kendiniz almaya çalışmayın.
-
-**Cihazlarınızın güvenliğini ayarlarını kontrol edin**
-
-Apple - [https://www.apple.com/tr/privacy/control/](https://www.apple.com/tr/privacy/control/)
-
-Google (Android) - [https://safety.google/security/security-tips/](https://safety.google/security/security-tips/)
-
-Samsung - [https://www.samsung.com/global/galaxy/security/](https://www.samsung.com/global/galaxy/security/)
-
-Microsoft - [https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963](https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963)
-
-
-
-Check out
-
-{% embed url="https://www.cert.govt.nz/individuals/guides/keep-mobile-phone-safe-secure/" %}
+* Eğer cihazınızın konum bilgisi açık ise Andriod telefonlarda bulunan Find My Device ve Apple cihazlarda bulunan Find My uygulamaları ile kayıp cihazınızı takip edebilir, sıfırlayabilir ve devre dışı bırakabilirsiniz. Konumunu bilseniz bile Poliste gitmeniz gerekmekte, asla kendiniz almaya çalışmayın.

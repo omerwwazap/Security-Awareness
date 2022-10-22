@@ -54,15 +54,15 @@
 
 ## Kişisel Cihazları Korumak
 
-* [🛰 Ev Ağınızın Güvenliği](kisisel-cihazlarinizi-korumak/cihaz-ve-ag-guevenligi.md)
+* [🕸 Ev Ağınızın Güvenliği](kisisel-cihazlarinizi-korumak/cihaz-ve-ag-guevenligi.md)
 * [💾 Depolama ve Yedekleme](<kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md>)
 * [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md)
 * [🖲 Uygulama Güvenliği](kisisel-cihazlarinizi-korumak/uygulama-guevenligi.md)
 
 ## Sosyal Medya Güvenliği
 
-* [🗼 Sosyal Medya Kullanımı](sosyal-medya-guevenligi/sosyal-medya-kullanimi.md)
-* [🐦 Sosyal Medya Güvenliği](sosyal-medya-guevenligi/sosyal-medya-guevenligi.md)
+* [🐦 Sosyal Medya Güvenliği](sosyal-medya-guevenligi/sosyal-medya-kullanimi.md)
+* [🗼 Sosyal Medya Kullanımı](sosyal-medya-guevenligi/sosyal-medya-kullanimi-1.md)
 * [🏛 Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/README.md)
   * [Instagram](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/instagram.md)
   * [Facebook](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/facebook.md)

@@ -28,7 +28,7 @@ Cihazınıza virüs bulaştığını söyleyen bir telefon aldıysanız ve temiz
 **Bir telefon veya tablet için ise,**
 
 * Bunlar genellikle bir antivirüs ürünü tarafından bilgisayarlar gibi düzeltilemez.
-* En güvenli çözüm fabrika ayarlarına sıfırlamaktır - bu seçeneği genellikle Ayarlar'da bulabilirsiniz. [Broken link](broken-reference "mention") ve [Broken link](broken-reference "mention") dokümanlarına bakmanızı tavsiye ederiz.
+* En güvenli çözüm fabrika ayarlarına sıfırlamaktır - bu seçeneği genellikle Ayarlar'da bulabilirsiniz. [Depolama ve Yedekleme.md](<../kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md> "mention") ve [telefon-ve-tabletlerde-guevenlik.md](../kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md "mention") dokümanlarına bakmanızı tavsiye ederiz.
 * Cihazınızı ve programlarınızı güncelleyin
 * Bu sorunu çözmezse, uzman yardımına ihtiyacınız olacak.
 
@@ -44,3 +44,11 @@ Cihazınıza virüs bulaştığını söyleyen bir telefon aldıysanız ve temiz
 Yedeklenmemiş tüm verileri kaybedersiniz.
 
 ### Zararlı Yazılımı Kaldırdıktan Sonra
+
+[Broken link](broken-reference "mention"), [Broken link](broken-reference "mention") ve [siber-guevenlik-icin-en-iyi-6-ipucu.md](../readme/siber-guevenlik-icin-en-iyi-6-ipucu.md "mention") dokümanlarımıza göz atın.
+
+Cihazınızı ve programlarınızı/uygulamalarınızı güncel tutun.
+
+[Depolama ve Yedekleme.md](<../kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md> "mention") dokümanlarımıza göz atın.
+
+Son olarak [Broken link](broken-reference "mention") adlı dokümanlarımıza bakmanızı tavsiye ederiz
