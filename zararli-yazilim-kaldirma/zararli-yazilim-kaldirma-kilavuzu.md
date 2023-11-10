@@ -21,7 +21,7 @@ Aşağıdaki talimatlar yalnızca tavsiye niteliğindedir.
 {% endhint %}
 
 {% hint style="danger" %}
-**Dosyalarınızı şifreleyen bir virüs var ise Buraya bakınız** [ransomware-sifre-coezme-ve-tanimlama-araclari.md](ransomware-sifre-coezme-ve-tanimlama-araclari.md "mention")****
+**Dosyalarınızı şifreleyen bir virüs var ise Buraya bakınız** [ransomware-sifre-coezme-ve-tanimlama-araclari.md](ransomware-sifre-coezme-ve-tanimlama-araclari.md "mention")
 {% endhint %}
 
 ### Çalıştırılacak Araçlar

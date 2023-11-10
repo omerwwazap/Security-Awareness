@@ -19,7 +19,7 @@ Web sitenizden veya sosyal medya hesaplarınızdan alınan bilgiler, suçlular t
 
 * Suçlular, Oltalama e-postalarının inandırıcı görünmesini sağlamak için, hakkınızda herkese açık bilgileri kullanır. Gizlilik ayarlarınızı gözden geçirin ve ne yayınladığınıza dikkat edin.
 * Arkadaş ve ailenizin çevrimiçi ortamda sizinle ilgili söylediklerinin farkında olun, çünkü bu sizi hedef almak için kullanılabilecek bilgileri de ortaya çıkarabilir.
-* Tam olarak emin olmadığınız bir e-posta aldıysanız, bunu eposta aracınız ile **** bildirebilirsiniz.
+* Tam olarak emin olmadığınız bir e-posta aldıysanız, bunu eposta aracınız ile bildirebilirsiniz.
 
 ### Tıkladığınızı Düşünüyorsanız, Ne Yapmalısınız?
 
@@ -27,7 +27,7 @@ Yapılması gereken en önemli şey panik yapmamaktır. Atabileceğiniz birkaç 
 
 * Virüsten koruma (AV) yazılımınızı açın ve + tam tarama çalıştırın. Verilen talimatları izleyin.
 * Parolanızı girmiş iseniz, hemen bu hesabın parolasını değiştirmeye çalışın, ayrıca aynı şifreyi kullandığınız diğer tüm hesaplarınızın da şifresini acilen değiştirin. Güçlü şifreler oluşturmak için [iyi-bir-sifre-nasil-olusturulur.md](../parola-guevenligi/iyi-bir-sifre-nasil-olusturulur.md "mention") adlı dokümanımıza bakabilirsiniz.
-* Verilerinizin kamuya açık veri ihlallerinde görünüp görünmediğini kontrol etmek için [https://haveibeenpwned.com](https://haveibeenpwned.com) gibi çevrimiçi araçları kullanabilirsiniz. Burada gösterilen hesaplarınızın acilen parolasını değiştirin. Haveibeenpwned’a benzer hizmetler genellikle halihazırda kullanıyor olabileceğiniz virüsten koruma veya **** [parola-yoeneticileri.md](../parola-guevenligi/parola-yoeneticileri.md "mention") araçlarına dahildir.
+* Verilerinizin kamuya açık veri ihlallerinde görünüp görünmediğini kontrol etmek için [https://haveibeenpwned.com](https://haveibeenpwned.com) gibi çevrimiçi araçları kullanabilirsiniz. Burada gösterilen hesaplarınızın acilen parolasını değiştirin. Haveibeenpwned’a benzer hizmetler genellikle halihazırda kullanıyor olabileceğiniz virüsten koruma veya [parola-yoeneticileri.md](../parola-guevenligi/parola-yoeneticileri.md "mention") araçlarına dahildir.
 
 ### Oltalama belirtilerini bulun
 

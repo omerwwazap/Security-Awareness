@@ -35,7 +35,7 @@ O kadar çok çevrimiçi hesabımız var ki, bu hesapların şifreleri takip etm
 * Parolanızı daha karmaşık hale getirmek için bir harf, sayı ve sembol karışımı ekleyebilirsiniz. [#geleneksel-sifre-olusturma-yollari](parola-guevenligi/iyi-bir-sifre-nasil-olusturulur.md#geleneksel-sifre-olusturma-yollari "mention")
 * Bir süredir sahip olduğunuz hesapların şifrelerini gözden geçirin, muhtemelen daha zayıf veya yeniden kullanılmış şifreleri vardır.
 
-Daha fazla bilgi için **** [Broken link](broken-reference "mention") hakkındaki yazılarımıza bakabilirsiniz.
+Daha fazla bilgi için [Broken link](broken-reference "mention") hakkındaki yazılarımıza bakabilirsiniz.
 
 ### 3. İki faktörlü kimlik doğrulamayı açın
 
