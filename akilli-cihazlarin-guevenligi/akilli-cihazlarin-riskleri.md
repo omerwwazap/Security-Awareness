@@ -6,6 +6,8 @@ description: >-
 
 # 🌐 Akıllı Cihazların Riskleri
 
+<figure><img src="../.gitbook/assets/Picture1.png" alt="" width="87"><figcaption></figcaption></figure>
+
 Aşağıda bazı haberler bulunmakta;
 
 * [MiSafes' child-tracking smartwatches are "easy to hack"](https://www.bbc.com/news/technology-46195189) - İngilizce

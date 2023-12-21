@@ -1,5 +1,5 @@
 # Metaverse Güvenliği
 
-{% hint style="info" %}
-Düzenlenecek
+{% hint style="danger" %}
+Yapım aşamasındadır, yazım hataları bulunabilir.
 {% endhint %}

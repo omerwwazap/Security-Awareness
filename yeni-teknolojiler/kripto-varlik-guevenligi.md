@@ -1,11 +1,13 @@
 # 💎 Kripto Varlık Güvenliği
 
+{% hint style="danger" %}
+Yapım aşamasındadır, yazım hataları bulunabilir.
+{% endhint %}
+
 {% hint style="warning" %}
 Kripto Bilenler Kontrol Etmeli.\
 Ben pek bilmiyorum :)
 {% endhint %}
-
-
 
 ### Cüzdanınızı güvende tutmak
 

@@ -6,13 +6,13 @@ description: >-
 
 # 🕸 Ev Ağınızın Güvenliği
 
-nsanların sizin bilginiz olmadan kablosuz ev ağınıza erişememesi veya WiFi'nizi ücretsiz olarak kullanamaması için modeminizin güvenliğini sağlamanız gerekir.
+İnsanların sizin bilginiz olmadan kablosuz ev ağınıza erişememesi veya WiFi'nizi ücretsiz olarak kullanamaması için modeminizin güvenliğini sağlamanız gerekir.
 
 ### Modeminizin için varsayılan oturum açma ayrıntılarını değiştirin
 
 Kablosuz ağınıza giren ve çıkan her şey modeminizden üzerinden geçer. Ağınızı korumak başlanacak en iyi yer, modemin varsayılan giriş bilgilerini değertirmek olur.
 
-Bir modem satın aldığınızda veya Internet sağlayıcınız size bir verdiğinde, bu modemler her zaman üretici tarafından belirlenen varsayılan oturum açma bilgileriyle birlikte gelir. Çoğu zamanda, aynı modeldeki tüm cihazlar aynı varsayılan kullanıcı adı ve parolaya sahip olacaktır. Size gelen cihazın kullanıcı adı 'admin' ise ve şifresi 'admin' ise. Çok yüksek olasılıksa arkadaşınıza gelen modem'in kullanıcı bilgileri bu şekilde olacaktır. Bu bilgiler üretici kutusunda çıkmadıysa veya kaybettiyseniz internette çoğu modem için varsayılan şifrelerin bir listesini bulabilirsiniz. :smile:
+Bir modem satın aldığınızda veya Internet sağlayıcınız size bir verdiğinde, bu modemler her zaman üretici tarafından belirlenen varsayılan oturum açma bilgileriyle birlikte gelir. Çoğu zamanda, aynı modeldeki tüm cihazlar aynı varsayılan kullanıcı adı ve parolaya sahip olacaktır. Size gelen cihazın kullanıcı adı **"admin"** ise ve şifresi **"admin"** ise. Çok yüksek olasılıksa arkadaşınıza gelen modem'in kullanıcı bilgileri bu şekilde olacaktır. Bu bilgiler üretici kutusunda çıkmadıysa veya kaybettiyseniz internette çoğu modem için varsayılan şifrelerin bir listesini bulabilirsiniz. :smile:
 
 ### Ev kablosuz ağınızın adını değiştirin
 

@@ -10,6 +10,10 @@
 
 * [📚 Siber Güvenlik Terimleri Sözlüğü](soezluek/siber-guevenlik-terimleri-soezluegue.md)
 
+## Genel
+
+* [Online Güvenlikle İlgili Doğru Bilinen Yanlışlar](genel/siber-guevenlik-terimleri-soezluegue.md)
+
 ## Şüpheli E-Postalar
 
 * [📧 Şüpheli E-Postalara Baş Etmek](suepheli-e-postalar/suepheli-e-postalara-bas-etmek.md)

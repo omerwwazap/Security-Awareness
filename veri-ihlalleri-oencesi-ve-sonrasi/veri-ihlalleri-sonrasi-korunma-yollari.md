@@ -6,6 +6,12 @@ description: >-
 
 # ⚔ Veri İhlalleri Sonrası Korunma Yolları
 
+
+
+{% hint style="danger" %}
+Yapım aşamasındadır, yazım hataları bulunabilir.
+{% endhint %}
+
 ### Veri İhlali Nedir Ve Sizi Nasıl Etkileyebilir?
 
 Suçlular, sızdırılmış bilgileri oltalama e-postalarında, telefon ve SMS mesajlarında kullanabilir, böylece gerçek görünmeleri sağlar. Hatta yakın zamanda bir veri ihlaline maruz kalmış bir kuruluştan geliyormuş gibi davranabilir veya benzeri nedenler ile oturum açmanızı ve kimliğinizi doğrulamanızı isteyen e-postalar bile gönderebilirler.

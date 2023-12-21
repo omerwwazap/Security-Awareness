@@ -1,8 +1,6 @@
 # Check Out
 
-{% hint style="info" %}
 Düzlenmekte
-{% endhint %}
 
 ## Reports
 
@@ -23,3 +21,11 @@ Cool Stuff will check later and add to other documents;
   * [https://www.mertsarica.com/sosyal-ag-hirsizlari/](https://www.mertsarica.com/sosyal-ag-hirsizlari/)
   * [https://www.mertsarica.com/sponsorlu-dolandiricilik/](https://www.mertsarica.com/sponsorlu-dolandiricilik/)
   * [https://www.ncsc.gov.uk/collection/phishing-scams](https://www.ncsc.gov.uk/collection/phishing-scams)
+
+
+
+[https://www.ownyouronline.govt.nz/personal/get-protected/guides/keeping-cryptocurrency-secure/](https://www.ownyouronline.govt.nz/personal/get-protected/guides/keeping-cryptocurrency-secure/)
+
+[https://www.ownyouronline.govt.nz/personal/know-the-risks/busting-myths-about-online-security/](https://www.ownyouronline.govt.nz/personal/know-the-risks/busting-myths-about-online-security/)
+
+[https://www.ownyouronline.govt.nz/personal/scam-check/text/](https://www.ownyouronline.govt.nz/personal/scam-check/text/)

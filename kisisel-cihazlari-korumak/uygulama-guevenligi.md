@@ -1,5 +1,5 @@
 # Uygulama Güvenliği
 
-{% hint style="info" %}
-Düzlenmekte
+{% hint style="danger" %}
+Yapım aşamasındadır, yazım hataları bulunabilir.
 {% endhint %}

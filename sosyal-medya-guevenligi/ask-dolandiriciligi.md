@@ -1,7 +1,7 @@
 # Aşk Dolandırıcılığı
 
-{% hint style="warning" %}
-Düzlenmekte
+{% hint style="danger" %}
+Yapım aşamasındadır, yazım hataları bulunabilir.
 {% endhint %}
 
 Aşk Folandırıcılığı
