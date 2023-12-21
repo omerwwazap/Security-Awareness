@@ -23,6 +23,8 @@ description: >-
 * [Güvenli Net Platformu](https://www.guvenlinet.org.tr/)
 * [Siber Ay Platformu](https://www.siberay.com/)&#x20;
 
+GitHub Sync Repo: [https://github.com/omerwwazap/Security-Awareness](https://github.com/omerwwazap/Security-Awareness)
+
 
 
 

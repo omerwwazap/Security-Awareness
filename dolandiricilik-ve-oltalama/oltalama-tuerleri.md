@@ -1,4 +1,4 @@
-# Metaverse Güvenliği
+# Oltalama Türleri
 
 {% hint style="danger" %}
 Plan aşamasındadır.

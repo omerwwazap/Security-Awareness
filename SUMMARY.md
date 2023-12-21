@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Siber Güvenlik Farkındalığı](README.md)
-  * [Siber Güvenliğe Giriş](readme/siber-guevenlige-giris.md)
-  * [Todo](readme/todo.md)
-  * [Github Repo](https://github.com/omerwwazap/Security-Awareness)
 * [6⃣ Siber Güvenlik İçin En İyi 6 İpucu](siber-guevenlik-icin-en-iyi-6-ipucu.md)
 
 ## Sözlük
@@ -47,8 +44,8 @@
 
 ## Yeni Teknolojiler
 
-* [Metaverse Güvenliği](yeni-teknolojiler/metaverse-guevenligi.md)
 * [💎 Kripto Varlık Güvenliği](yeni-teknolojiler/kripto-varlik-guevenligi.md)
+* [Metaverse Güvenliği](yeni-teknolojiler/metaverse-guevenligi.md)
 
 ## Zararlı Yazılımlar
 
@@ -65,28 +62,28 @@
 * [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlari-korumak/telefon-ve-tabletlerde-guevenlik.md)
 * [Uygulama Güvenliği](kisisel-cihazlari-korumak/uygulama-guevenligi.md)
 
+## Veri İhlalleri Öncesi ve Sonrası
+
+* [⚔ Veri İhlalleri Sonrası Korunma Yolları](veri-ihlalleri-oencesi-ve-sonrasi/veri-ihlalleri-sonrasi-korunma-yollari.md)
+
 ## Sosyal Medya Güvenliği
 
 * [🐦 Sosyal Medya Güvenliği](sosyal-medya-guevenligi/sosyal-medya-kullanimi.md)
 * [🗼 Sosyal Medya Kullanımı](sosyal-medya-guevenligi/sosyal-medya-kullanimi-1.md)
-* [Aşk Dolandırıcılığı](sosyal-medya-guevenligi/ask-dolandiriciligi.md)
 * [Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/README.md)
   * [Instagram](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/instagram.md)
   * [Facebook](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/facebook.md)
   * [Twitter](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/twitter.md)
   * [Tiktok](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/tiktok.md)
 
+## Dolandırıcılık ve Oltalama
+
+* [Dolandırıcılık Türleri](dolandiricilik-ve-oltalama/dolandiricilik-tuerleri.md)
+* [Oltalama Türleri](dolandiricilik-ve-oltalama/oltalama-tuerleri.md)
+
 ## Ebeveyniler İçin Güvenlik
 
 * [Çocuklar İçin Güvenlik](ebeveyniler-icin-guevenlik/check-this-out-2.md)
-
-## Veri İhlalleri Öncesi ve Sonrası
-
-* [⚔ Veri İhlalleri Sonrası Korunma Yolları](veri-ihlalleri-oencesi-ve-sonrasi/veri-ihlalleri-sonrasi-korunma-yollari.md)
-
-## Dolandırıcılık Türleri
-
-* [Dolandırıcılık](dolandiricilik-tuerleri/dolandiricilik.md)
 
 ## Referanslar
 
