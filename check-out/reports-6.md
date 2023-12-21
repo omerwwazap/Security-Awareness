@@ -24,6 +24,12 @@ Cool Stuff will check later and add to other documents;
 
 
 
+
+
+[https://cybercrime.org.za/international-resources](https://cybercrime.org.za/international-resources)
+
+[https://cybercrime.org.za/local-resources](https://cybercrime.org.za/local-resources)
+
 [https://www.ownyouronline.govt.nz/personal/get-protected/guides/keeping-cryptocurrency-secure/](https://www.ownyouronline.govt.nz/personal/get-protected/guides/keeping-cryptocurrency-secure/)
 
 [https://www.ownyouronline.govt.nz/personal/know-the-risks/busting-myths-about-online-security/](https://www.ownyouronline.govt.nz/personal/know-the-risks/busting-myths-about-online-security/)
