@@ -21,17 +21,17 @@ Sanal Kredi kartı, Apple Pay veya Google Pay gibi bir ödeme platformu kullanma
 {% tab title="HTTP" %}
 <div data-full-width="false">
 
-<figure><img src="broken-reference" alt=""><figcaption><p><strong>Chrome</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-21 104037.png" alt=""><figcaption><p><strong>Chrome</strong></p></figcaption></figure>
 
 </div>
 
-<figure><img src="broken-reference" alt=""><figcaption><p><strong>Firefox</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-21 104057.png" alt=""><figcaption><p><strong>Firefox</strong></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="HTTPS" %}
-<figure><img src="broken-reference" alt=""><figcaption><p><strong>Chrome</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-21 104000.png" alt=""><figcaption><p><strong>Firefox</strong></p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p><strong>Firefox</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-21 104026.png" alt=""><figcaption><p><strong>Chrome</strong></p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
