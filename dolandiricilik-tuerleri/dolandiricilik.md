@@ -15,3 +15,5 @@ Bakılacak
 {% embed url="https://www.scamwatch.gov.au/types-of-scams/dating-romance" %}
 
 {% embed url="https://www.actionfraud.police.uk/campaign/fall-for-the-person-not-the-profile" %}
+
+{% embed url="https://petscams.com/" %}
