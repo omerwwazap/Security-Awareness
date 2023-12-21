@@ -63,7 +63,7 @@
 * [📺 Eski Cihazların Kullanımı](kisisel-cihazlari-korumak/eski-cihazlarin-kullanimi.md)
 * [🆕 Yeni Cihazların Hazırlanması](kisisel-cihazlari-korumak/yeni-cihazlarin-hazirlanmasi.md)
 * [Uygulama Güvenliği](kisisel-cihazlari-korumak/uygulama-guevenligi.md)
-* [QR Kodlar](kisisel-cihazlari-korumak/qr-kodlar.md)
+* [🏁 QR Kodlar](kisisel-cihazlari-korumak/qr-kodlar.md)
 
 ## Veri İhlalleri Öncesi ve Sonrası
 
