@@ -12,7 +12,7 @@
 
 ## Genel
 
-* [Online Güvenlikle İlgili Doğru Bilinen Yanlışlar](genel/siber-guevenlik-terimleri-soezluegue.md)
+* [🐲 Online Güvenlikle İlgili Doğru Bilinen Yanlışlar](genel/siber-guevenlik-terimleri-soezluegue.md)
 * [🆘 Dolandırıcılığın Basit Tespit Yöntemleri](genel/dolandiriciligin-basit-tespit-yoentemleri.md)
 * [Resmi Bildirimler](genel/resmi-bildirimler.md)
 
