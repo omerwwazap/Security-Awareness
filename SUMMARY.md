@@ -84,6 +84,10 @@
 
 * [⚔ Veri İhlalleri Sonrası Korunma Yolları](veri-ihlalleri-oencesi-ve-sonrasi/veri-ihlalleri-sonrasi-korunma-yollari.md)
 
+## Dolandırıcılık Türleri
+
+* [Dolandırıcılık](dolandiricilik-tuerleri/dolandiricilik.md)
+
 ## Referanslar
 
 * [‼ Referanslar](referanslar/referanslar.md)
@@ -91,7 +95,3 @@
 ## Check Out
 
 * [Check Out](check-out/reports-6.md)
-
-## Dolandırıcılık Türleri
-
-* [Dolandırıcılık](dolandiricilik-tuerleri/dolandiricilik.md)
