@@ -4,7 +4,7 @@ description: >-
   erişmenin en sevilen yolu uygulamalar haline geldi.
 ---
 
-# Uygulama Güvenliği
+# 🈸 Uygulama Güvenliği
 
 Uygulamalar içerik ve hizmetlere erişmek için basit ve kolay bir yol sağlarken, bunların nasıl güvenli ve emniyetli bir şekilde kullanılacağının farkında olmak önemlidir.
 

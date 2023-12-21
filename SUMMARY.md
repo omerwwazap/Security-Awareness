@@ -62,7 +62,7 @@
 * [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlari-korumak/telefon-ve-tabletlerde-guevenlik.md)
 * [📺 Eski Cihazların Kullanımı](kisisel-cihazlari-korumak/eski-cihazlarin-kullanimi.md)
 * [🆕 Yeni Cihazların Hazırlanması](kisisel-cihazlari-korumak/yeni-cihazlarin-hazirlanmasi.md)
-* [Uygulama Güvenliği](kisisel-cihazlari-korumak/uygulama-guevenligi.md)
+* [🈸 Uygulama Güvenliği](kisisel-cihazlari-korumak/uygulama-guevenligi.md)
 * [🏁 QR Kodlar](kisisel-cihazlari-korumak/qr-kodlar.md)
 
 ## Veri İhlalleri Öncesi ve Sonrası
@@ -77,7 +77,7 @@
 
 ## Dolandırıcılık ve Oltalama
 
-* [Dolandırıcılık Türleri](dolandiricilik-tuerleri/dolandiricilik.md)
+* [🐶  Dolandırıcılık Türleri](dolandiricilik-ve-oltalama/dolandiricilik-tuerleri.md)
 * [Oltalama Türleri](dolandiricilik-ve-oltalama/oltalama-tuerleri.md)
 
 ## Ebeveyniler İçin Güvenlik
