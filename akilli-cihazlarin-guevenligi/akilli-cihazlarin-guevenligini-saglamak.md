@@ -10,6 +10,8 @@ Internete bağlı diğer herhangi bir cihaz gibi, potansiyel siber suçluların 
 
 Nesnelerin İnterneti (IoT) teknolojisine örnek olarak ev güvenlik sistemleri, fitness/sağlık izleyicileri ve bazı evrensel uzaktan kumandalar ve ses kontrollü hoparlörler sayılabilir.
 
+<figure><img src="../.gitbook/assets/asdgarse.png" alt=""><figcaption></figcaption></figure>
+
 ### IoT nasıl çalışır?
 
 Herhangi bir IoT cihazının kalbinde, WiFi'ye bağlanmasını sağlayan bir WiFi çipi bulunur. IoT cihazları, sensörlerinden verileri toplar ve bir sonraki adımda ne yapılacağını belirlemek için içerisindeki yazılımları kullanarak kararlar alır yada üretici şirketin sunucuları ile konuşur.

@@ -8,6 +8,8 @@ Hesaplarınıza çevrimiçi olarak giriş yaptığınızda, bunu yapmak için ç
 
 Bir kullanıcı adı ve şifre oturum açma methoduna güvenmenin sorunu, şifrenizi her zaman güvende tutulamamasıdır. 2FA ile başka bir güvenlik düzeyi eklemek, bir saldırganın çevrimiçi hesaplarınıza erişmesini zorlaştırır - yalnızca şifrenizi bilmek hesaba giriş için yeterli değildir.
 
+<figure><img src="../.gitbook/assets/0Untitled.png" alt=""><figcaption></figcaption></figure>
+
 ### 2FA Nasıl çalışır
 
 Bir kullanıcı adı ve şifre ile bir hesaba giriş yaptığınızda, tek faktörlü kimlik doğrulama denilen şeyi kullanırsınız. Söylediğiniz kişi olduğunuzu doğrulamak için tek bir şeye ihtiyacınız var - **şifreniz**.

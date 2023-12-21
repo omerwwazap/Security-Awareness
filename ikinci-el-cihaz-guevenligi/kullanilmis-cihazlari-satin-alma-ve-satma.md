@@ -14,7 +14,7 @@ Ayrıca, edinmiş olabileceğiniz herhangi bir ikinci el cihazı kullanmaya baş
 Bu doküman telefon, tablet ve bilgisayarınız gibi cihazlar hakkında bilgi içermektedir. IoT cihazlarınız, akıllı saatler veya oyun konsolları gibi cihazlar da verilerinizi saklayabilir. Bu tür cihazlardan verilerinizi nasıl sileceğinizi öğrenmek için üreticinin web sitesine bakın (genellikle **"fabrika ayarlarına sıfırlama"** olarak adlandırılan bir süreçtir). Daha fazla bilgi için [Broken link](broken-reference "mention") dokümanımıza bakabilirsiniz.
 {% endhint %}
 
-
+<figure><img src="../.gitbook/assets/asdasd.png" alt=""><figcaption></figcaption></figure>
 
 ### Cihazdaki Verileri Silmeden Önce!
 

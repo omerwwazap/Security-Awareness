@@ -7,9 +7,7 @@ description: >-
 
 # 🌍 Uzaktan Çalışmada Güvenlik
 
-### Turkcell ağlarında olan bazı güvenlik önlemleri ev ağınızda mevcut olmayabilir. Bunlar, web filtreleme ve güvenlik duvarları gibi ve daha farklı güvenlik önlemlerini içerir.&#x20;
-
-### Yalnızca güvendiğiniz WiFi'yi kullanın
+### &#x20;Yalnızca güvendiğiniz WiFi'yi kullanın
 
 Kütüphane, havaalanı veya kafe WiFi gibi paylaşılan WiFi'ler yerine ev ağınız gibi güvenilir bir WiFi kullanın. Saldırganlar, WiFi üzerinden gönderdiğiniz verileri ortadaki kişi (veya man-in-the-middle) adı verilen bir saldırı kullanarak verileri okuyabilir veya değdirebilir.
 
