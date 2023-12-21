@@ -6,10 +6,6 @@ description: >-
 
 # 🐦 Sosyal Medya Güvenliği
 
-{% hint style="info" %}
-[sosyal-medya-kullanimi-1.md](sosyal-medya-kullanimi-1.md "mention") ile birleştirilebilir.
-{% endhint %}
-
 ### Login'lerinize dikkat edin
 
 Hesaplarınıza nereden ve nasıl giriş yaptığınızı düşünmek önemlidir.

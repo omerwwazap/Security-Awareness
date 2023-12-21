@@ -60,7 +60,6 @@
 * [🕸 Ev Ağınızın Güvenliği](kisisel-cihazlari-korumak/cihaz-ve-ag-guevenligi.md)
 * [💾 Depolama ve Yedekleme](<kisisel-cihazlari-korumak/Depolama ve Yedekleme.md>)
 * [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlari-korumak/telefon-ve-tabletlerde-guevenlik.md)
-* [Uygulama Güvenliği](kisisel-cihazlari-korumak/uygulama-guevenligi.md)
 
 ## Veri İhlalleri Öncesi ve Sonrası
 
@@ -70,15 +69,11 @@
 
 * [🐦 Sosyal Medya Güvenliği](sosyal-medya-guevenligi/sosyal-medya-kullanimi.md)
 * [🗼 Sosyal Medya Kullanımı](sosyal-medya-guevenligi/sosyal-medya-kullanimi-1.md)
-* [Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/README.md)
-  * [Instagram](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/instagram.md)
-  * [Facebook](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/facebook.md)
-  * [Twitter](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/twitter.md)
-  * [Tiktok](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/tiktok.md)
+* [🦺 Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma.md)
 
 ## Dolandırıcılık ve Oltalama
 
-* [Dolandırıcılık Türleri](dolandiricilik-ve-oltalama/dolandiricilik-tuerleri.md)
+* [Dolandırıcılık Türleri](dolandiricilik-tuerleri/dolandiricilik.md)
 * [Oltalama Türleri](dolandiricilik-ve-oltalama/oltalama-tuerleri.md)
 
 ## Ebeveyniler İçin Güvenlik

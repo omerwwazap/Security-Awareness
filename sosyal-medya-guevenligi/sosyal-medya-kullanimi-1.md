@@ -6,10 +6,6 @@ description: >-
 
 # 🗼 Sosyal Medya Kullanımı
 
-{% hint style="info" %}
-[sosyal-medya-kullanimi.md](sosyal-medya-kullanimi.md "mention") ile birleştirilebilir.
-{% endhint %}
-
 Sosyal medya, aileniz ve arkadaşlarınızla iletişimde kalmanın ve güncel haberlerden haberdar olmanın harika bir yoludur. Ancak, onu nasıl kullandığınıza dikkat etmezseniz, sosyal medya, siber suçluların sizin hakkınızda daha fazla bilgi edinmesi için de kolay bir yoldur. Paylaşım yapmadan önce önlem aldığınızdan emin olun
 
 ### Gizlilik ayarlarını düzenleyin
