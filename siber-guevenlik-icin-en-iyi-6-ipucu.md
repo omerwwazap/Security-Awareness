@@ -69,7 +69,7 @@ Antivirüs yazılımı, bilgisayar sisteminizden kötü amaçlı yazılımları 
 * Bilgisayarınıza bir virüsten koruma programı yükleyin. veya işletim sisteminiz ile gelen programın açık olduğundan emin olsun.
 * Düzenli olarak, örneğin her hafta çalıştırın ve tanımladığı virüsleri temizleyin.
 
-Daha fazla bilgi için [zarali-yazilimlarindan-korunmak-icin-ipuclari.md](zararli-yazilim-kaldirma/zarali-yazilimlarindan-korunmak-icin-ipuclari.md "mention") hakkındaki yazımıza bakabilirsiniz.
+Daha fazla bilgi için [zararli-yazilimlardan-korunmak.md](zararli-yazilimlar/zararli-yazilimlardan-korunmak.md "mention") hakkındaki yazımıza bakabilirsiniz.
 
 ### 6. Verilerinizi yedekleyin
 
@@ -81,4 +81,4 @@ Cihazlarınızdaki verileri başka bir yere kopyalayarak yedeklemek yapabileceğ
 * iCloud, Google Cloud, Dropbox ve Lifebox gibi bir bulut tabanlı hizmete kaydolun ve bir bulut yedeklemesi yapın.
 * Verilerinizi düzenli olarak yedekleyin.
 
-Daha fazla bilgi için [Depolama ve Yedekleme.md](<kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md> "mention") hakkındaki yazımıza bakabilirsiniz.
+Daha fazla bilgi için [Depolama ve Yedekleme.md](<kisisel-cihazlari-korumak/Depolama ve Yedekleme.md> "mention") hakkındaki yazımıza bakabilirsiniz.

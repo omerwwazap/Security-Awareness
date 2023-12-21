@@ -17,7 +17,7 @@ Hesaplarınıza nereden ve nasıl giriş yaptığınızı düşünmek önemlidir
 * Sosyal medya sitelerine erişmek için yer imlerini veya favorileri kullanın veya URL'leri tarayıcınıza yazın
 * Tarayıcınızın veya web sitenizin, giriş bilgilerinizi kütüphane bilgisayarları, ortak kullanım tabletler gibi herkese açık cihazlarda saklamadığından veya hatırlamadığından emin olun. Bunu yaparsanız ve başka biri bu cihazı kullanırsa, sosyal medya hesaplarınıza da erişebilir.
 * Örneğin bir kafede oturum açıyorsanız, ücretsiz WiFi kullanarak sosyal medya hesaplarınıza giriş yaparken dikkatli olun. Bu ağlar "güvenilmez" ağlardır. Bu, başkalarının, ne yaptığınızı görebilmesinin mümkün olduğu anlamına gelir. Daha fazla bilgi için [Broken link](broken-reference "mention") dokümanmıza bakabilirsiniz.
-* Sosyal medya hesaplarınıza telefonunuzdaki veya tabletinizdeki bir uygulama üzerinden erişim sağlıyorsanız, telefonunuzu kullanmadığınız zamanlarda mutlaka kilitleyin. Daha fazla bilgi için [telefon-ve-tabletlerde-guevenlik.md](../kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md "mention") dokümanmıza bakabilirsiniz.
+* Sosyal medya hesaplarınıza telefonunuzdaki veya tabletinizdeki bir uygulama üzerinden erişim sağlıyorsanız, telefonunuzu kullanmadığınız zamanlarda mutlaka kilitleyin. Daha fazla bilgi için [telefon-ve-tabletlerde-guevenlik.md](../kisisel-cihazlari-korumak/telefon-ve-tabletlerde-guevenlik.md "mention") dokümanmıza bakabilirsiniz.
 
 ### Hesaplarınızda güçlü şifreler kullanın
 

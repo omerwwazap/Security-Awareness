@@ -17,7 +17,7 @@ Halka açık WiFi'i kullanmak yerine telefonunuzun Kişisel Erişim Noktasını 
 
 Halka açık WiFi' üzerinde kritik işlemler yapmak zorunda isek zaman şirket ağına, VPN ile bağlanarak güvenli bir bağlantı üzerinden işlemlerimizi gerçekleştirin.
 
-Ev ağınızı daha güvenli yapmak için [cihaz-ve-ag-guevenligi.md](../kisisel-cihazlarinizi-korumak/cihaz-ve-ag-guevenligi.md "mention") adlı dokümanız bakabilirsiniz.
+Ev ağınızı daha güvenli yapmak için [cihaz-ve-ag-guevenligi.md](../kisisel-cihazlari-korumak/cihaz-ve-ag-guevenligi.md "mention") adlı dokümanız bakabilirsiniz.
 
 ### Fiziksel güvenliğe dikkat!
 

@@ -17,11 +17,31 @@ Sanal Kredi kartı, Apple Pay veya Google Pay gibi bir ödeme platformu kullanma
 
 Ödeme zamanı geldiğinde, tarayıcının adres çubuğunda "kapalı asma kilit" simgesi olup olmadığını kontrol edin. Alternatif olarak, URL'nin başlangıcının **http://** yerine <mark style="color:green;">**https://**</mark> ile başladığını kontrol edin.&#x20;
 
-![](https://camo.githubusercontent.com/02b962295caa1279152c2a6825a7a1d5717247be3f1526566aa70858bbd025de/68747470733a2f2f757365722d6d656469612d70726f642d63646e2e69747372652d73756d6f2e6d6f7a696c6c612e6e65742f75706c6f6164732f67616c6c6572792f696d616765732f323032312d30352d30362d30342d32392d35352d3535303766342e706e67)
+{% tabs %}
+{% tab title="HTTP" %}
+<div data-full-width="false">
+
+<figure><img src="broken-reference" alt=""><figcaption><p><strong>Chrome</strong></p></figcaption></figure>
+
+</div>
+
+<figure><img src="broken-reference" alt=""><figcaption><p><strong>Firefox</strong></p></figcaption></figure>
+{% endtab %}
+
+{% tab title="HTTPS" %}
+<figure><img src="broken-reference" alt=""><figcaption><p><strong>Chrome</strong></p></figcaption></figure>
+
+<figure><img src="broken-reference" alt=""><figcaption><p><strong>Firefox</strong></p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 <mark style="color:red;">Asma kilit simgesi orada değilse veya tarayıcı güvenli değil diyorsa siteyi kullanmayın. Herhangi bir kişisel veya ödeme detayı girmeyin veya bir hesap oluşturmayın.</mark>
 
-**Asma **<mark style="color:green;">**kilit simgesi**</mark>** ve **<mark style="color:green;">**https://**</mark>** olması, web sitesinin **<mark style="color:red;">**güvenilir/itibarlı olduğunu garanti etmez**</mark>**.** Bu, tarayıcınızdan web sunucusuna olan bağlantının şifreli olduğu ve gönderdiğiniz bilgileri başka hiç kimsenin kopyalayamayacağı anlamına gelir.
+**Asma **<mark style="color:green;">**kilit simgesi**</mark>** ve **<mark style="color:green;">**https://**</mark>** olması, web sitesinin **<mark style="color:red;">**güvenilir/itibarlı olduğunu garanti etmez.**</mark> Bu, tarayıcınızdan web sunucusuna olan bağlantının şifreli olduğu ve gönderdiğiniz bilgileri başka hiç kimsenin kopyalayamayacağı anlamına gelir.
+
+{% hint style="success" %}
+Bu sebeple Chrome artık kilit simgesini tarayıcılarda **göstermiyor.**&#x20;
+{% endhint %}
 
 ### Yalnızca satın alma işleminizi tamamlamak için yeterli bilgileri girin
 

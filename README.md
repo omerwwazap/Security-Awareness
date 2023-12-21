@@ -93,9 +93,9 @@ Emoji olan yazılar bitmiştir ancak yazım hataları için taranmamıştır.
 
 [Broken link](broken-reference "mention")
 
-[akilli-cihazlarin-riskleri.md](iot-cihaz-guevenligi/akilli-cihazlarin-riskleri.md "mention")
+[akilli-cihazlarin-riskleri.md](akilli-cihazlarin-guevenligi/akilli-cihazlarin-riskleri.md "mention")
 
-[oyun-konsollari-icin-guevenlik.md](iot-cihaz-guevenligi/oyun-konsollari-icin-guevenlik.md "mention")
+[oyun-konsollari-icin-guevenlik.md](akilli-cihazlarin-guevenligi/oyun-konsollari-icin-guevenlik.md "mention")
 
 </details>
 
@@ -115,13 +115,13 @@ Emoji olan yazılar bitmiştir ancak yazım hataları için taranmamıştır.
 
 [fidye-yazilimlari-ve-tarihi.md](zararli-yazilimlar/fidye-yazilimlari-ve-tarihi.md "mention")
 
-[zararli-yazilim-kaldirma-kilavuzu.md](zararli-yazilim-kaldirma/zararli-yazilim-kaldirma-kilavuzu.md "mention")
+[zararli-yazilim-kaldirma-kilavuzu.md](zararli-yazilimlar/zararli-yazilim-kaldirma-kilavuzu.md "mention")
 
-[virueslue-bir-cihaz-nasil-kurtarilir.md](zararli-yazilim-kaldirma/virueslue-bir-cihaz-nasil-kurtarilir.md "mention")
+[virueslue-bir-cihaz-nasil-kurtarilir.md](zararli-yazilimlar/virueslue-bir-cihaz-nasil-kurtarilir.md "mention")
 
-[ransomware-sifre-coezme-ve-tanimlama-araclari.md](zararli-yazilim-kaldirma/ransomware-sifre-coezme-ve-tanimlama-araclari.md "mention")
+[ransomware-sifre-coezme-ve-tanimlama-araclari.md](zararli-yazilimlar/ransomware-sifre-coezme-ve-tanimlama-araclari.md "mention")
 
-[zarali-yazilimlarindan-korunmak-icin-ipuclari.md](zararli-yazilim-kaldirma/zarali-yazilimlarindan-korunmak-icin-ipuclari.md "mention")
+[zararli-yazilimlardan-korunmak.md](zararli-yazilimlar/zararli-yazilimlardan-korunmak.md "mention")
 
 </details>
 
@@ -129,13 +129,13 @@ Emoji olan yazılar bitmiştir ancak yazım hataları için taranmamıştır.
 
 <summary>Kişisel Cihazları Korumak</summary>
 
-[cihaz-ve-ag-guevenligi.md](kisisel-cihazlarinizi-korumak/cihaz-ve-ag-guevenligi.md "mention")
+[cihaz-ve-ag-guevenligi.md](kisisel-cihazlari-korumak/cihaz-ve-ag-guevenligi.md "mention")
 
-[Depolama ve Yedekleme.md](<kisisel-cihazlarinizi-korumak/Depolama ve Yedekleme.md> "mention")
+[Depolama ve Yedekleme.md](<kisisel-cihazlari-korumak/Depolama ve Yedekleme.md> "mention")
 
-[telefon-ve-tabletlerde-guevenlik.md](kisisel-cihazlarinizi-korumak/telefon-ve-tabletlerde-guevenlik.md "mention")
+[telefon-ve-tabletlerde-guevenlik.md](kisisel-cihazlari-korumak/telefon-ve-tabletlerde-guevenlik.md "mention")
 
-[uygulama-guevenligi.md](kisisel-cihazlarinizi-korumak/uygulama-guevenligi.md "mention")
+[uygulama-guevenligi.md](kisisel-cihazlari-korumak/uygulama-guevenligi.md "mention")
 
 </details>
 
@@ -147,7 +147,7 @@ Emoji olan yazılar bitmiştir ancak yazım hataları için taranmamıştır.
 
 [sosyal-medya-kullanimi-1.md](sosyal-medya-guevenligi/sosyal-medya-kullanimi-1.md "mention")
 
-[ask-dolandiriciligi.md](sosyal-muehendislik/ask-dolandiriciligi.md "mention")
+[ask-dolandiriciligi.md](sosyal-medya-guevenligi/ask-dolandiriciligi.md "mention")
 
 [calinmis-bir-hesabi-kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma/ "mention")
 
@@ -157,7 +157,7 @@ Emoji olan yazılar bitmiştir ancak yazım hataları için taranmamıştır.
 
 <summary>Ebeveyniler için Güvenlik</summary>
 
-[check-this-out-2.md](cocuklar-icin-guevenlik/check-this-out-2.md "mention")
+[check-this-out-2.md](ebeveyniler-icin-guevenlik/check-this-out-2.md "mention")
 
 </details>
 
