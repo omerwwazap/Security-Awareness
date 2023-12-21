@@ -22,6 +22,7 @@ description: >-
 * [Bilgi Teknolojileri ve İletişim Kurumu](https://internet.btk.gov.tr/internet-kullaniminda-cocuk-ve-aile-iliskisi)
 * [Güvenli Net Platformu](https://www.guvenlinet.org.tr/)
 * [Siber Ay Platformu](https://www.siberay.com/)&#x20;
+* [Get Safe Online](https://www.getsafeonline.org/)
 
 GitHub Sync Repo: [https://github.com/omerwwazap/Security-Awareness](https://github.com/omerwwazap/Security-Awareness)
 

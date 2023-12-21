@@ -60,6 +60,10 @@
 * [🕸 Ev Ağınızın Güvenliği](kisisel-cihazlari-korumak/cihaz-ve-ag-guevenligi.md)
 * [💾 Depolama ve Yedekleme](<kisisel-cihazlari-korumak/Depolama ve Yedekleme.md>)
 * [📲 Telefon ve Tabletlerde Güvenlik](kisisel-cihazlari-korumak/telefon-ve-tabletlerde-guevenlik.md)
+* [📺 Eski Cihazların Kullanımı](kisisel-cihazlari-korumak/eski-cihazlarin-kullanimi.md)
+* [🆕 Yeni Cihazların Hazırlanması](kisisel-cihazlari-korumak/yeni-cihazlarin-hazirlanmasi.md)
+* [Uygulama Güvenliği](kisisel-cihazlari-korumak/uygulama-guevenligi.md)
+* [QR Kodlar](kisisel-cihazlari-korumak/qr-kodlar.md)
 
 ## Veri İhlalleri Öncesi ve Sonrası
 

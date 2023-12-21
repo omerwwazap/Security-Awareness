@@ -66,8 +66,12 @@ Verilerinizin tamamen silindiğinden emin olmak için cihazınızın **Tüm İç
 \*\*Bir uzman - özel araçlar kullanarak - yine de bir cihazdaki verileri kurtarabilir. Verilerin bir daha asla kurtarılamayacağından gerçekten emin olmanız gerekiyorsa [Secure Sanitisation](https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media) adlı dokümana bakmanızı tavsiye ederiz.
 {% endhint %}
 
+Daha fazla bilgi için [yeni-cihazlarin-hazirlanmasi.md](../kisisel-cihazlari-korumak/yeni-cihazlarin-hazirlanmasi.md "mention") ve [eski-cihazlarin-kullanimi.md](../kisisel-cihazlari-korumak/eski-cihazlarin-kullanimi.md "mention") bölümüne bakılabilir.
+
 ### Desteklenmeyen Bir Cihazınız Varsa
 
 * **Değiştirmek için plan yapın.** Tabletinizin veya telefonunuzun ne kadar süreyle destekleneceğini bilin ve kullanım ömrü sona ermeden önce her zaman değiştirmeyi planlayın. Ömrünü tamamlamış cihazlarınızı mümkün olan en kısa sürede değiştirmeyi planlamaya başlayın.
 * **Verilerinizi azaltın.** Cihazın bozulması ve verilerin kaybolması ihtimaline karşı önemsediğiniz verileri üzerinde saklamayın. Cihazda depolanan tüm verilerin ayrı bir sabit sürücüde veya çevrimiçi olarak yedeklendiğinden emin olun. Buna önemli belgeler, fotoğraflar ve e-postalar dahildir.
 * **Güvenli kullanım pratikleri uygulayın.** Cihazı değiştiremiyorsanız, güvenli kullanım alıştırması yaparak güvenlik riskinizi azaltın. Bluetooth'u ve tüm WiFi'yi kapatmayı düşünün
+
+Daha fazla bilgi için [yeni-cihazlarin-hazirlanmasi.md](../kisisel-cihazlari-korumak/yeni-cihazlarin-hazirlanmasi.md "mention") ve [eski-cihazlarin-kullanimi.md](../kisisel-cihazlari-korumak/eski-cihazlarin-kullanimi.md "mention") bölümüne bakılabilir.

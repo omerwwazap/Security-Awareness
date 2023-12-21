@@ -10,9 +10,15 @@ Planlama Aşamasındadır
 
 {% embed url="https://www.siberay.com/sosyal-medya-mecralari" %}
 
+{% embed url="https://www.getsafeonline.org/personal/article-category/safeguarding-children/" %}
+
 {% embed url="https://www.siberay.com/ebeveyn-kontrolu" %}
 
+{% embed url="https://www.familygamingdatabase.com/" %}
+
 {% embed url="https://www.thinkuknow.co.uk/parents/articles/gaming/" %}
+
+{% embed url="https://www.getsafeonline.org/personal/articles/online-gaming/" %}
 
 {% embed url="https://www.guvenlinet.org.tr/" %}
 
