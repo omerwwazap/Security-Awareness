@@ -23,6 +23,8 @@ description: >-
 * [Güvenli Net Platformu](https://www.guvenlinet.org.tr/)
 * [Siber Ay Platformu](https://www.siberay.com/)&#x20;
 * [Get Safe Online](https://www.getsafeonline.org/)
+* [Dolandırıcılık uyarıları - Western Union](https://www.westernunion.com/tr/tr/fraudawareness/fraud-home.html)
+* [Own Your Online - Gov NZ](https://www.ownyouronline.govt.nz/)
 
 GitHub Sync Repo: [https://github.com/omerwwazap/Security-Awareness](https://github.com/omerwwazap/Security-Awareness)
 
