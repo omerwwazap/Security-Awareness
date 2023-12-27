@@ -2,7 +2,7 @@
 
 * [Siber Güvenlik Farkındalığı](README.md)
 * [6⃣ Siber Güvenlik İçin En İyi 6 İpucu](siber-guevenlik-icin-en-iyi-6-ipucu.md)
-* [ToDo](todo.md)
+* [🏗 ToDo](todo.md)
 
 ## Sözlük
 

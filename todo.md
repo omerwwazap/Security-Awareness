@@ -2,7 +2,7 @@
 description: Planlanan ve Geliştirme Yapılacak Başlıklar
 ---
 
-# ToDo
+# 🏗 ToDo
 
 Planlanan konular
 
