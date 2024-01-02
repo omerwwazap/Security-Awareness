@@ -23,12 +23,13 @@ layout:
 
 # Siber Güvenlik Farkındalığı
 
-{% hint style="danger" %}
-Tüm kitap yapım aşamasındadır.
-{% endhint %}
-
 {% hint style="warning" %}
 Emoji olan yazılar bitmiştir ancak yazım hataları için taranmamıştır.
 {% endhint %}
+
+<mark style="color:green;">**Dünyada e-Dolandırıcılık ve Oltalama Trendleri**</mark> hakkında bilgi almak için burada paylaşılan yazıyı okuyabilirsiniz. Bu yazılarda, dolandırıcıların nasıl düşündüğünü, hazırlandığını ve çalıştığını güncel örnekleri ile göreceksiniz. Ek olarak dünya çapından istatistiklerini bulabilirsiniz.
+
+* [Dünyada eDolandırıcılık ve Oltalama Trendleri - 2023](https://omerwwazap.github.io/blog/posts/PhishTrend2023/)
+* [Dünyada eDolandırıcılık ve Oltalama Trendleri - 2022](https://omerwwazap.github.io/blog/posts/PhishTrend2022/)
 
 Başlıklara sol tafrataki içerik listesinden bakabilirsiniz.
