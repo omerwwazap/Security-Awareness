@@ -75,6 +75,7 @@
 * [🐦 Sosyal Medya Güvenliği](sosyal-medya-guevenligi/sosyal-medya-kullanimi.md)
 * [🗼 Sosyal Medya Kullanımı](sosyal-medya-guevenligi/sosyal-medya-kullanimi-1.md)
 * [🦺 Çalınmış Bir Hesabı Kurtarma](sosyal-medya-guevenligi/calinmis-bir-hesabi-kurtarma.md)
+* [Sahte ve Zaralı Reklamlar](sosyal-medya-guevenligi/sahte-ve-zarali-reklamlar.md)
 
 ## Dolandırıcılık ve Oltalama
 
